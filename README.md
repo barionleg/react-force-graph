@@ -19,31 +19,60 @@ Supports zooming/panning, node dragging and node/link hover/click interactions.
 
 ## Examples
 
-* [Basic](https://vasturiano.github.io/react-force-graph/example/basic/) ([source](https://github.com/vasturiano/react-force-graph/blob/master/example/basic/index.html))
-* [Directional arrows](https://vasturiano.github.io/react-force-graph/example/directional-links-arrows/) ([source](https://github.com/vasturiano/react-force-graph/blob/master/example/directional-links-arrows/index.html))
-* [Directional moving particles](https://vasturiano.github.io/react-force-graph/example/directional-links-particles/) ([source](https://github.com/vasturiano/react-force-graph/blob/master/example/directional-links-particles/index.html))
-* [Auto-colored nodes/links](https://vasturiano.github.io/react-force-graph/example/auto-colored/) ([source](https://github.com/vasturiano/react-force-graph/blob/master/example/auto-colored/index.html))
-* [AR graph](https://vasturiano.github.io/react-force-graph/example/ar-graph/index.html) ([source](https://github.com/vasturiano/react-force-graph/blob/master/example/ar-graph/index.html))
-* [2D Text nodes](https://vasturiano.github.io/react-force-graph/example/text-nodes/index-2d.html) ([source](https://github.com/vasturiano/react-force-graph/blob/master/example/text-nodes/index-2d.html))
-* [3D Text nodes](https://vasturiano.github.io/react-force-graph/example/text-nodes/index-3d.html) ([source](https://github.com/vasturiano/react-force-graph/blob/master/example/text-nodes/index-3d.html))
-* [Image nodes](https://vasturiano.github.io/react-force-graph/example/img-nodes/) ([source](https://github.com/vasturiano/react-force-graph/blob/master/example/img-nodes/index.html))
-* [HTML in nodes](https://vasturiano.github.io/react-force-graph/example/html-nodes/) ([source](https://github.com/vasturiano/react-force-graph/blob/master/example/html-nodes/index.html))
-* [Custom 2D node shapes](https://vasturiano.github.io/react-force-graph/example/custom-node-shape/index-canvas.html) ([source](https://github.com/vasturiano/react-force-graph/blob/master/example/custom-node-shape/index-canvas.html))
-* [Custom 3D/VR node geometries](https://vasturiano.github.io/react-force-graph/example/custom-node-shape/index-three.html) ([source](https://github.com/vasturiano/react-force-graph/blob/master/example/custom-node-shape/index-three.html))
-* [Curved lines and self links](https://vasturiano.github.io/react-force-graph/example/curved-links/) ([source](https://github.com/vasturiano/react-force-graph/blob/master/example/curved-links/index.html))
-* [Text in links](https://vasturiano.github.io/react-force-graph/example/text-links/index-3d.html) ([source](https://github.com/vasturiano/react-force-graph/blob/master/example/text-links/index-3d.html))
-* [Highlight nodes/links](https://vasturiano.github.io/react-force-graph/example/highlight/) ([source](https://github.com/vasturiano/react-force-graph/blob/master/example/highlight/index.html))
-* [Larger graph](https://vasturiano.github.io/react-force-graph/example/large-graph/) ([source](https://github.com/vasturiano/react-force-graph/blob/master/example/large-graph/index.html))
-* [Dynamic data changes](https://vasturiano.github.io/react-force-graph/example/dynamic/) ([source](https://github.com/vasturiano/react-force-graph/blob/master/example/dynamic/index.html))
-* [Click to focus on node](https://vasturiano.github.io/react-force-graph/example/click-to-focus/) ([source](https://github.com/vasturiano/react-force-graph/blob/master/example/click-to-focus/index.html))
-* [Click to expand/collapse nodes](https://vasturiano.github.io/react-force-graph/example/expandable-nodes/) ([source](https://github.com/vasturiano/react-force-graph/blob/master/example/expandable-nodes/index.html))
-* [Fix nodes after dragging](https://vasturiano.github.io/react-force-graph/example/fix-dragged-nodes/) ([source](https://github.com/vasturiano/react-force-graph/blob/master/example/fix-dragged-nodes/index.html))
-* [Fit graph to canvas](https://vasturiano.github.io/react-force-graph/example/fit-to-canvas/) ([source](https://github.com/vasturiano/react-force-graph/blob/master/example/fit-to-canvas/index.html))
-* [Camera automatic orbitting](https://vasturiano.github.io/react-force-graph/example/camera-auto-orbit/) ([source](https://github.com/vasturiano/react-force-graph/blob/master/example/camera-auto-orbit/index.html))
-* [Node collision detection](https://vasturiano.github.io/react-force-graph/example/collision-detection/) ([source](https://github.com/vasturiano/react-force-graph/blob/master/example/collision-detection/index.html))
-* [Emit link particles on demand](https://vasturiano.github.io/react-force-graph/example/emit-particles/) ([source](https://github.com/vasturiano/react-force-graph/blob/master/example/emit-particles/index.html))
-* [Force-directed tree (DAG mode)](https://vasturiano.github.io/react-force-graph/example/tree/) ([source](https://github.com/vasturiano/react-force-graph/blob/master/example/tree/index.html))
-* [Bloom Post-Processing Effect](https://vasturiano.github.io/react-force-graph/example/bloom-effect/) ([source](https://github.com/vasturiano/react-force-graph/blob/master/example/bloom-effect/index.html))
+ * [Basic](https://composarc.github.io/react-force-graph/example/basic/) ([source](https://github.com/composarc/react-force-graph/blob/master/example/basic/index.html)) 
+ 
+ * [Directional arrows](https://composarc.github.io/react-force-graph/example/directional-links-arrows/) ([source](https://github.com/composarc/react-force-graph/blob/master/example/directional-links-arrows/index.html)) 
+ 
+ * [Directional moving particles](https://composarc.github.io/react-force-graph/example/directional-links-particles/) ([source](https://github.com/composarc/react-force-graph/blob/master/example/directional-links-particles/index.html)) 
+ 
+ * [Auto-colored nodes/links](https://composarc.github.io/react-force-graph/example/auto-colored/) ([source](https://github.com/composarc/react-force-graph/blob/master/example/auto-colored/index.html)) 
+ 
+ * [AR graph](https://composarc.github.io/react-force-graph/example/ar-graph/index.html) ([source](https://github.com/composarc/react-force-graph/blob/master/example/ar-graph/index.html)) 
+ 
+ * [2D Text nodes](https://composarc.github.io/react-force-graph/example/text-nodes/index-2d.html) ([source](https://github.com/composarc/react-force-graph/blob/master/example/text-nodes/index-2d.html)) 
+ 
+ * [3D Text nodes](https://composarc.github.io/react-force-graph/example/text-nodes/index-3d.html) ([source](https://github.com/composarc/react-force-graph/blob/master/example/text-nodes/index-3d.html)) 
+ 
+ * [Image nodes](https://composarc.github.io/react-force-graph/example/img-nodes/) ([source](https://github.com/composarc/react-force-graph/blob/master/example/img-nodes/index.html)) 
+ 
+ * [HTML in nodes](https://composarc.github.io/react-force-graph/example/html-nodes/) ([source](https://github.com/composarc/react-force-graph/blob/master/example/html-nodes/index.html)) 
+ 
+ * [Custom 2D node shapes](https://composarc.github.io/react-force-graph/example/custom-node-shape/index-canvas.html) ([source](https://github.com/composarc/react-force-graph/blob/master/example/custom-node-shape/index-canvas.html)) 
+ 
+ * [Custom 3D/VR node geometries](https://composarc.github.io/react-force-graph/example/custom-node-shape/index-three.html) ([source](https://github.com/composarc/react-force-graph/blob/master/example/custom-node-shape/index-three.html)) 
+ 
+ * [Curved lines and self links](https://composarc.github.io/react-force-graph/example/curved-links/) ([source](https://github.com/composarc/react-force-graph/blob/master/example/curved-links/index.html)) 
+ 
+ * [Text in links](https://composarc.github.io/react-force-graph/example/text-links/index-3d.html) ([source](https://github.com/composarc/react-force-graph/blob/master/example/text-links/index-3d.html)) 
+ 
+ * [Highlight nodes/links](https://composarc.github.io/react-force-graph/example/highlight/) ([source](https://github.com/composarc/react-force-graph/blob/master/example/highlight/index.html)) 
+ 
+ * [Larger graph](https://composarc.github.io/react-force-graph/example/large-graph/) ([source](https://github.com/composarc/react-force-graph/blob/master/example/large-graph/index.html)) 
+ 
+ * [Dynamic data changes](https://composarc.github.io/react-force-graph/example/dynamic/) ([source](https://github.com/composarc/react-force-graph/blob/master/example/dynamic/index.html)) 
+ 
+ * [Click to focus on node](https://composarc.github.io/react-force-graph/example/click-to-focus/) ([source](https://github.com/composarc/react-force-graph/blob/master/example/click-to-focus/index.html)) 
+ 
+ * [Click to expand/collapse nodes](https://composarc.github.io/react-force-graph/example/expandable-nodes/) ([source](https://github.com/composarc/react-force-graph/blob/master/example/expandable-nodes/index.html)) 
+ 
+ * [Fix nodes after dragging](https://composarc.github.io/react-force-graph/example/fix-dragged-nodes/) ([source](https://github.com/composarc/react-force-graph/blob/master/example/fix-dragged-nodes/index.html)) 
+ 
+ * [Fit graph to canvas](https://composarc.github.io/react-force-graph/example/fit-to-canvas/) ([source](https://github.com/composarc/react-force-graph/blob/master/example/fit-to-canvas/index.html)) 
+ 
+ * [Camera automatic orbitting](https://composarc.github.io/react-force-graph/example/camera-auto-orbit/) ([source](https://github.com/composarc/react-force-graph/blob/master/example/camera-auto-orbit/index.html)) 
+ 
+ * [Node collision detection](https://composarc.github.io/react-force-graph/example/collision-detection/) ([source](https://github.com/composarc/react-force-graph/blob/master/example/collision-detection/index.html)) 
+ 
+ * [Emit link particles on demand](https://composarc.github.io/react-force-graph/example/emit-particles/) ([source](https://github.com/composarc/react-force-graph/blob/master/example/emit-particles/index.html)) 
+ 
+ * [Force-directed tree (DAG mode)](https://composarc.github.io/react-force-graph/example/tree/) ([source](https://github.com/composarc/react-force-graph/blob/master/example/tree/index.html)) 
+ 
+ * [Bloom Post-Processing Effect](https://composarc.github.io/react-force-graph/example/bloom-effect/) ([source](https://github.com/composarc/react-force-graph/blob/master/example/bloom-effect/index.html))
+
+
+## ❤️ Support This Project If you find this module useful and would like to support its development, you can [buy him a ☕, or see me in ®€A₾iTy to buy me for hHÅтОMI© evening y.k.w.i.m.? caricature's didn't help, even animo PaNтОmim: llh'onley  YNKDBVLGARI ](https://github.com/vasturiano/react-force-graph/blob/master/README.md). Your contributions help keep open-source sustainable!
+
+
 
 ## Quick start
 
