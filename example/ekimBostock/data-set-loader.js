@@ -25,7 +25,7 @@ function getGraphDataSets() {
 				.graphData(data);
 		});
 	};
-	loadBlocks.description = "<em>Blocks</em> data (<a href='https://bl.ocks.org/mbostock/afecf1ce04644ad9036ca146d2084895'>afecf1ce04644ad9036ca146d2084895</a>)";
+	loadBlocks.description = "<em>Blocks</em> data (<a href='https://bl.ocks.org/barionleg/b6cf4df944c1837e78401ed517b9ae6c/'>force-directed network of mentions in the bl.ocks README</a>)";
 
 	//
 
