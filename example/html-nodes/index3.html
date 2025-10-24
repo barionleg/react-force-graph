@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html class="hi ">
 <meta charset="utf-8">
-<!-- <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=2.0, user-scalable=yes"> -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=2.0, user-scalable=yes">
 
 <title>Complete Les Misérables Character Network</title>
 <link rel="stylesheet" href="../../src/styles/styles.css">
@@ -574,30 +574,7 @@ toggleButton.text("Toggle to Matrix View");
 <a href="https://aibolem.github.io/Animated-Transition-Node_Link_and_Adjacency_Matrix/">View smaller version</a>
 </aside>
 	
-<p>The visualizations are of two kinds: the node-link diagram and the adjacency matrix. The default visualization that is displayed is the node link diagram. These are the interactions that are possible with the node-link diagram prior to starting the animated transition:</p>
 
-<ul>
-  <li>The nodes are colored based on their group or community. There are 7 groups. Check the readme for more information about this</li>
-	<li>Hovering over a node increases the node size and highlights the links directly, attached to the node. It also displays the character name and a description of the character.</li>
-	<li>You can also click on a node to drag it to a new position. Dragging a node close to another node repels the node causing the entire diagram to move. Essentially, the common interactions that are possible with most force directed graphs.</li>
-	<li><b>Once you hit on `Start Transition`</b>, the interactions with the node-link diagram will be limited to hovering over the node. Hovering over the node will only display the character name and description of the character.</li>
-	<li><b>Why is that</b>? The node clones allow only one mouse over interaction and are not intricately linked to the edges. Hence, in the animation phase (during which the clones are made) once these clones overlap the original nodes, the other actions such as link highlighting, dragging, etc. overridden.</li>
-</ul>
-
-<p><h2>The adjacency matrix:</h2><ul>
-  <li>The cells of the adjacency matrix represent the links. </li>
-  <li>Only cells formed by nodes or characters that actually co-occurred (or were connected in the node link diagram) are colored. </li>
-  <li>Hovering over any of the colored cells highlights the cell and the corresponding nodes.</li>
-  <li> You can also reorder the cells based on label (alphabetically), the cluster (community), or the count (the number of cooccurrence)</li>
-</ul>
-</p>
-
-<p><h2>Notes about transition</h2>
-  <ol><li>You can repeatedly toggle between the node link and the adjacency matrix.</li> 
-    <li>However, if you decide to change the ordering of the nodes of the adjacency matrix during a matrix view, ensure the reordering is complete before toggling to the node view. Otherwise, reordering is paused (not complete) and character names (row and column names) may overlap each other on your next view.</li> 
-    <li>You can always remove the overlap by selecting a reordering and allowing it to complete.</li>
-  </ol>
-</p>
 
 </footer>
 </body>
