@@ -7,7 +7,7 @@ function getGraphDataSets() {
 			.nodeAutoColorBy('group')
 			.jsonUrl('miserables.json');
 	};
-	loadMiserables.description = "<em>Les Miserables</em> data (<a href='https://bl.ocks.org/mbostock/4062045'>4062045</a>)";
+	loadMiserables.description = "<em>Les Miserables</em> data (<a href='https://bl.ocks.org/barionleg/a90c2389b9bd95f14ef10e38c8c8c826'>co-occurence in Les Misérables</a>)";
 
 	//
 
