@@ -71,7 +71,7 @@ function getGraphDataSets() {
 				});
 		});
 	};
-	loadD3Dependencies.description = "<em>D3 dependencies</em> data (<a href='https://bl.ocks.org/mbostock/9a8124ccde3a4e9625bc413b48f14b30'>9a8124ccde3a4e9625bc413b48f14b30</a>)";
+	loadD3Dependencies.description = "<em>D3 dependencies</em> data (<a href='https://bl.ocks.org/barionleg/6f7bfc8ab1ec9b5adbe4143e79abf931'>Force-Directed Tree II</a>)";
 
 	const tunnel = function(Graph) {
 
