@@ -35,7 +35,13 @@ https://barionleg.github.io/react-force-graph/example/ekimBostock/blocks.org/ind
 
 <img width="960" height="500" alt="image" src="https://github.com/user-attachments/assets/668c2435-7b19-4b5f-812a-410601210c89" />
 
+rotating voronoi cells ujredi ibærLµ
 
+https://barionleg.github.io/react-force-graph/example/ekimBostock/blocks.org/rvoronoi.html
+
+<img width="994" height="522" alt="image" src="https://github.com/user-attachments/assets/35e53ce7-d1bf-4694-a0af-09bcdbd8dac2" />
+
+ბ. ლი
 
 
 
