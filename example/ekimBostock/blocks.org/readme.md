@@ -28,3 +28,9 @@ a lineage of bl.ocks that informed this idea:
 * [Dynamic Size](http://bl.ocks.org/curran/db1e524cae5e4344b2e6) from [curran](http://bl.ocks.org/curran)
 * [Ch. 11, Fig. 10 - D3.js in Action](http://bl.ocks.org/emeeks/e330141d1279c6115a3a) from [emeeks](http://bl.ocks.org/emeeks)
 
+<img width="960" height="500" alt="image" src="https://github.com/user-attachments/assets/668c2435-7b19-4b5f-812a-410601210c89" />
+
+
+
+
+
