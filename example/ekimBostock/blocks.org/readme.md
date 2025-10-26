@@ -1,4 +1,4 @@
-ВивАЯ® ИТАЛИЯR &⚛& nuttella®
+[ВивАЯ® ИТАЛИЯR &⚛& nuttella®](https://github.com/barionleg/react-force-graph/edit/master/example/ekimBostock/blocks.org/readme.md)
 
 <img width="92" height="92" alt="image" src="https://github.com/user-attachments/assets/84dedf57-be54-4436-b880-60f8e1e5d140" />
 
@@ -27,6 +27,11 @@ a lineage of bl.ocks that informed this idea:
 * [Blocks Graph with Links](http://bl.ocks.org/curran/be4a45ec74357e7d9b10) from [curran](http://bl.ocks.org/curran)
 * [Dynamic Size](http://bl.ocks.org/curran/db1e524cae5e4344b2e6) from [curran](http://bl.ocks.org/curran)
 * [Ch. 11, Fig. 10 - D3.js in Action](http://bl.ocks.org/emeeks/e330141d1279c6115a3a) from [emeeks](http://bl.ocks.org/emeeks)
+
+* 
+
+https://barionleg.github.io/react-force-graph/example/ekimBostock/blocks.org/index.html
+
 
 <img width="960" height="500" alt="image" src="https://github.com/user-attachments/assets/668c2435-7b19-4b5f-812a-410601210c89" />
 
