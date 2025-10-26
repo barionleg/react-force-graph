@@ -47,5 +47,9 @@ more jLouvain: https://github.com/barionleg/jLouvain/wiki
 
 ბ. ლი
 
+Concentric circle force layout graph in D3.v4
+
+https://gist.github.com/barionleg/c3a3ec25cc93df5fe31dfc0935b6d2a9
+
 
 
