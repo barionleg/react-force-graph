@@ -4,7 +4,7 @@
       "id": null,
       "label": [],
       "group": null,
-      "stars": [
+      "description": [
         {
           "id": "Sun",
           "label": [
@@ -15,7 +15,7 @@
           "ra": null,
           "dec": null,
           "magnitude": 4.83,
-          "description": "G2V",
+          "class": "G2V",
           "weight": 1
         }
       ]
@@ -26,7 +26,7 @@
         "α Cen"
       ],
       "group": "@9700397",
-      "stars": [
+      "description": [
         {
           "id": "Proxima Centauri",
           "label": [
@@ -49,7 +49,7 @@
             46.2
           ],
           "magnitude": 15.5,
-          "description": "M5.5Ve",
+          "class": "M5.5Ve",
           "weight": 0.12
         },
         {
@@ -73,7 +73,7 @@
             2.4
           ],
           "magnitude": 4.38,
-          "description": "G2V",
+          "class": "G2V",
           "weight": 1.1
         },
         {
@@ -97,7 +97,7 @@
             15.1
           ],
           "magnitude": 5.71,
-          "description": "K1V",
+          "class": "K1V",
           "weight": 0.91
         }
       ]
@@ -106,7 +106,7 @@
       "id": null,
       "label": [],
       "group": null,
-      "stars": [
+      "description": [
         {
           "id": "Barnard’s Star",
           "label": [
@@ -127,7 +127,7 @@
             36.1
           ],
           "magnitude": 13.2,
-          "description": "M4V",
+          "class": "M4V",
           "weight": 0.14
         }
       ]
@@ -140,7 +140,7 @@
         "WISE 1049−5319"
       ],
       "group": "@8048683",
-      "stars": [
+      "description": [
         {
           "id": "Luhman 16 A",
           "label": [
@@ -161,7 +161,7 @@
             10
           ],
           "magnitude": null,
-          "description": "L7.5",
+          "class": "L7.5",
           "weight": 0.045
         },
         {
@@ -184,7 +184,7 @@
             9
           ],
           "magnitude": null,
-          "description": "T0.5",
+          "class": "T0.5",
           "weight": 0.04
         }
       ]
@@ -193,7 +193,7 @@
       "id": null,
       "label": [],
       "group": null,
-      "stars": [
+      "description": [
         {
           "id": "WISE J085510.83−071442.5",
           "label": [
@@ -213,7 +213,7 @@
             42.5
           ],
           "magnitude": null,
-          "description": "Y2",
+          "class": "Y2",
           "weight": 0.0062
         }
       ]
@@ -222,7 +222,7 @@
       "id": null,
       "label": [],
       "group": null,
-      "stars": [
+      "description": [
         {
           "id": "Wolf 359",
           "label": [
@@ -244,7 +244,7 @@
             52.3
           ],
           "magnitude": 16.6,
-          "description": "M6Ve",
+          "class": "M6Ve",
           "weight": 0.09
         }
       ]
@@ -253,7 +253,7 @@
       "id": null,
       "label": [],
       "group": null,
-      "stars": [
+      "description": [
         {
           "id": "Lalande 21185",
           "label": [
@@ -274,7 +274,7 @@
             11.6
           ],
           "magnitude": 10.5,
-          "description": "M2V",
+          "class": "M2V",
           "weight": 0.46
         }
       ]
@@ -287,7 +287,7 @@
         "Gliese 244"
       ],
       "group": "@8399845",
-      "stars": [
+      "description": [
         {
           "id": "Sirius A",
           "label": [
@@ -308,7 +308,7 @@
             58
           ],
           "magnitude": 1.42,
-          "description": "A1V",
+          "class": "A1V",
           "weight": 2
         },
         {
@@ -331,7 +331,7 @@
             0.7
           ],
           "magnitude": 11.2,
-          "description": "DA1.9",
+          "class": "DA1.9",
           "weight": 0.98
         }
       ]
@@ -346,7 +346,7 @@
         "G 272-61"
       ],
       "group": "@1297617",
-      "stars": [
+      "description": [
         {
           "id": "Luyten 726-8 A",
           "label": [
@@ -371,7 +371,7 @@
             2.4
           ],
           "magnitude": 15.4,
-          "description": "M5.5V",
+          "class": "M5.5V",
           "weight": 0.1
         },
         {
@@ -398,7 +398,7 @@
             1.1
           ],
           "magnitude": 15.9,
-          "description": "M6V",
+          "class": "M6V",
           "weight": 0.1
         }
       ]
@@ -407,7 +407,7 @@
       "id": null,
       "label": [],
       "group": null,
-      "stars": [
+      "description": [
         {
           "id": "Ross 154",
           "label": [
@@ -429,7 +429,7 @@
             10.5
           ],
           "magnitude": 13.1,
-          "description": "M3.5Ve",
+          "class": "M3.5Ve",
           "weight": 0.17
         }
       ]
@@ -438,7 +438,7 @@
       "id": null,
       "label": [],
       "group": null,
-      "stars": [
+      "description": [
         {
           "id": "Ross 248",
           "label": [
@@ -460,7 +460,7 @@
             38.8
           ],
           "magnitude": 14.8,
-          "description": "M5.0V",
+          "class": "M5.0V",
           "weight": 0.14
         }
       ]
@@ -469,7 +469,7 @@
       "id": null,
       "label": [],
       "group": null,
-      "stars": [
+      "description": [
         {
           "id": "Rán",
           "label": [
@@ -492,7 +492,7 @@
             29.7
           ],
           "magnitude": 6.19,
-          "description": "K2V",
+          "class": "K2V",
           "weight": 0.82
         }
       ]
@@ -501,7 +501,7 @@
       "id": null,
       "label": [],
       "group": null,
-      "stars": [
+      "description": [
         {
           "id": "Lacaille 9352",
           "label": [
@@ -523,7 +523,7 @@
             11.1
           ],
           "magnitude": 9.8,
-          "description": "M2V",
+          "class": "M2V",
           "weight": 0.5
         }
       ]
@@ -532,7 +532,7 @@
       "id": null,
       "label": [],
       "group": null,
-      "stars": [
+      "description": [
         {
           "id": "Ross 128",
           "label": [
@@ -554,7 +554,7 @@
             16.4
           ],
           "magnitude": 13.5,
-          "description": "M4V",
+          "class": "M4V",
           "weight": 0.15
         }
       ]
@@ -567,7 +567,7 @@
         "GJ 866"
       ],
       "group": "@1302062",
-      "stars": [
+      "description": [
         {
           "id": "EZ Aquarii A",
           "label": [
@@ -588,7 +588,7 @@
             59.8
           ],
           "magnitude": 15.3,
-          "description": "M5V",
+          "class": "M5V",
           "weight": 0.11
         },
         {
@@ -611,7 +611,7 @@
             59.8
           ],
           "magnitude": 15.6,
-          "description": "M?V",
+          "class": "M?V",
           "weight": 0.11
         },
         {
@@ -634,7 +634,7 @@
             59.8
           ],
           "magnitude": 17.4,
-          "description": "M?V",
+          "class": "M?V",
           "weight": 0.08
         }
       ]
@@ -649,7 +649,7 @@
         "Gliese 820",
         "GJ 820"
       ],
-      "stars": [
+      "description": [
         {
           "id": "61 Cygni A",
           "label": [
@@ -672,7 +672,7 @@
             57.9
           ],
           "magnitude": 7.51,
-          "description": "K5V",
+          "class": "K5V",
           "weight": 0.7
         },
         {
@@ -697,7 +697,7 @@
             31.4
           ],
           "magnitude": 8.23,
-          "description": "K7V",
+          "class": "K7V",
           "weight": 0.63
         }
       ]
@@ -711,7 +711,7 @@
         "GJ 280"
       ],
       "group": "@988145",
-      "stars": [
+      "description": [
         {
           "id": "Procyon A",
           "label": [
@@ -733,7 +733,7 @@
             30
           ],
           "magnitude": 2.66,
-          "description": "F5IV-V",
+          "class": "F5IV-V",
           "weight": 1.5
         },
         {
@@ -757,7 +757,7 @@
             26.8
           ],
           "magnitude": 13,
-          "description": "DQZ",
+          "class": "DQZ",
           "weight": 0.6
         }
       ]
@@ -770,7 +770,7 @@
         "GJ 725"
       ],
       "group": "@286488",
-      "stars": [
+      "description": [
         {
           "id": "Struve 2398 A",
           "label": [
@@ -792,7 +792,7 @@
             49.4
           ],
           "magnitude": 11.2,
-          "description": "M3V",
+          "class": "M3V",
           "weight": 0.33
         },
         {
@@ -816,7 +816,7 @@
             36.7
           ],
           "magnitude": 12,
-          "description": "M3.5V",
+          "class": "M3.5V",
           "weight": 0.25
         }
       ]
@@ -829,7 +829,7 @@
         "GJ 15"
       ],
       "group": "@1589106",
-      "stars": [
+      "description": [
         {
           "id": "Groombridge 34 A",
           "label": [
@@ -852,7 +852,7 @@
             22.6
           ],
           "magnitude": 10.3,
-          "description": "M2V",
+          "class": "M2V",
           "weight": 0.4
         },
         {
@@ -877,7 +877,7 @@
             38.1
           ],
           "magnitude": 13.3,
-          "description": "M3.5Ve",
+          "class": "M3.5Ve",
           "weight": 0.16
         }
       ]
@@ -890,7 +890,7 @@
         "GJ 845"
       ],
       "group": "@8399847",
-      "stars": [
+      "description": [
         {
           "id": "Epsilon Indi A",
           "label": [
@@ -911,7 +911,7 @@
             9.5
           ],
           "magnitude": 6.89,
-          "description": "K5V",
+          "class": "K5V",
           "weight": 0.76
         },
         {
@@ -935,7 +935,7 @@
             57.7
           ],
           "magnitude": null,
-          "description": "T1V",
+          "class": "T1V",
           "weight": 0.066
         },
         {
@@ -959,7 +959,7 @@
             57.7
           ],
           "magnitude": null,
-          "description": "T6V",
+          "class": "T6V",
           "weight": 0.047
         }
       ]
@@ -968,7 +968,7 @@
       "id": null,
       "label": [],
       "group": null,
-      "stars": [
+      "description": [
         {
           "id": "DX Cancri",
           "label": [
@@ -991,7 +991,7 @@
             33.6
           ],
           "magnitude": 17,
-          "description": "M6.5Ve",
+          "class": "M6.5Ve",
           "weight": 0.09
         }
       ]
@@ -1000,7 +1000,7 @@
       "id": null,
       "label": [],
       "group": null,
-      "stars": [
+      "description": [
         {
           "id": "Tau Ceti",
           "label": [
@@ -1021,7 +1021,7 @@
             14.9
           ],
           "magnitude": 5.69,
-          "description": "G8V",
+          "class": "G8V",
           "weight": 0.78
         }
       ]
@@ -1030,7 +1030,7 @@
       "id": null,
       "label": [],
       "group": null,
-      "stars": [
+      "description": [
         {
           "id": "Gliese–Jahreiß 1061",
           "label": [
@@ -1051,7 +1051,7 @@
             45.7
           ],
           "magnitude": 15.3,
-          "description": "M5.5V",
+          "class": "M5.5V",
           "weight": 0.11
         }
       ]
@@ -1060,7 +1060,7 @@
       "id": null,
       "label": [],
       "group": null,
-      "stars": [
+      "description": [
         {
           "id": "YZ Ceti",
           "label": [
@@ -1081,7 +1081,7 @@
             56.4
           ],
           "magnitude": 14.2,
-          "description": "M4.0Ve",
+          "class": "M4.0Ve",
           "weight": 0.085
         }
       ]
@@ -1090,7 +1090,7 @@
       "id": null,
       "label": [],
       "group": null,
-      "stars": [
+      "description": [
         {
           "id": "Luyten’s Star",
           "label": [
@@ -1111,7 +1111,7 @@
             32.8
           ],
           "magnitude": 11.9,
-          "description": "M3.5V",
+          "class": "M3.5V",
           "weight": 0.26
         }
       ]
@@ -1120,7 +1120,7 @@
       "id": "SCR J1845−6357",
       "label": [],
       "group": null,
-      "stars": [
+      "description": [
         {
           "id": "SCR J1845−6357 A",
           "label": [],
@@ -1137,7 +1137,7 @@
             47.5
           ],
           "magnitude": 19.4,
-          "description": "M8.5V",
+          "class": "M8.5V",
           "weight": 0.07
         },
         {
@@ -1156,7 +1156,7 @@
             46.3
           ],
           "magnitude": null,
-          "description": "T6",
+          "class": "T6",
           "weight": 0.043
         }
       ]
@@ -1165,7 +1165,7 @@
       "id": null,
       "label": [],
       "group": null,
-      "stars": [
+      "description": [
         {
           "id": "Teegarden’s Star",
           "label": [
@@ -1186,7 +1186,7 @@
             52.6
           ],
           "magnitude": 17.2,
-          "description": "M7.0V",
+          "class": "M7.0V",
           "weight": 0.08
         }
       ]
@@ -1195,7 +1195,7 @@
       "id": null,
       "label": [],
       "group": null,
-      "stars": [
+      "description": [
         {
           "id": "Kapteyn’s Star",
           "label": [
@@ -1217,7 +1217,7 @@
             6.4
           ],
           "magnitude": 10.9,
-          "description": "M1VIp",
+          "class": "M1VIp",
           "weight": 0.27
         }
       ]
@@ -1226,7 +1226,7 @@
       "id": null,
       "label": [],
       "group": null,
-      "stars": [
+      "description": [
         {
           "id": "Lacaille 8760",
           "label": [
@@ -1248,7 +1248,7 @@
             2.5
           ],
           "magnitude": 8.69,
-          "description": "M1V",
+          "class": "M1V",
           "weight": 0.6
         }
       ]
@@ -1257,7 +1257,7 @@
       "id": null,
       "label": [],
       "group": null,
-      "stars": [
+      "description": [
         {
           "id": "DENIS J1048.0−3956",
           "label": [],
@@ -1274,7 +1274,7 @@
             6.8
           ],
           "magnitude": 19.4,
-          "description": "M8.5Ve",
+          "class": "M8.5Ve",
           "weight": 0.07
         }
       ]
@@ -1287,7 +1287,7 @@
         "HD 239960"
       ],
       "group": "@122759",
-      "stars": [
+      "description": [
         {
           "id": "Kruger 60 A",
           "label": [
@@ -1308,7 +1308,7 @@
             42.1
           ],
           "magnitude": 11.8,
-          "description": "M3V",
+          "class": "M3V",
           "weight": 0.27
         },
         {
@@ -1333,7 +1333,7 @@
             49.7
           ],
           "magnitude": 13.5,
-          "description": "M4V",
+          "class": "M4V",
           "weight": 0.18
         }
       ]
@@ -1342,7 +1342,7 @@
       "id": null,
       "label": [],
       "group": null,
-      "stars": [
+      "description": [
         {
           "id": "UGPS J072227.51−054031.2",
           "label": [],
@@ -1359,7 +1359,7 @@
             31.1
           ],
           "magnitude": null,
-          "description": "T9",
+          "class": "T9",
           "weight": 0.035
         }
       ]
@@ -1373,7 +1373,7 @@
         "GJ 234"
       ],
       "group": null,
-      "stars": [
+      "description": [
         {
           "id": "Ross 614 A",
           "label": [
@@ -1395,7 +1395,7 @@
             48.8
           ],
           "magnitude": 13.1,
-          "description": "M4.5V",
+          "class": "M4.5V",
           "weight": 0.22
         },
         {
@@ -1419,7 +1419,7 @@
             51.1
           ],
           "magnitude": 16.2,
-          "description": "M6V",
+          "class": "M6V",
           "weight": 0.11
         }
       ]
@@ -1428,7 +1428,7 @@
       "id": null,
       "label": [],
       "group": null,
-      "stars": [
+      "description": [
         {
           "id": "Wolf 1061",
           "label": [
@@ -1451,7 +1451,7 @@
             45.3
           ],
           "magnitude": 12,
-          "description": "M3V",
+          "class": "M3V",
           "weight": 0.25
         }
       ]
@@ -1460,7 +1460,7 @@
       "id": null,
       "label": [],
       "group": null,
-      "stars": [
+      "description": [
         {
           "id": "Van Maanen’s Star",
           "label": [
@@ -1482,7 +1482,7 @@
             19
           ],
           "magnitude": 14.2,
-          "description": "DZ7.5",
+          "class": "DZ7.5",
           "weight": 0.68
         }
       ]
@@ -1491,7 +1491,7 @@
       "id": null,
       "label": [],
       "group": null,
-      "stars": [
+      "description": [
         {
           "id": "Gliese 1",
           "label": [
@@ -1511,7 +1511,7 @@
             26.5
           ],
           "magnitude": 10.4,
-          "description": "M2V",
+          "class": "M2V",
           "weight": 0.46
         }
       ]
@@ -1525,7 +1525,7 @@
         "GJ 473"
       ],
       "group": "@1937388",
-      "stars": [
+      "description": [
         {
           "id": "Wolf 424 A",
           "label": [
@@ -1547,7 +1547,7 @@
             15.8
           ],
           "magnitude": 15,
-          "description": "M5.5V",
+          "class": "M5.5V",
           "weight": 0.14
         },
         {
@@ -1571,7 +1571,7 @@
             15.8
           ],
           "magnitude": 15,
-          "description": "M7",
+          "class": "M7",
           "weight": 0.13
         }
       ]
@@ -1580,7 +1580,7 @@
       "id": null,
       "label": [],
       "group": null,
-      "stars": [
+      "description": [
         {
           "id": "TZ Arietis",
           "label": [
@@ -1605,7 +1605,7 @@
             7
           ],
           "magnitude": 14,
-          "description": "M4.5V",
+          "class": "M4.5V",
           "weight": 0.14
         }
       ]
@@ -1614,7 +1614,7 @@
       "id": null,
       "label": [],
       "group": null,
-      "stars": [
+      "description": [
         {
           "id": "Gliese 687",
           "label": [
@@ -1634,7 +1634,7 @@
             20.9
           ],
           "magnitude": 10.9,
-          "description": "M3.0V",
+          "class": "M3.0V",
           "weight": 0.4
         }
       ]
@@ -1643,7 +1643,7 @@
       "id": null,
       "label": [],
       "group": null,
-      "stars": [
+      "description": [
         {
           "id": "LHS 292",
           "label": [
@@ -1664,7 +1664,7 @@
             9.6
           ],
           "magnitude": 17.4,
-          "description": "M6.5V",
+          "class": "M6.5V",
           "weight": 0.08
         }
       ]
@@ -1675,7 +1675,7 @@
         "GJ 1245"
       ],
       "group": "@7853882",
-      "stars": [
+      "description": [
         {
           "id": "Giclas 208-44 A",
           "label": [
@@ -1698,7 +1698,7 @@
             51.3
           ],
           "magnitude": 15.2,
-          "description": "M5.5Ve",
+          "class": "M5.5Ve",
           "weight": 0.11
         },
         {
@@ -1721,7 +1721,7 @@
             51.3
           ],
           "magnitude": 18.5,
-          "description": "M6.0V",
+          "class": "M6.0V",
           "weight": 0.07
         },
         {
@@ -1744,7 +1744,7 @@
             54.1
           ],
           "magnitude": 15.7,
-          "description": "M6V",
+          "class": "M6V",
           "weight": 0.1
         }
       ]
@@ -1753,7 +1753,7 @@
       "id": null,
       "label": [],
       "group": null,
-      "stars": [
+      "description": [
         {
           "id": "Gliese 674",
           "label": [
@@ -1773,7 +1773,7 @@
             42.7
           ],
           "magnitude": 11.1,
-          "description": "M3V",
+          "class": "M3V",
           "weight": 0.36
         }
       ]
@@ -1782,7 +1782,7 @@
       "id": null,
       "label": [],
       "group": null,
-      "stars": [
+      "description": [
         {
           "id": "LP 145-141",
           "label": [
@@ -1803,7 +1803,7 @@
             29.5
           ],
           "magnitude": 13.2,
-          "description": "DQ6",
+          "class": "DQ6",
           "weight": 0.75
         }
       ]
@@ -1812,7 +1812,7 @@
       "id": null,
       "label": [],
       "group": null,
-      "stars": [
+      "description": [
         {
           "id": "Gliese 876",
           "label": [
@@ -1835,7 +1835,7 @@
             49.3
           ],
           "magnitude": 11.8,
-          "description": "M3.5V",
+          "class": "M3.5V",
           "weight": 0.33
         }
       ]
@@ -1844,7 +1844,7 @@
       "id": null,
       "label": [],
       "group": null,
-      "stars": [
+      "description": [
         {
           "id": "Gliese–Jahreiß 1002",
           "label": [
@@ -1865,7 +1865,7 @@
             17
           ],
           "magnitude": 15.4,
-          "description": "M5.5V",
+          "class": "M5.5V",
           "weight": 0.11
         }
       ]
@@ -1874,7 +1874,7 @@
       "id": null,
       "label": [],
       "group": null,
-      "stars": [
+      "description": [
         {
           "id": "LHS 288",
           "label": [
@@ -1894,7 +1894,7 @@
             35.3
           ],
           "magnitude": 15.7,
-          "description": "M5.5V",
+          "class": "M5.5V",
           "weight": 0.11
         }
       ]
@@ -1905,7 +1905,7 @@
         "GJ 412"
       ],
       "group": "@8375355",
-      "stars": [
+      "description": [
         {
           "id": "Gliese 412 A",
           "label": [
@@ -1924,7 +1924,7 @@
             36.4
           ],
           "magnitude": 10.3,
-          "description": "M1.0Ve",
+          "class": "M1.0Ve",
           "weight": 0.48
         },
         {
@@ -1947,7 +1947,7 @@
             17.9
           ],
           "magnitude": 16,
-          "description": "M6.0V",
+          "class": "M6.0V",
           "weight": 0.1
         }
       ]
@@ -1956,7 +1956,7 @@
       "id": null,
       "label": [],
       "group": null,
-      "stars": [
+      "description": [
         {
           "id": "Groombridge 1618",
           "label": [
@@ -1978,7 +1978,7 @@
             15.2
           ],
           "magnitude": 8.11,
-          "description": "K6Ve",
+          "class": "K6Ve",
           "weight": 0.67
         }
       ]
@@ -1987,7 +1987,7 @@
       "id": null,
       "label": [],
       "group": null,
-      "stars": [
+      "description": [
         {
           "id": "AD Leonis",
           "label": [
@@ -2009,7 +2009,7 @@
             12
           ],
           "magnitude": 10.9,
-          "description": "M4Vae",
+          "class": "M4Vae",
           "weight": 0.39
         }
       ]
@@ -2018,7 +2018,7 @@
       "id": null,
       "label": [],
       "group": null,
-      "stars": [
+      "description": [
         {
           "id": "2MASS J08173001−6155158",
           "label": [
@@ -2039,7 +2039,7 @@
             15.7
           ],
           "magnitude": null,
-          "description": "T6",
+          "class": "T6",
           "weight": 0.015
         }
       ]
@@ -2048,7 +2048,7 @@
       "id": null,
       "label": [],
       "group": null,
-      "stars": [
+      "description": [
         {
           "id": "WISE J163940.83−684738.6",
           "label": [
@@ -2067,7 +2067,7 @@
             38.6
           ],
           "magnitude": null,
-          "description": "Y0",
+          "class": "Y0",
           "weight": null
         }
       ]
@@ -2076,7 +2076,7 @@
       "id": null,
       "label": [],
       "group": null,
-      "stars": [
+      "description": [
         {
           "id": "Gliese 832",
           "label": [
@@ -2096,7 +2096,7 @@
             32.4
           ],
           "magnitude": 10.2,
-          "description": "M2V",
+          "class": "M2V",
           "weight": 0.45
         }
       ]
@@ -2105,7 +2105,7 @@
       "id": null,
       "label": [],
       "group": null,
-      "stars": [
+      "description": [
         {
           "id": "DENIS J025503.3−470049",
           "label": [
@@ -2124,7 +2124,7 @@
             51.3
           ],
           "magnitude": 24.4,
-          "description": "L9",
+          "class": "L9",
           "weight": 0.05
         }
       ]
@@ -2140,7 +2140,7 @@
         "GJ 166"
       ],
       "group": "@701456",
-      "stars": [
+      "description": [
         {
           "id": "Keid",
           "label": [
@@ -2164,7 +2164,7 @@
             10.3
           ],
           "magnitude": 5.94,
-          "description": "K0V",
+          "class": "K0V",
           "weight": 0.89
         },
         {
@@ -2189,7 +2189,7 @@
             29.2
           ],
           "magnitude": 11,
-          "description": "DA2.9",
+          "class": "DA2.9",
           "weight": 0.5
         },
         {
@@ -2214,7 +2214,7 @@
             20.7
           ],
           "magnitude": 12.8,
-          "description": "M4.5V",
+          "class": "M4.5V",
           "weight": 0.18
         }
       ]
@@ -2223,7 +2223,7 @@
       "id": null,
       "label": [],
       "group": null,
-      "stars": [
+      "description": [
         {
           "id": "2MASS J05212615+1025328",
           "label": [
@@ -2244,7 +2244,7 @@
             32.9
           ],
           "magnitude": null,
-          "description": "T7.5",
+          "class": "T7.5",
           "weight": null
         }
       ]
@@ -2253,7 +2253,7 @@
       "id": null,
       "label": [],
       "group": null,
-      "stars": [
+      "description": [
         {
           "id": "EV Lacertae",
           "label": [
@@ -2274,7 +2274,7 @@
             2.4
           ],
           "magnitude": 11.7,
-          "description": "M4.0V",
+          "class": "M4.0V",
           "weight": 0.28
         }
       ]
@@ -2283,7 +2283,7 @@
       "id": null,
       "label": [],
       "group": null,
-      "stars": [
+      "description": [
         {
           "id": "Gliese 682",
           "label": [
@@ -2303,7 +2303,7 @@
             9.2
           ],
           "magnitude": 12.4,
-          "description": "M3.5",
+          "class": "M3.5",
           "weight": 0.2
         }
       ]
@@ -2318,7 +2318,7 @@
         "V2391 Oph"
       ],
       "group": "@2654591",
-      "stars": [
+      "description": [
         {
           "id": "70 Ophiuchi A",
           "label": [
@@ -2340,7 +2340,7 @@
             59.3
           ],
           "magnitude": 5.67,
-          "description": "K0V",
+          "class": "K0V",
           "weight": 0.92
         },
         {
@@ -2364,7 +2364,7 @@
             56.2
           ],
           "magnitude": 7.47,
-          "description": "K4V",
+          "class": "K4V",
           "weight": 0.7
         }
       ]
@@ -2373,7 +2373,7 @@
       "id": null,
       "label": [],
       "group": null,
-      "stars": [
+      "description": [
         {
           "id": "Altair",
           "label": [
@@ -2395,7 +2395,7 @@
             6
           ],
           "magnitude": 2.22,
-          "description": "A7Vn",
+          "class": "A7Vn",
           "weight": 1.71
         }
       ]
@@ -2404,7 +2404,7 @@
       "id": null,
       "label": [],
       "group": null,
-      "stars": [
+      "description": [
         {
           "id": "WISE J150649.97+702736.1",
           "label": [
@@ -2423,7 +2423,7 @@
             25.1
           ],
           "magnitude": null,
-          "description": "T6",
+          "class": "T6",
           "weight": null
         }
       ]
@@ -2436,7 +2436,7 @@
         "G 9-38"
       ],
       "group": "@1125676",
-      "stars": [
+      "description": [
         {
           "id": "EI Cancri",
           "label": [
@@ -2459,7 +2459,7 @@
             48.2
           ],
           "magnitude": 15.5,
-          "description": "M8Ve",
+          "class": "M8Ve",
           "weight": 0.11
         },
         {
@@ -2482,7 +2482,7 @@
             45.9
           ],
           "magnitude": 16.3,
-          "description": "M7V",
+          "class": "M7V",
           "weight": 0.1
         }
       ]
@@ -2491,7 +2491,7 @@
       "id": null,
       "label": [],
       "group": null,
-      "stars": [
+      "description": [
         {
           "id": "Gliese–Jahreiß 3379",
           "label": [
@@ -2512,7 +2512,7 @@
             23.6
           ],
           "magnitude": 12.7,
-          "description": "M3.5Ve",
+          "class": "M3.5Ve",
           "weight": 0.19
         }
       ]
@@ -2521,7 +2521,7 @@
       "id": null,
       "label": [],
       "group": null,
-      "stars": [
+      "description": [
         {
           "id": "2MASS J15404341−5101357",
           "label": [
@@ -2542,7 +2542,7 @@
             36
           ],
           "magnitude": 17,
-          "description": "M6.5",
+          "class": "M6.5",
           "weight": null
         }
       ]
@@ -2551,7 +2551,7 @@
       "id": null,
       "label": [],
       "group": null,
-      "stars": [
+      "description": [
         {
           "id": "LHS 1723",
           "label": [
@@ -2572,7 +2572,7 @@
             46.4
           ],
           "magnitude": 13.6,
-          "description": "M4.0Ve",
+          "class": "M4.0Ve",
           "weight": 0.15
         }
       ]
@@ -2583,7 +2583,7 @@
         "2M0939−24"
       ],
       "group": "@1650154",
-      "stars": [
+      "description": [
         {
           "id": "2MASS J09393548−2448279 A",
           "label": [
@@ -2602,7 +2602,7 @@
             27.9
           ],
           "magnitude": null,
-          "description": "T8",
+          "class": "T8",
           "weight": 0.03
         },
         {
@@ -2623,7 +2623,7 @@
             27.9
           ],
           "magnitude": null,
-          "description": "T8",
+          "class": "T8",
           "weight": 0.03
         }
       ]
@@ -2632,7 +2632,7 @@
       "id": null,
       "label": [],
       "group": null,
-      "stars": [
+      "description": [
         {
           "id": "Gliese 445",
           "label": [
@@ -2653,7 +2653,7 @@
             28.2
           ],
           "magnitude": 12.2,
-          "description": "M4.0Ve",
+          "class": "M4.0Ve",
           "weight": 0.24
         }
       ]
@@ -2662,7 +2662,7 @@
       "id": null,
       "label": [],
       "group": null,
-      "stars": [
+      "description": [
         {
           "id": "Wolf 498",
           "label": [
@@ -2682,7 +2682,7 @@
             29.5
           ],
           "magnitude": 9.79,
-          "description": "M2V",
+          "class": "M2V",
           "weight": 0.53
         }
       ]
@@ -2691,7 +2691,7 @@
       "id": null,
       "label": [],
       "group": null,
-      "stars": [
+      "description": [
         {
           "id": "WISE J035000.32−565830.2",
           "label": [
@@ -2710,7 +2710,7 @@
             30.2
           ],
           "magnitude": null,
-          "description": "Y1",
+          "class": "Y1",
           "weight": null
         }
       ]
@@ -2725,7 +2725,7 @@
         "G 175-34"
       ],
       "group": "@270626",
-      "stars": [
+      "description": [
         {
           "id": "Stein 2051 A",
           "label": [
@@ -2749,7 +2749,7 @@
             37.4
           ],
           "magnitude": 12.3,
-          "description": "M4.0Ve",
+          "class": "M4.0Ve",
           "weight": 0.2
         },
         {
@@ -2775,7 +2775,7 @@
             41.3
           ],
           "magnitude": 13.7,
-          "description": "DC5",
+          "class": "DC5",
           "weight": 0.5
         }
       ]
@@ -2784,7 +2784,7 @@
       "id": null,
       "label": [],
       "group": null,
-      "stars": [
+      "description": [
         {
           "id": "WISE J174124.25+255319.6",
           "label": [
@@ -2804,7 +2804,7 @@
             34.4
           ],
           "magnitude": null,
-          "description": "T9",
+          "class": "T9",
           "weight": null
         }
       ]
@@ -2813,7 +2813,7 @@
       "id": null,
       "label": [],
       "group": null,
-      "stars": [
+      "description": [
         {
           "id": "Gliese 251",
           "label": [
@@ -2834,7 +2834,7 @@
             5.4
           ],
           "magnitude": 11.3,
-          "description": "M3V",
+          "class": "M3V",
           "weight": 0.34
         }
       ]
@@ -2843,7 +2843,7 @@
       "id": null,
       "label": [],
       "group": null,
-      "stars": [
+      "description": [
         {
           "id": "2MASS J11145133−2618235",
           "label": [
@@ -2862,7 +2862,7 @@
             23.6
           ],
           "magnitude": null,
-          "description": "T7.5",
+          "class": "T7.5",
           "weight": 0.03
         }
       ]
@@ -2871,7 +2871,7 @@
       "id": null,
       "label": [],
       "group": null,
-      "stars": [
+      "description": [
         {
           "id": "2MASS J18353790+3259545",
           "label": [
@@ -2890,7 +2890,7 @@
             53.3
           ],
           "magnitude": 19.5,
-          "description": "M8.5V",
+          "class": "M8.5V",
           "weight": 0.07
         }
       ]
@@ -2899,7 +2899,7 @@
       "id": null,
       "label": [],
       "group": null,
-      "stars": [
+      "description": [
         {
           "id": "Gliese 205",
           "label": [
@@ -2920,7 +2920,7 @@
             38
           ],
           "magnitude": 9.18,
-          "description": "M1.5Ve",
+          "class": "M1.5Ve",
           "weight": 0.57
         }
       ]
@@ -2929,7 +2929,7 @@
       "id": null,
       "label": [],
       "group": null,
-      "stars": [
+      "description": [
         {
           "id": "WISE J154151.65−225024.9",
           "label": [
@@ -2948,7 +2948,7 @@
             25
           ],
           "magnitude": null,
-          "description": "Y0",
+          "class": "Y0",
           "weight": 0.01
         }
       ]
@@ -2957,7 +2957,7 @@
       "id": null,
       "label": [],
       "group": null,
-      "stars": [
+      "description": [
         {
           "id": "LP 816-60",
           "label": [],
@@ -2974,7 +2974,7 @@
             29
           ],
           "magnitude": 12.7,
-          "description": "M4V",
+          "class": "M4V",
           "weight": 0.19
         }
       ]
@@ -2983,7 +2983,7 @@
       "id": null,
       "label": [],
       "group": null,
-      "stars": [
+      "description": [
         {
           "id": "2MASS J04151954−0935066",
           "label": [
@@ -3002,7 +3002,7 @@
             6.7
           ],
           "magnitude": null,
-          "description": "T8.0",
+          "class": "T8.0",
           "weight": 0.03
         }
       ]
@@ -3011,7 +3011,7 @@
       "id": null,
       "label": [],
       "group": null,
-      "stars": [
+      "description": [
         {
           "id": "Alsafi",
           "label": [
@@ -3033,7 +3033,7 @@
             40.2
           ],
           "magnitude": 5.87,
-          "description": "K0V",
+          "class": "K0V",
           "weight": 0.89
         }
       ]
@@ -3044,7 +3044,7 @@
         "GJ 229"
       ],
       "group": "@6343844",
-      "stars": [
+      "description": [
         {
           "id": "Gliese 229 A",
           "label": [
@@ -3067,7 +3067,7 @@
             52.7
           ],
           "magnitude": 9.34,
-          "description": "M1V",
+          "class": "M1V",
           "weight": 0.56
         },
         {
@@ -3089,7 +3089,7 @@
             0
           ],
           "magnitude": null,
-          "description": "T6.5",
+          "class": "T6.5",
           "weight": 0.002
         }
       ]
@@ -3098,7 +3098,7 @@
       "id": null,
       "label": [],
       "group": null,
-      "stars": [
+      "description": [
         {
           "id": "Ross 47",
           "label": [
@@ -3120,7 +3120,7 @@
             21.6
           ],
           "magnitude": 12.7,
-          "description": "M4V",
+          "class": "M4V",
           "weight": 0.18
         }
       ]
@@ -3129,7 +3129,7 @@
       "id": null,
       "label": [],
       "group": null,
-      "stars": [
+      "description": [
         {
           "id": "Gliese 693",
           "label": [
@@ -3150,7 +3150,7 @@
             8.6
           ],
           "magnitude": 11.9,
-          "description": "M3.5V",
+          "class": "M3.5V",
           "weight": 0.26
         }
       ]
@@ -3161,7 +3161,7 @@
         "GJ 752"
       ],
       "group": "@6211054",
-      "stars": [
+      "description": [
         {
           "id": "Gliese 752 A",
           "label": [
@@ -3184,7 +3184,7 @@
             8
           ],
           "magnitude": 10.3,
-          "description": "M3V",
+          "class": "M3V",
           "weight": 0.5
         },
         {
@@ -3210,7 +3210,7 @@
             1.6
           ],
           "magnitude": 18.6,
-          "description": "M8V",
+          "class": "M8V",
           "weight": 0.07
         }
       ]
@@ -3223,7 +3223,7 @@
         "GJ 570"
       ],
       "group": null,
-      "stars": [
+      "description": [
         {
           "id": "33 G. Librae A",
           "label": [
@@ -3247,7 +3247,7 @@
             55.7
           ],
           "magnitude": 6.8,
-          "description": "K4V",
+          "class": "K4V",
           "weight": 0.78
         },
         {
@@ -3272,7 +3272,7 @@
             41.6
           ],
           "magnitude": 9.46,
-          "description": "M1.5V",
+          "class": "M1.5V",
           "weight": 0.55
         },
         {
@@ -3297,7 +3297,7 @@
             41.6
           ],
           "magnitude": 11.1,
-          "description": "M?V",
+          "class": "M?V",
           "weight": 0.36
         },
         {
@@ -3320,7 +3320,7 @@
             47.8
           ],
           "magnitude": null,
-          "description": "T8",
+          "class": "T8",
           "weight": 0.05
         }
       ]
@@ -3329,7 +3329,7 @@
       "id": null,
       "label": [],
       "group": null,
-      "stars": [
+      "description": [
         {
           "id": "Gliese 754",
           "label": [
@@ -3350,7 +3350,7 @@
             29.6
           ],
           "magnitude": 13.4,
-          "description": "M4.5",
+          "class": "M4.5",
           "weight": 0.16
         }
       ]
@@ -3359,7 +3359,7 @@
       "id": null,
       "label": [],
       "group": null,
-      "stars": [
+      "description": [
         {
           "id": "Gliese 588",
           "label": [
@@ -3379,7 +3379,7 @@
             32.1
           ],
           "magnitude": 10.4,
-          "description": "M2.5V",
+          "class": "M2.5V",
           "weight": 0.46
         }
       ]
@@ -3392,7 +3392,7 @@
         "G 158-50"
       ],
       "group": "@1304634",
-      "stars": [
+      "description": [
         {
           "id": "Gliese–Jahreiß 1005 A",
           "label": [
@@ -3413,7 +3413,7 @@
             2
           ],
           "magnitude": 12.7,
-          "description": "M3.5V",
+          "class": "M3.5V",
           "weight": 0.18
         },
         {
@@ -3436,7 +3436,7 @@
             2
           ],
           "magnitude": 15.2,
-          "description": "M?V",
+          "class": "M?V",
           "weight": 0.11
         }
       ]
@@ -3450,7 +3450,7 @@
         "GJ 34"
       ],
       "group": null,
-      "stars": [
+      "description": [
         {
           "id": "Achird",
           "label": [
@@ -3472,7 +3472,7 @@
             54.7
           ],
           "magnitude": 4.59,
-          "description": "F9V",
+          "class": "F9V",
           "weight": 1.11
         },
         {
@@ -3495,7 +3495,7 @@
             4.2
           ],
           "magnitude": 8.34,
-          "description": "K7Ve",
+          "class": "K7Ve",
           "weight": 0.6
         }
       ]
@@ -3504,7 +3504,7 @@
       "id": null,
       "label": [],
       "group": null,
-      "stars": [
+      "description": [
         {
           "id": "2MASS J20005017+3629465",
           "label": [
@@ -3525,7 +3525,7 @@
             46.5
           ],
           "magnitude": null,
-          "description": "T8",
+          "class": "T8",
           "weight": null
         }
       ]
@@ -3537,7 +3537,7 @@
         "36 Oph"
       ],
       "group": "@5476200",
-      "stars": [
+      "description": [
         {
           "id": "Guniibuu",
           "label": [
@@ -3560,7 +3560,7 @@
             6.1
           ],
           "magnitude": 6.2,
-          "description": "K2V",
+          "class": "K2V",
           "weight": 0.85
         },
         {
@@ -3584,7 +3584,7 @@
             10.2
           ],
           "magnitude": 6.21,
-          "description": "K1V",
+          "class": "K1V",
           "weight": 0.85
         },
         {
@@ -3609,7 +3609,7 @@
             46.1
           ],
           "magnitude": 7.45,
-          "description": "K5V",
+          "class": "K5V",
           "weight": 0.71
         }
       ]
@@ -3618,7 +3618,7 @@
       "id": null,
       "label": [],
       "group": null,
-      "stars": [
+      "description": [
         {
           "id": "BR Piscium",
           "label": [
@@ -3639,7 +3639,7 @@
             4.4
           ],
           "magnitude": 10.1,
-          "description": "M1V",
+          "class": "M1V",
           "weight": 0.51
         }
       ]
@@ -3648,7 +3648,7 @@
       "id": null,
       "label": [],
       "group": null,
-      "stars": [
+      "description": [
         {
           "id": "YZ Canis Majoris",
           "label": [
@@ -3670,7 +3670,7 @@
             8.9
           ],
           "magnitude": 12.3,
-          "description": "M4.0V",
+          "class": "M4.0V",
           "weight": 0.2
         }
       ]
@@ -3684,7 +3684,7 @@
         "HR 7703"
       ],
       "group": "@10059989",
-      "stars": [
+      "description": [
         {
           "id": "279 G. Sagittarii A",
           "label": [
@@ -3705,7 +3705,7 @@
             4.4
           ],
           "magnitude": 6.42,
-          "description": "K2.5V",
+          "class": "K2.5V",
           "weight": 0.82
         },
         {
@@ -3728,7 +3728,7 @@
             9
           ],
           "magnitude": 12.6,
-          "description": "M3.5",
+          "class": "M3.5",
           "weight": 0.19
         }
       ]
@@ -3742,7 +3742,7 @@
         "Scholz’s Star"
       ],
       "group": "@8537533",
-      "stars": [
+      "description": [
         {
           "id": "2MASS J07200325−0846499 A",
           "label": [
@@ -3762,7 +3762,7 @@
             49.9
           ],
           "magnitude": 19.4,
-          "description": "M9.5",
+          "class": "M9.5",
           "weight": 0.08
         },
         {
@@ -3784,7 +3784,7 @@
             49.9
           ],
           "magnitude": null,
-          "description": "T5",
+          "class": "T5",
           "weight": 0.06
         }
       ]
@@ -3793,7 +3793,7 @@
       "id": null,
       "label": [],
       "group": null,
-      "stars": [
+      "description": [
         {
           "id": "82 G. Eridani",
           "label": [
@@ -3816,7 +3816,7 @@
             11.2
           ],
           "magnitude": 5.35,
-          "description": "G6V",
+          "class": "G6V",
           "weight": 0.97
         }
       ]
@@ -3825,7 +3825,7 @@
       "id": null,
       "label": [],
       "group": null,
-      "stars": [
+      "description": [
         {
           "id": "Giclas 240-72",
           "label": [
@@ -3846,7 +3846,7 @@
             35.9
           ],
           "magnitude": 15.3,
-          "description": "DQ9P",
+          "class": "DQ9P",
           "weight": 0.5
         }
       ]
@@ -3858,7 +3858,7 @@
         "GJ 338"
       ],
       "group": "@508940",
-      "stars": [
+      "description": [
         {
           "id": "ADS 7251 A",
           "label": [
@@ -3879,7 +3879,7 @@
             11.8
           ],
           "magnitude": 8.71,
-          "description": "K7V",
+          "class": "K7V",
           "weight": 0.6
         },
         {
@@ -3902,7 +3902,7 @@
             10.9
           ],
           "magnitude": 8.77,
-          "description": "M0V",
+          "class": "M0V",
           "weight": 0.6
         }
       ]
@@ -3911,7 +3911,7 @@
       "id": null,
       "label": [],
       "group": null,
-      "stars": [
+      "description": [
         {
           "id": "Delta Pavonis",
           "label": [
@@ -3932,7 +3932,7 @@
             55.4
           ],
           "magnitude": 4.62,
-          "description": "G8IV",
+          "class": "G8IV",
           "weight": 1.1
         }
       ]
@@ -3941,7 +3941,7 @@
       "id": null,
       "label": [],
       "group": null,
-      "stars": [
+      "description": [
         {
           "id": "2MASS J01365662+0933473",
           "label": [
@@ -3962,7 +3962,7 @@
             47.3
           ],
           "magnitude": 0,
-          "description": "T2.5",
+          "class": "T2.5",
           "weight": 0.01
         }
       ]
@@ -3974,7 +3974,7 @@
         "GJ 268"
       ],
       "group": "@950903",
-      "stars": [
+      "description": [
         {
           "id": "QY Aurigae A",
           "label": [
@@ -3994,7 +3994,7 @@
             46.1
           ],
           "magnitude": 13.1,
-          "description": "M4.5Ve",
+          "class": "M4.5Ve",
           "weight": 0.17
         },
         {
@@ -4016,7 +4016,7 @@
             46.1
           ],
           "magnitude": 13.5,
-          "description": "M?V",
+          "class": "M?V",
           "weight": 0.16
         }
       ]
@@ -4025,7 +4025,7 @@
       "id": null,
       "label": [],
       "group": null,
-      "stars": [
+      "description": [
         {
           "id": "2MASS J09373487+2931409",
           "label": [
@@ -4044,7 +4044,7 @@
             41
           ],
           "magnitude": null,
-          "description": "T6.0",
+          "class": "T6.0",
           "weight": 0.03
         }
       ]
@@ -4053,7 +4053,7 @@
       "id": null,
       "label": [],
       "group": null,
-      "stars": [
+      "description": [
         {
           "id": "Gliese 784",
           "label": [
@@ -4073,7 +4073,7 @@
             50.5
           ],
           "magnitude": 8.99,
-          "description": "M0V",
+          "class": "M0V",
           "weight": 0.58
         }
       ]
@@ -4082,7 +4082,7 @@
       "id": null,
       "label": [],
       "group": null,
-      "stars": [
+      "description": [
         {
           "id": "HN Librae",
           "label": [
@@ -4104,7 +4104,7 @@
             10.4
           ],
           "magnitude": 12.4,
-          "description": "M3.5V",
+          "class": "M3.5V",
           "weight": 0.2
         }
       ]
@@ -4113,7 +4113,7 @@
       "id": null,
       "label": [],
       "group": null,
-      "stars": [
+      "description": [
         {
           "id": "WISE J041022.71+150248.4",
           "label": [
@@ -4132,7 +4132,7 @@
             48.5
           ],
           "magnitude": null,
-          "description": "Y0",
+          "class": "Y0",
           "weight": 0.003
         }
       ]
@@ -4146,7 +4146,7 @@
         "BD+19 5116"
       ],
       "group": "@1473023",
-      "stars": [
+      "description": [
         {
           "id": "EQ Pegasi A",
           "label": [
@@ -4168,7 +4168,7 @@
             14.1
           ],
           "magnitude": 11.3,
-          "description": "M3.5Ve",
+          "class": "M3.5Ve",
           "weight": 0.33
         },
         {
@@ -4192,7 +4192,7 @@
             14
           ],
           "magnitude": 13.4,
-          "description": "M4.0Ve",
+          "class": "M4.0Ve",
           "weight": 0.16
         }
       ]
@@ -4201,7 +4201,7 @@
       "id": null,
       "label": [],
       "group": null,
-      "stars": [
+      "description": [
         {
           "id": "HO Librae",
           "label": [
@@ -4223,7 +4223,7 @@
             20.2
           ],
           "magnitude": 11.6,
-          "description": "M3V",
+          "class": "M3V",
           "weight": 0.3
         }
       ]
@@ -4232,7 +4232,7 @@
       "id": null,
       "label": [],
       "group": null,
-      "stars": [
+      "description": [
         {
           "id": "LHS 2090",
           "label": [],
@@ -4249,7 +4249,7 @@
             4.9
           ],
           "magnitude": 17.1,
-          "description": "M6.5Ve",
+          "class": "M6.5Ve",
           "weight": 0.09
         }
       ]
@@ -4258,7 +4258,7 @@
       "id": null,
       "label": [],
       "group": null,
-      "stars": [
+      "description": [
         {
           "id": "LHS 337",
           "label": [
@@ -4280,7 +4280,7 @@
             53.7
           ],
           "magnitude": 13.7,
-          "description": "M4.0V",
+          "class": "M4.0V",
           "weight": 0.15
         }
       ]
@@ -4293,7 +4293,7 @@
         "HD 155876"
       ],
       "group": "@385171",
-      "stars": [
+      "description": [
         {
           "id": "Furuhjelm 46 A",
           "label": [
@@ -4314,7 +4314,7 @@
             57.2
           ],
           "magnitude": 10.9,
-          "description": "M3V",
+          "class": "M3V",
           "weight": 0.39
         },
         {
@@ -4337,7 +4337,7 @@
             57.2
           ],
           "magnitude": 11.3,
-          "description": "M4V",
+          "class": "M4V",
           "weight": 0.33
         }
       ]
@@ -4346,7 +4346,7 @@
       "id": null,
       "label": [],
       "group": null,
-      "stars": [
+      "description": [
         {
           "id": "Gliese 223.2",
           "label": [
@@ -4368,7 +4368,7 @@
             7.1
           ],
           "magnitude": 15.4,
-          "description": "DZ11",
+          "class": "DZ11",
           "weight": 0.5
         }
       ]
@@ -4377,7 +4377,7 @@
       "id": null,
       "label": [],
       "group": null,
-      "stars": [
+      "description": [
         {
           "id": "LP 944-20",
           "label": [
@@ -4397,7 +4397,7 @@
             43.6
           ],
           "magnitude": 20.2,
-          "description": "M9.5V",
+          "class": "M9.5V",
           "weight": 0.07
         }
       ]
@@ -4408,7 +4408,7 @@
         "GJ 644/643"
       ],
       "group": null,
-      "stars": [
+      "description": [
         {
           "id": "V1054 Ophiuchi A",
           "label": [
@@ -4430,7 +4430,7 @@
             10.8
           ],
           "magnitude": 10.7,
-          "description": "M3V",
+          "class": "M3V",
           "weight": 0.42
         },
         {
@@ -4454,7 +4454,7 @@
             10.8
           ],
           "magnitude": 11.3,
-          "description": "M4Ve",
+          "class": "M4Ve",
           "weight": 0.35
         },
         {
@@ -4478,7 +4478,7 @@
             10.8
           ],
           "magnitude": 11.8,
-          "description": "M4Ve",
+          "class": "M4Ve",
           "weight": 0.31
         },
         {
@@ -4500,7 +4500,7 @@
             21.3
           ],
           "magnitude": 12.7,
-          "description": "M3.5V",
+          "class": "M3.5V",
           "weight": 0.19
         },
         {
@@ -4525,7 +4525,7 @@
             40.8
           ],
           "magnitude": 17.7,
-          "description": "M7Ve",
+          "class": "M7Ve",
           "weight": 0.08
         }
       ]
@@ -4534,7 +4534,7 @@
       "id": null,
       "label": [],
       "group": null,
-      "stars": [
+      "description": [
         {
           "id": "2MASS J15031961+2525196",
           "label": [
@@ -4555,7 +4555,7 @@
             19.8
           ],
           "magnitude": null,
-          "description": "T5.5",
+          "class": "T5.5",
           "weight": null
         }
       ]
@@ -4564,7 +4564,7 @@
       "id": null,
       "label": [],
       "group": null,
-      "stars": [
+      "description": [
         {
           "id": "Gliese 625",
           "label": [
@@ -4585,7 +4585,7 @@
             14.8
           ],
           "magnitude": 11,
-          "description": "M1.5V",
+          "class": "M1.5V",
           "weight": 0.37
         }
       ]
@@ -4594,7 +4594,7 @@
       "id": null,
       "label": [],
       "group": null,
-      "stars": [
+      "description": [
         {
           "id": "Gliese–Jahreiß 1128",
           "label": [
@@ -4615,7 +4615,7 @@
             6
           ],
           "magnitude": 13.7,
-          "description": "M4.0V",
+          "class": "M4.0V",
           "weight": 0.15
         }
       ]
@@ -4624,7 +4624,7 @@
       "id": null,
       "label": [],
       "group": null,
-      "stars": [
+      "description": [
         {
           "id": "WISE J031325.94+780744.3",
           "label": [
@@ -4643,7 +4643,7 @@
             44.4
           ],
           "magnitude": null,
-          "description": "T8.5",
+          "class": "T8.5",
           "weight": null
         }
       ]
@@ -4652,7 +4652,7 @@
       "id": null,
       "label": [],
       "group": null,
-      "stars": [
+      "description": [
         {
           "id": "GL Virginis",
           "label": [
@@ -4673,7 +4673,7 @@
             33.8
           ],
           "magnitude": 14.7,
-          "description": "M4.5Ve",
+          "class": "M4.5Ve",
           "weight": 0.12
         }
       ]
@@ -4682,7 +4682,7 @@
       "id": null,
       "label": [],
       "group": null,
-      "stars": [
+      "description": [
         {
           "id": "HR 8832",
           "label": [
@@ -4703,7 +4703,7 @@
             6.1
           ],
           "magnitude": 6.49,
-          "description": "K3V",
+          "class": "K3V",
           "weight": 0.81
         }
       ]
@@ -4712,7 +4712,7 @@
       "id": null,
       "label": [],
       "group": null,
-      "stars": [
+      "description": [
         {
           "id": "LHS 3003",
           "label": [
@@ -4733,7 +4733,7 @@
             48.6
           ],
           "magnitude": 18,
-          "description": "M7.0Ve",
+          "class": "M7.0Ve",
           "weight": 0.08
         }
       ]
@@ -4742,7 +4742,7 @@
       "id": null,
       "label": [],
       "group": null,
-      "stars": [
+      "description": [
         {
           "id": "Ross 104",
           "label": [
@@ -4762,7 +4762,7 @@
             58.6
           ],
           "magnitude": 10.9,
-          "description": "M4V",
+          "class": "M4V",
           "weight": 0.39
         }
       ]
@@ -4774,7 +4774,7 @@
         "Ross 775"
       ],
       "group": "@1467925",
-      "stars": [
+      "description": [
         {
           "id": "Gliese 829 A",
           "label": [
@@ -4794,7 +4794,7 @@
             35.9
           ],
           "magnitude": 11.9,
-          "description": "M3.0Ve",
+          "class": "M3.0Ve",
           "weight": 0.26
         },
         {
@@ -4816,7 +4816,7 @@
             35.9
           ],
           "magnitude": 11.9,
-          "description": "M?V",
+          "class": "M?V",
           "weight": 0.26
         }
       ]
@@ -4829,7 +4829,7 @@
         "G 41-14"
       ],
       "group": "@1136192",
-      "stars": [
+      "description": [
         {
           "id": "Gliese–Jahreiß 3522 A",
           "label": [
@@ -4850,7 +4850,7 @@
             26.1
           ],
           "magnitude": 12.8,
-          "description": "M3.5V",
+          "class": "M3.5V",
           "weight": 0.18
         },
         {
@@ -4873,7 +4873,7 @@
             26.1
           ],
           "magnitude": 13,
-          "description": "M?V",
+          "class": "M?V",
           "weight": 0.17
         },
         {
@@ -4896,7 +4896,7 @@
             26.1
           ],
           "magnitude": 13.1,
-          "description": "M?V",
+          "class": "M?V",
           "weight": 0.17
         }
       ]
@@ -4909,7 +4909,7 @@
         "GJ 566"
       ],
       "group": "@2302652",
-      "stars": [
+      "description": [
         {
           "id": "Xi Boötis A",
           "label": [
@@ -4930,7 +4930,7 @@
             1.6
           ],
           "magnitude": 5.5,
-          "description": "G7Ve",
+          "class": "G7Ve",
           "weight": 0.94
         },
         {
@@ -4953,7 +4953,7 @@
             6.9
           ],
           "magnitude": 7.8,
-          "description": "K5Ve",
+          "class": "K5Ve",
           "weight": 0.67
         }
       ]
@@ -4962,7 +4962,7 @@
       "id": null,
       "label": [],
       "group": null,
-      "stars": [
+      "description": [
         {
           "id": "EE Leonis",
           "label": [
@@ -4984,7 +4984,7 @@
             29
           ],
           "magnitude": 12.5,
-          "description": "M4V",
+          "class": "M4V",
           "weight": 0.2
         }
       ]
@@ -4993,7 +4993,7 @@
       "id": null,
       "label": [],
       "group": null,
-      "stars": [
+      "description": [
         {
           "id": "Ross 671",
           "label": [
@@ -5014,7 +5014,7 @@
             12.4
           ],
           "magnitude": 9.48,
-          "description": "M1.5Ve",
+          "class": "M1.5Ve",
           "weight": 0.55
         }
       ]
@@ -5023,7 +5023,7 @@
       "id": null,
       "label": [],
       "group": null,
-      "stars": [
+      "description": [
         {
           "id": "WISE J220905.73+271143.9",
           "label": [
@@ -5042,7 +5042,7 @@
             44
           ],
           "magnitude": null,
-          "description": "Y0",
+          "class": "Y0",
           "weight": null
         }
       ]
@@ -5051,7 +5051,7 @@
       "id": null,
       "label": [],
       "group": null,
-      "stars": [
+      "description": [
         {
           "id": "Ross 619",
           "label": [
@@ -5071,7 +5071,7 @@
             23
           ],
           "magnitude": 13.65,
-          "description": "M4.5Ve",
+          "class": "M4.5Ve",
           "weight": 0.15
         }
       ]
@@ -5080,7 +5080,7 @@
       "id": null,
       "label": [],
       "group": null,
-      "stars": [
+      "description": [
         {
           "id": "WISE J035934.06−540154.6",
           "label": [
@@ -5099,7 +5099,7 @@
             54.6
           ],
           "magnitude": null,
-          "description": "Y0",
+          "class": "Y0",
           "weight": null
         }
       ]
@@ -5111,7 +5111,7 @@
         "BD−17 588"
       ],
       "group": "@6150647",
-      "stars": [
+      "description": [
         {
           "id": "LTT 1445 A",
           "label": [
@@ -5133,7 +5133,7 @@
             36.1
           ],
           "magnitude": 12,
-          "description": "M3V",
+          "class": "M3V",
           "weight": 0.26
         },
         {
@@ -5157,7 +5157,7 @@
             31.1
           ],
           "magnitude": 12.6,
-          "description": "M3V",
+          "class": "M3V",
           "weight": 0.19
         },
         {
@@ -5181,7 +5181,7 @@
             31.1
           ],
           "magnitude": 13.4,
-          "description": "M?V",
+          "class": "M?V",
           "weight": 0.16
         }
       ]
@@ -5190,7 +5190,7 @@
       "id": null,
       "label": [],
       "group": null,
-      "stars": [
+      "description": [
         {
           "id": "Gliese 393",
           "label": [
@@ -5210,7 +5210,7 @@
             27.6
           ],
           "magnitude": 10.41,
-          "description": "M2.0Ve",
+          "class": "M2.0Ve",
           "weight": 0.41
         }
       ]
@@ -5219,7 +5219,7 @@
       "id": null,
       "label": [],
       "group": null,
-      "stars": [
+      "description": [
         {
           "id": "2MASS J21462206+3813047",
           "label": [
@@ -5238,7 +5238,7 @@
             5
           ],
           "magnitude": null,
-          "description": "M5V",
+          "class": "M5V",
           "weight": null
         }
       ]
@@ -5247,7 +5247,7 @@
       "id": null,
       "label": [],
       "group": null,
-      "stars": [
+      "description": [
         {
           "id": "Gliese 809",
           "label": [
@@ -5267,7 +5267,7 @@
             15.8
           ],
           "magnitude": 9.31,
-          "description": "M1.0Ve",
+          "class": "M1.0Ve",
           "weight": 0.614
         }
       ]
@@ -5276,7 +5276,7 @@
       "id": null,
       "label": [],
       "group": null,
-      "stars": [
+      "description": [
         {
           "id": "WISE J000517.48+373720.5",
           "label": [
@@ -5295,7 +5295,7 @@
             20.5
           ],
           "magnitude": null,
-          "description": "T9",
+          "class": "T9",
           "weight": null
         }
       ]
@@ -5304,7 +5304,7 @@
       "id": null,
       "label": [],
       "group": null,
-      "stars": [
+      "description": [
         {
           "id": "WISE J205628.91+145953.2",
           "label": [
@@ -5323,7 +5323,7 @@
             20.5
           ],
           "magnitude": null,
-          "description": "Y0",
+          "class": "Y0",
           "weight": 0.02
         }
       ]
@@ -5332,7 +5332,7 @@
       "id": null,
       "label": [],
       "group": null,
-      "stars": [
+      "description": [
         {
           "id": "Luyten 230-188",
           "label": [
@@ -5353,7 +5353,7 @@
             8.1
           ],
           "magnitude": 14.3,
-          "description": "M4.5",
+          "class": "M4.5",
           "weight": null
         }
       ]
@@ -5362,7 +5362,7 @@
       "id": null,
       "label": [],
       "group": null,
-      "stars": [
+      "description": [
         {
           "id": "Giclas 157-77",
           "label": [
@@ -5383,7 +5383,7 @@
             20.6
           ],
           "magnitude": 15.4,
-          "description": "M5.0Ve",
+          "class": "M5.0Ve",
           "weight": null
         }
       ]
@@ -5394,7 +5394,7 @@
         "GJ 105"
       ],
       "group": null,
-      "stars": [
+      "description": [
         {
           "id": "268 G. Ceti",
           "label": [
@@ -5418,7 +5418,7 @@
             12.4
           ],
           "magnitude": 6.53,
-          "description": "K3V",
+          "class": "K3V",
           "weight": 0.7
         },
         {
@@ -5443,7 +5443,7 @@
             17.9
           ],
           "magnitude": 12.4,
-          "description": "M3.5V",
+          "class": "M3.5V",
           "weight": 0.25
         },
         {
@@ -5466,7 +5466,7 @@
             14.8
           ],
           "magnitude": 17.5,
-          "description": "M6V",
+          "class": "M6V",
           "weight": 0.08
         }
       ]
@@ -5475,7 +5475,7 @@
       "id": null,
       "label": [],
       "group": null,
-      "stars": [
+      "description": [
         {
           "id": "Luyten 788-34",
           "label": [
@@ -5496,7 +5496,7 @@
             26.3
           ],
           "magnitude": 14,
-          "description": "M4.5Ve",
+          "class": "M4.5Ve",
           "weight": null
         }
       ]
@@ -5508,7 +5508,7 @@
         "HD 156384"
       ],
       "group": "@2362060",
-      "stars": [
+      "description": [
         {
           "id": "Gliese 667 A",
           "label": [
@@ -5528,7 +5528,7 @@
             22.5
           ],
           "magnitude": 7.1,
-          "description": "K3",
+          "class": "K3",
           "weight": 0.73
         },
         {
@@ -5550,7 +5550,7 @@
             22.2
           ],
           "magnitude": 8.1,
-          "description": "K4",
+          "class": "K4",
           "weight": 0.69
         },
         {
@@ -5572,7 +5572,7 @@
             48.6
           ],
           "magnitude": 10.9,
-          "description": "M1.5V",
+          "class": "M1.5V",
           "weight": 0.31
         }
       ]
@@ -5581,7 +5581,7 @@
       "id": null,
       "label": [],
       "group": null,
-      "stars": [
+      "description": [
         {
           "id": "WISE J004945.61+215120.0",
           "label": [
@@ -5600,7 +5600,7 @@
             20
           ],
           "magnitude": null,
-          "description": "T8.5",
+          "class": "T8.5",
           "weight": null
         }
       ]
@@ -5609,7 +5609,7 @@
       "id": null,
       "label": [],
       "group": null,
-      "stars": [
+      "description": [
         {
           "id": "2MASS J15074769−1627386",
           "label": [
@@ -5630,7 +5630,7 @@
             40.1
           ],
           "magnitude": 22.8,
-          "description": "L5V",
+          "class": "L5V",
           "weight": null
         }
       ]
@@ -5643,7 +5643,7 @@
         "G 203-47"
       ],
       "group": "@11682936",
-      "stars": [
+      "description": [
         {
           "id": "Gliese–Jahreiß 3991 A",
           "label": [
@@ -5664,7 +5664,7 @@
             52.7
           ],
           "magnitude": 14.3,
-          "description": "M3.5V",
+          "class": "M3.5V",
           "weight": 0.2
         },
         {
@@ -5687,7 +5687,7 @@
             52.7
           ],
           "magnitude": 17,
-          "description": "D?12",
+          "class": "D?12",
           "weight": 0.5
         }
       ]
@@ -5696,7 +5696,7 @@
       "id": null,
       "label": [],
       "group": null,
-      "stars": [
+      "description": [
         {
           "id": "96 G. Piscium",
           "label": [
@@ -5718,7 +5718,7 @@
             50.2
           ],
           "magnitude": 6.37,
-          "description": "K2.5V",
+          "class": "K2.5V",
           "weight": 0.7
         }
       ]
@@ -5727,7 +5727,7 @@
       "id": null,
       "label": [],
       "group": null,
-      "stars": [
+      "description": [
         {
           "id": "Luyten 499-56",
           "label": [
@@ -5748,7 +5748,7 @@
             51.4
           ],
           "magnitude": null,
-          "description": "M3.0V",
+          "class": "M3.0V",
           "weight": null
         }
       ]
@@ -5757,7 +5757,7 @@
       "id": null,
       "label": [],
       "group": null,
-      "stars": [
+      "description": [
         {
           "id": "Beta Hydri",
           "label": [
@@ -5778,7 +5778,7 @@
             15.3
           ],
           "magnitude": 3.45,
-          "description": "G0V",
+          "class": "G0V",
           "weight": 1.08
         }
       ]
@@ -5792,7 +5792,7 @@
         "WDS J01083+5455 A"
       ],
       "group": "@83443",
-      "stars": [
+      "description": [
         {
           "id": "Mu Cassiopeiae A",
           "label": [
@@ -5814,7 +5814,7 @@
             13.2
           ],
           "magnitude": 5.78,
-          "description": "G5Vb",
+          "class": "G5Vb",
           "weight": 0.74
         },
         {
@@ -5838,7 +5838,7 @@
             13.2
           ],
           "magnitude": 11.6,
-          "description": "M?",
+          "class": "M?",
           "weight": 0.17
         }
       ]
@@ -5847,7 +5847,7 @@
       "id": null,
       "label": [],
       "group": null,
-      "stars": [
+      "description": [
         {
           "id": "107 Piscium",
           "label": [
@@ -5868,7 +5868,7 @@
             6.7
           ],
           "magnitude": 5.87,
-          "description": "K1V",
+          "class": "K1V",
           "weight": 0.83
         }
       ]
@@ -5877,7 +5877,7 @@
       "id": null,
       "label": [],
       "group": null,
-      "stars": [
+      "description": [
         {
           "id": "TW Piscis Austrini",
           "label": [
@@ -5899,7 +5899,7 @@
             56
           ],
           "magnitude": 7.08,
-          "description": "K4Ve",
+          "class": "K4Ve",
           "weight": 0.73
         }
       ]
@@ -5908,7 +5908,7 @@
       "id": null,
       "label": [],
       "group": null,
-      "stars": [
+      "description": [
         {
           "id": "Gliese 514",
           "label": [
@@ -5929,7 +5929,7 @@
             37.8
           ],
           "magnitude": 9.6,
-          "description": "M1.0Ve",
+          "class": "M1.0Ve",
           "weight": null
         }
       ]
@@ -5938,7 +5938,7 @@
       "id": null,
       "label": [],
       "group": null,
-      "stars": [
+      "description": [
         {
           "id": "Giclas 141-36",
           "label": [
@@ -5959,7 +5959,7 @@
             21.2
           ],
           "magnitude": null,
-          "description": "M5.0V",
+          "class": "M5.0V",
           "weight": null
         }
       ]
@@ -5968,7 +5968,7 @@
       "id": null,
       "label": [],
       "group": null,
-      "stars": [
+      "description": [
         {
           "id": "Giclas 258-33",
           "label": [
@@ -5989,7 +5989,7 @@
             33.3
           ],
           "magnitude": null,
-          "description": "M4.5V",
+          "class": "M4.5V",
           "weight": null
         }
       ]
@@ -5998,7 +5998,7 @@
       "id": null,
       "label": [],
       "group": null,
-      "stars": [
+      "description": [
         {
           "id": "Vega",
           "label": [
@@ -6020,7 +6020,7 @@
             1.3
           ],
           "magnitude": 0.58,
-          "description": "A0Va",
+          "class": "A0Va",
           "weight": 2.14
         }
       ]
@@ -6029,7 +6029,7 @@
       "id": null,
       "label": [],
       "group": null,
-      "stars": [
+      "description": [
         {
           "id": "LP 876-10",
           "label": [
@@ -6050,7 +6050,7 @@
             7.7
           ],
           "magnitude": 13.2,
-          "description": "M4.0Ve",
+          "class": "M4.0Ve",
           "weight": 0.18
         }
       ]
@@ -6059,7 +6059,7 @@
       "id": null,
       "label": [],
       "group": null,
-      "stars": [
+      "description": [
         {
           "id": "VX Arietis",
           "label": [
@@ -6080,7 +6080,7 @@
             24.1
           ],
           "magnitude": 11.1,
-          "description": "M3V",
+          "class": "M3V",
           "weight": null
         }
       ]
@@ -6089,7 +6089,7 @@
       "id": null,
       "label": [],
       "group": null,
-      "stars": [
+      "description": [
         {
           "id": "Fomalhaut",
           "label": [
@@ -6110,7 +6110,7 @@
             20.1
           ],
           "magnitude": 1.72,
-          "description": "A4V",
+          "class": "A4V",
           "weight": 1.92
         }
       ]
@@ -6119,7 +6119,7 @@
       "id": null,
       "label": [],
       "group": null,
-      "stars": [
+      "description": [
         {
           "id": "Gliese 673",
           "label": [
@@ -6139,7 +6139,7 @@
             41.1
           ],
           "magnitude": 8.06,
-          "description": "K7V",
+          "class": "K7V",
           "weight": 0.6
         }
       ]
@@ -6148,7 +6148,7 @@
       "id": null,
       "label": [],
       "group": null,
-      "stars": [
+      "description": [
         {
           "id": "Giclas 192-13",
           "label": [
@@ -6169,7 +6169,7 @@
             49.9
           ],
           "magnitude": null,
-          "description": "M4.0Ve",
+          "class": "M4.0Ve",
           "weight": null
         }
       ]
@@ -6178,7 +6178,7 @@
       "id": null,
       "label": [],
       "group": null,
-      "stars": [
+      "description": [
         {
           "id": "SCR J0740−4257",
           "label": [
@@ -6198,7 +6198,7 @@
             40.3
           ],
           "magnitude": 14.3,
-          "description": "M4.5",
+          "class": "M4.5",
           "weight": null
         }
       ]
@@ -6207,7 +6207,7 @@
       "id": null,
       "label": [],
       "group": null,
-      "stars": [
+      "description": [
         {
           "id": "Gliese–Jahreiß 1151",
           "label": [
@@ -6228,7 +6228,7 @@
             38.6
           ],
           "magnitude": null,
-          "description": "M7",
+          "class": "M7",
           "weight": null
         }
       ]
@@ -6237,7 +6237,7 @@
       "id": null,
       "label": [],
       "group": null,
-      "stars": [
+      "description": [
         {
           "id": "IRAS 21500+5903",
           "label": [
@@ -6256,7 +6256,7 @@
             39.9
           ],
           "magnitude": null,
-          "description": "M?",
+          "class": "M?",
           "weight": null
         }
       ]
@@ -6265,7 +6265,7 @@
       "id": null,
       "label": [],
       "group": null,
-      "stars": [
+      "description": [
         {
           "id": "Gliese 300",
           "label": [
@@ -6287,7 +6287,7 @@
             7
           ],
           "magnitude": 13.2,
-          "description": "M3.5V",
+          "class": "M3.5V",
           "weight": 0.17
         }
       ]
@@ -6296,7 +6296,7 @@
       "id": null,
       "label": [],
       "group": null,
-      "stars": [
+      "description": [
         {
           "id": "2MASS J15464185-5534468",
           "label": [
@@ -6316,7 +6316,7 @@
             47.5
           ],
           "magnitude": null,
-          "description": "M7.5",
+          "class": "M7.5",
           "weight": null
         }
       ]
@@ -6325,7 +6325,7 @@
       "id": null,
       "label": [],
       "group": null,
-      "stars": [
+      "description": [
         {
           "id": "WISE J071322.55−291751.9",
           "label": [
@@ -6344,7 +6344,7 @@
             52
           ],
           "magnitude": null,
-          "description": "Y0",
+          "class": "Y0",
           "weight": null
         }
       ]
@@ -6353,7 +6353,7 @@
       "id": null,
       "label": [],
       "group": null,
-      "stars": [
+      "description": [
         {
           "id": "RBS 661",
           "label": [
@@ -6374,7 +6374,7 @@
             20.6
           ],
           "magnitude": null,
-          "description": "M4.5",
+          "class": "M4.5",
           "weight": null
         }
       ]
@@ -6383,7 +6383,7 @@
       "id": null,
       "label": [],
       "group": null,
-      "stars": [
+      "description": [
         {
           "id": "Gliese–Jahreiß 4063",
           "label": [
@@ -6403,7 +6403,7 @@
             26.4
           ],
           "magnitude": 16.6,
-          "description": "M4V",
+          "class": "M4V",
           "weight": null
         }
       ]
@@ -6412,7 +6412,7 @@
       "id": null,
       "label": [],
       "group": null,
-      "stars": [
+      "description": [
         {
           "id": "Giclas 180-60",
           "label": [
@@ -6433,7 +6433,7 @@
             54
           ],
           "magnitude": 15.7,
-          "description": "M6V",
+          "class": "M6V",
           "weight": 0.1
         }
       ]
@@ -6444,7 +6444,7 @@
         "GJ 2130"
       ],
       "group": null,
-      "stars": [
+      "description": [
         {
           "id": "Gliese–Jahreiß 2130 A",
           "label": [
@@ -6465,7 +6465,7 @@
             9.1
           ],
           "magnitude": 11.5,
-          "description": "M2V",
+          "class": "M2V",
           "weight": 0.3
         },
         {
@@ -6487,7 +6487,7 @@
             8.4
           ],
           "magnitude": 12.8,
-          "description": "M2V",
+          "class": "M2V",
           "weight": 0.18
         },
         {
@@ -6509,7 +6509,7 @@
             8
           ],
           "magnitude": 13.8,
-          "description": "M?V",
+          "class": "M?V",
           "weight": 0.15
         }
       ]
@@ -6518,7 +6518,7 @@
       "id": null,
       "label": [],
       "group": null,
-      "stars": [
+      "description": [
         {
           "id": "WISE J053516.80−750024.9",
           "label": [
@@ -6537,7 +6537,7 @@
             24.9
           ],
           "magnitude": null,
-          "description": "Y1",
+          "class": "Y1",
           "weight": null
         }
       ]
