@@ -1,42 +1,42 @@
 {
   "nodes": [
     {
-      "name": null,
-      "othernames": [],
-      "SIMBAD": null,
+      "id": null,
+      "label": [],
+      "group": null,
       "stars": [
         {
-          "name": "Sun",
-          "othernames": [
+          "id": "Sun",
+          "label": [
             "Sol"
           ],
-          "SIMBAD": null,
+          "group": null,
           "distance": 0,
           "ra": null,
           "dec": null,
           "magnitude": 4.83,
-          "class": "G2V",
+          "description": "G2V",
           "mass": 1
         }
       ]
     },
     {
-      "name": "Alpha Centauri",
-      "othernames": [
+      "id": "Alpha Centauri",
+      "label": [
         "α Cen"
       ],
-      "SIMBAD": "@9700397",
+      "group": "@9700397",
       "stars": [
         {
-          "name": "Proxima Centauri",
-          "othernames": [
+          "id": "Proxima Centauri",
+          "label": [
             "Alpha Centauri C",
             "α Cen C",
             "Gliese 551",
             "GJ 551",
             "V645 Cen"
           ],
-          "SIMBAD": "@3379714",
+          "group": "@3379714",
           "parallax": 768.85,
           "ra": [
             14,
@@ -49,18 +49,18 @@
             46.2
           ],
           "magnitude": 15.5,
-          "class": "M5.5Ve",
+          "description": "M5.5Ve",
           "mass": 0.12
         },
         {
-          "name": "Rigil Kentaurus",
-          "othernames": [
+          "id": "Rigil Kentaurus",
+          "label": [
             "Alpha Centauri A",
             "α Cen A",
             "Gliese 559 A",
             "GJ 559 A"
           ],
-          "SIMBAD": "@3396054",
+          "group": "@3396054",
           "parallax": 747.23,
           "ra": [
             14,
@@ -73,18 +73,18 @@
             2.4
           ],
           "magnitude": 4.38,
-          "class": "G2V",
+          "description": "G2V",
           "mass": 1.1
         },
         {
-          "name": "Toliman",
-          "othernames": [
+          "id": "Toliman",
+          "label": [
             "Alpha Centauri B",
             "α Cen B",
             "Gliese 559 B",
             "GJ 559 B"
           ],
-          "SIMBAD": "@3396297",
+          "group": "@3396297",
           "parallax": 747.23,
           "ra": [
             14,
@@ -97,24 +97,24 @@
             15.1
           ],
           "magnitude": 5.71,
-          "class": "K1V",
+          "description": "K1V",
           "mass": 0.91
         }
       ]
     },
     {
-      "name": null,
-      "othernames": [],
-      "SIMBAD": null,
+      "id": null,
+      "label": [],
+      "group": null,
       "stars": [
         {
-          "name": "Barnard’s Star",
-          "othernames": [
+          "id": "Barnard’s Star",
+          "label": [
             "Gliese 699",
             "GJ 699",
             "Proxima Ophiuchi"
           ],
-          "SIMBAD": "@2669393",
+          "group": "@2669393",
           "parallax": 545.51,
           "ra": [
             17,
@@ -127,28 +127,28 @@
             36.1
           ],
           "magnitude": 13.2,
-          "class": "M4V",
+          "description": "M4V",
           "mass": 0.14
         }
       ]
     },
     {
-      "name": "Luhman 16",
-      "othernames": [
+      "id": "Luhman 16",
+      "label": [
         "LUH 16",
         "WISE J104915.57−531906.1",
         "WISE 1049−5319"
       ],
-      "SIMBAD": "@8048683",
+      "group": "@8048683",
       "stars": [
         {
-          "name": "Luhman 16 A",
-          "othernames": [
+          "id": "Luhman 16 A",
+          "label": [
             "LUH 16 A",
             "WISE J104915.57−531906.1 A",
             "WISE 1049−5319 A"
           ],
-          "SIMBAD": "@8399769",
+          "group": "@8399769",
           "parallax": 495,
           "ra": [
             10,
@@ -161,17 +161,17 @@
             10
           ],
           "magnitude": null,
-          "class": "L7.5",
+          "description": "L7.5",
           "mass": 0.045
         },
         {
-          "name": "Luhman 16 B",
-          "othernames": [
+          "id": "Luhman 16 B",
+          "label": [
             "LUH 16 B",
             "WISE J104915.57−531906.1 B",
             "WISE 1049−5319 B"
           ],
-          "SIMBAD": "@8399770",
+          "group": "@8399770",
           "parallax": 495,
           "ra": [
             10,
@@ -184,23 +184,23 @@
             9
           ],
           "magnitude": null,
-          "class": "T0.5",
+          "description": "T0.5",
           "mass": 0.04
         }
       ]
     },
     {
-      "name": null,
-      "othernames": [],
-      "SIMBAD": null,
+      "id": null,
+      "label": [],
+      "group": null,
       "stars": [
         {
-          "name": "WISE J085510.83−071442.5",
-          "othernames": [
+          "id": "WISE J085510.83−071442.5",
+          "label": [
             "WISEA J085510.74−071442.5",
             "WISE 0855−0714"
           ],
-          "SIMBAD": "@8596164",
+          "group": "@8596164",
           "parallax": 449,
           "ra": [
             8,
@@ -213,25 +213,25 @@
             42.5
           ],
           "magnitude": null,
-          "class": "Y2",
+          "description": "Y2",
           "mass": 0.0062
         }
       ]
     },
     {
-      "name": null,
-      "othernames": [],
-      "SIMBAD": null,
+      "id": null,
+      "label": [],
+      "group": null,
       "stars": [
         {
-          "name": "Wolf 359",
-          "othernames": [
+          "id": "Wolf 359",
+          "label": [
             "CN Leonis",
             "CN Leo",
             "Gliese 406",
             "GJ 406"
           ],
-          "SIMBAD": "@1769389",
+          "group": "@1769389",
           "parallax": 419.1,
           "ra": [
             10,
@@ -244,24 +244,24 @@
             52.3
           ],
           "magnitude": 16.6,
-          "class": "M6Ve",
+          "description": "M6Ve",
           "mass": 0.09
         }
       ]
     },
     {
-      "name": null,
-      "othernames": [],
-      "SIMBAD": null,
+      "id": null,
+      "label": [],
+      "group": null,
       "stars": [
         {
-          "name": "Lalande 21185",
-          "othernames": [
+          "id": "Lalande 21185",
+          "label": [
             "Gliese 411",
             "GJ 411",
             "HD 95735"
           ],
-          "SIMBAD": "@1764001",
+          "group": "@1764001",
           "parallax": 393.25,
           "ra": [
             11,
@@ -274,28 +274,28 @@
             11.6
           ],
           "magnitude": 10.5,
-          "class": "M2V",
+          "description": "M2V",
           "mass": 0.46
         }
       ]
     },
     {
-      "name": "Sirius",
-      "othernames": [
+      "id": "Sirius",
+      "label": [
         "Alpha Canis Majoris",
         "α CMa",
         "Gliese 244"
       ],
-      "SIMBAD": "@8399845",
+      "group": "@8399845",
       "stars": [
         {
-          "name": "Sirius A",
-          "othernames": [
+          "id": "Sirius A",
+          "label": [
             "Alpha Canis Majoris A",
             "α CMa A",
             "Gliese 244 A"
           ],
-          "SIMBAD": "@930529",
+          "group": "@930529",
           "parallax": 380.02,
           "ra": [
             6,
@@ -308,17 +308,17 @@
             58
           ],
           "magnitude": 1.42,
-          "class": "A1V",
+          "description": "A1V",
           "mass": 2
         },
         {
-          "name": "Sirius B",
-          "othernames": [
+          "id": "Sirius B",
+          "label": [
             "Alpha Canis Majoris B",
             "α CMa B",
             "Gliese 244 B"
           ],
-          "SIMBAD": "@930049",
+          "group": "@930049",
           "parallax": 380.02,
           "ra": [
             6,
@@ -331,25 +331,25 @@
             0.7
           ],
           "magnitude": 11.2,
-          "class": "DA1.9",
+          "description": "DA1.9",
           "mass": 0.98
         }
       ]
     },
     {
-      "name": "Luyten 726-8",
-      "othernames": [
+      "id": "Luyten 726-8",
+      "label": [
         "L 726-8",
         "Gliese 65",
         "GJ 65",
         "Giclas 272-61",
         "G 272-61"
       ],
-      "SIMBAD": "@1297617",
+      "group": "@1297617",
       "stars": [
         {
-          "name": "Luyten 726-8 A",
-          "othernames": [
+          "id": "Luyten 726-8 A",
+          "label": [
             "L 726-8 A",
             "BL Ceti",
             "BL Cet",
@@ -358,7 +358,7 @@
             "Giclas 272-61 A",
             "G 272-61 A"
           ],
-          "SIMBAD": "@1297616",
+          "group": "@1297616",
           "parallax": 373.7,
           "ra": [
             1,
@@ -371,12 +371,12 @@
             2.4
           ],
           "magnitude": 15.4,
-          "class": "M5.5V",
+          "description": "M5.5V",
           "mass": 0.1
         },
         {
-          "name": "Luyten 726-8 B",
-          "othernames": [
+          "id": "Luyten 726-8 B",
+          "label": [
             "L 726-8 B",
             "UV Ceti",
             "UV Cet",
@@ -385,7 +385,7 @@
             "Giclas 272-61 B",
             "G 272-61 B"
           ],
-          "SIMBAD": "@1297613",
+          "group": "@1297613",
           "parallax": 373.7,
           "ra": [
             1,
@@ -398,25 +398,25 @@
             1.1
           ],
           "magnitude": 15.9,
-          "class": "M6V",
+          "description": "M6V",
           "mass": 0.1
         }
       ]
     },
     {
-      "name": null,
-      "othernames": [],
-      "SIMBAD": null,
+      "id": null,
+      "label": [],
+      "group": null,
       "stars": [
         {
-          "name": "Ross 154",
-          "othernames": [
+          "id": "Ross 154",
+          "label": [
             "V1216 Sagittarii",
             "V1216 Sgr",
             "Gliese 729",
             "GJ 729"
           ],
-          "SIMBAD": "@2523169",
+          "group": "@2523169",
           "parallax": 337.22,
           "ra": [
             18,
@@ -429,25 +429,25 @@
             10.5
           ],
           "magnitude": 13.1,
-          "class": "M3.5Ve",
+          "description": "M3.5Ve",
           "mass": 0.17
         }
       ]
     },
     {
-      "name": null,
-      "othernames": [],
-      "SIMBAD": null,
+      "id": null,
+      "label": [],
+      "group": null,
       "stars": [
         {
-          "name": "Ross 248",
-          "othernames": [
+          "id": "Ross 248",
+          "label": [
             "HH Andromedae",
             "HH And",
             "Gliese 905",
             "GJ 905"
           ],
-          "SIMBAD": "@1587975",
+          "group": "@1587975",
           "parallax": 316.37,
           "ra": [
             23,
@@ -460,26 +460,26 @@
             38.8
           ],
           "magnitude": 14.8,
-          "class": "M5.0V",
+          "description": "M5.0V",
           "mass": 0.14
         }
       ]
     },
     {
-      "name": null,
-      "othernames": [],
-      "SIMBAD": null,
+      "id": null,
+      "label": [],
+      "group": null,
       "stars": [
         {
-          "name": "Rán",
-          "othernames": [
+          "id": "Rán",
+          "label": [
             "Ran",
             "Epsilon Eridani",
             "ε Eri",
             "Gliese 144",
             "GJ 144"
           ],
-          "SIMBAD": "@643684",
+          "group": "@643684",
           "parallax": 311.22,
           "ra": [
             3,
@@ -492,25 +492,25 @@
             29.7
           ],
           "magnitude": 6.19,
-          "class": "K2V",
+          "description": "K2V",
           "mass": 0.82
         }
       ]
     },
     {
-      "name": null,
-      "othernames": [],
-      "SIMBAD": null,
+      "id": null,
+      "label": [],
+      "group": null,
       "stars": [
         {
-          "name": "Lacaille 9352",
-          "othernames": [
+          "id": "Lacaille 9352",
+          "label": [
             "Lac 9352",
             "Gliese 887",
             "GJ 887",
             "HD 217987"
           ],
-          "SIMBAD": "@1191721",
+          "group": "@1191721",
           "parallax": 305.08,
           "ra": [
             23,
@@ -523,25 +523,25 @@
             11.1
           ],
           "magnitude": 9.8,
-          "class": "M2V",
+          "description": "M2V",
           "mass": 0.5
         }
       ]
     },
     {
-      "name": null,
-      "othernames": [],
-      "SIMBAD": null,
+      "id": null,
+      "label": [],
+      "group": null,
       "stars": [
         {
-          "name": "Ross 128",
-          "othernames": [
+          "id": "Ross 128",
+          "label": [
             "FI Virginis",
             "FI Vir",
             "Gliese 447",
             "GJ 447"
           ],
-          "SIMBAD": "@1847655",
+          "group": "@1847655",
           "parallax": 298.14,
           "ra": [
             11,
@@ -554,28 +554,28 @@
             16.4
           ],
           "magnitude": 13.5,
-          "class": "M4V",
+          "description": "M4V",
           "mass": 0.15
         }
       ]
     },
     {
-      "name": "EZ Aquarii",
-      "othernames": [
+      "id": "EZ Aquarii",
+      "label": [
         "EZ Aqr",
         "Gliese 866",
         "GJ 866"
       ],
-      "SIMBAD": "@1302062",
+      "group": "@1302062",
       "stars": [
         {
-          "name": "EZ Aquarii A",
-          "othernames": [
+          "id": "EZ Aquarii A",
+          "label": [
             "EZ Aqr A",
             "Gliese 866 A",
             "GJ 866 A"
           ],
-          "SIMBAD": null,
+          "group": null,
           "parallax": 289.5,
           "ra": [
             22,
@@ -588,17 +588,17 @@
             59.8
           ],
           "magnitude": 15.3,
-          "class": "M5V",
+          "description": "M5V",
           "mass": 0.11
         },
         {
-          "name": "EZ Aquarii B",
-          "othernames": [
+          "id": "EZ Aquarii B",
+          "label": [
             "EZ Aqr B",
             "Gliese 866 B",
             "GJ 866 B"
           ],
-          "SIMBAD": null,
+          "group": null,
           "parallax": 289.5,
           "ra": [
             22,
@@ -611,17 +611,17 @@
             59.8
           ],
           "magnitude": 15.6,
-          "class": "M?V",
+          "description": "M?V",
           "mass": 0.11
         },
         {
-          "name": "EZ Aquarii C",
-          "othernames": [
+          "id": "EZ Aquarii C",
+          "label": [
             "EZ Aqr C",
             "Gliese 866 C",
             "GJ 866 C"
           ],
-          "SIMBAD": null,
+          "group": null,
           "parallax": 289.5,
           "ra": [
             22,
@@ -634,15 +634,15 @@
             59.8
           ],
           "magnitude": 17.4,
-          "class": "M?V",
+          "description": "M?V",
           "mass": 0.08
         }
       ]
     },
     {
-      "name": "61 Cygni",
-      "SIMBAD": "@675",
-      "othernames": [
+      "id": "61 Cygni",
+      "group": "@675",
+      "label": [
         "61 Cyg",
         "Bessel’s Star",
         "Piazzi’s Flying Star",
@@ -651,15 +651,15 @@
       ],
       "stars": [
         {
-          "name": "61 Cygni A",
-          "othernames": [
+          "id": "61 Cygni A",
+          "label": [
             "61 Cyg A",
             "Bessel’s Star A",
             "Piazzi’s Flying Star A",
             "Gliese 820 A",
             "GJ 820 A"
           ],
-          "SIMBAD": "@837",
+          "group": "@837",
           "parallax": 286.08,
           "ra": [
             21,
@@ -672,19 +672,19 @@
             57.9
           ],
           "magnitude": 7.51,
-          "class": "K5V",
+          "description": "K5V",
           "mass": 0.7
         },
         {
-          "name": "61 Cygni B",
-          "othernames": [
+          "id": "61 Cygni B",
+          "label": [
             "61 Cyg B",
             "Bessel’s Star B",
             "Piazzi’s Flying Star B",
             "Gliese 820 A",
             "GJ 820 A"
           ],
-          "SIMBAD": "@676",
+          "group": "@676",
           "parallax": 286.08,
           "ra": [
             21,
@@ -697,30 +697,30 @@
             31.4
           ],
           "magnitude": 8.23,
-          "class": "K7V",
+          "description": "K7V",
           "mass": 0.63
         }
       ]
     },
     {
-      "name": "Procyon",
-      "othernames": [
+      "id": "Procyon",
+      "label": [
         "Alpha Canis Minoris",
         "α CMi",
         "Gliese 280",
         "GJ 280"
       ],
-      "SIMBAD": "@988145",
+      "group": "@988145",
       "stars": [
         {
-          "name": "Procyon A",
-          "othernames": [
+          "id": "Procyon A",
+          "label": [
             "Alpha Canis Minoris A",
             "α CMi A",
             "Gliese 280 A",
             "GJ 280 A"
           ],
-          "SIMBAD": null,
+          "group": null,
           "parallax": 285.17,
           "ra": [
             7,
@@ -733,18 +733,18 @@
             30
           ],
           "magnitude": 2.66,
-          "class": "F5IV-V",
+          "description": "F5IV-V",
           "mass": 1.5
         },
         {
-          "name": "Procyon B",
-          "othernames": [
+          "id": "Procyon B",
+          "label": [
             "Alpha Canis Minoris B",
             "α CMi B",
             "Gliese 280 B",
             "GJ 280 B"
           ],
-          "SIMBAD": "@988144",
+          "group": "@988144",
           "parallax": 285.17,
           "ra": [
             7,
@@ -757,29 +757,29 @@
             26.8
           ],
           "magnitude": 13,
-          "class": "DQZ",
+          "description": "DQZ",
           "mass": 0.6
         }
       ]
     },
     {
-      "name": "Struve 2398",
-      "othernames": [
+      "id": "Struve 2398",
+      "label": [
         "Σ 2398",
         "Gliese 725",
         "GJ 725"
       ],
-      "SIMBAD": "@286488",
+      "group": "@286488",
       "stars": [
         {
-          "name": "Struve 2398 A",
-          "othernames": [
+          "id": "Struve 2398 A",
+          "label": [
             "Σ 2398 A",
             "Gliese 725 A",
             "GJ 725 A",
             "HD 173739"
           ],
-          "SIMBAD": "@286870",
+          "group": "@286870",
           "parallax": 283.83,
           "ra": [
             18,
@@ -792,18 +792,18 @@
             49.4
           ],
           "magnitude": 11.2,
-          "class": "M3V",
+          "description": "M3V",
           "mass": 0.33
         },
         {
-          "name": "Struve 2398 B",
-          "othernames": [
+          "id": "Struve 2398 B",
+          "label": [
             "Σ 2398 B",
             "Gliese 725 B",
             "GJ 725 B",
             "HD 173740"
           ],
-          "SIMBAD": "@286486",
+          "group": "@286486",
           "parallax": 283.83,
           "ra": [
             18,
@@ -816,30 +816,30 @@
             36.7
           ],
           "magnitude": 12,
-          "class": "M3.5V",
+          "description": "M3.5V",
           "mass": 0.25
         }
       ]
     },
     {
-      "name": "Groombridge 34",
-      "othernames": [
+      "id": "Groombridge 34",
+      "label": [
         "Gmb 34",
         "Gliese 15",
         "GJ 15"
       ],
-      "SIMBAD": "@1589106",
+      "group": "@1589106",
       "stars": [
         {
-          "name": "Groombridge 34 A",
-          "othernames": [
+          "id": "Groombridge 34 A",
+          "label": [
             "Gmb 34 A",
             "Gliese 15 A",
             "GJ 15 A",
             "GX Andromedae",
             "GX And"
           ],
-          "SIMBAD": "@1588878",
+          "group": "@1588878",
           "parallax": 279.87,
           "ra": [
             0,
@@ -852,19 +852,19 @@
             22.6
           ],
           "magnitude": 10.3,
-          "class": "M2V",
+          "description": "M2V",
           "mass": 0.4
         },
         {
-          "name": "Groombridge 34 B",
-          "othernames": [
+          "id": "Groombridge 34 B",
+          "label": [
             "Gmb 34 B",
             "Gliese 15 B",
             "GJ 15 B",
             "GQ Andromedae",
             "GQ And"
           ],
-          "SIMBAD": "@1588880",
+          "group": "@1588880",
           "parallax": 279.87,
           "ra": [
             0,
@@ -877,28 +877,28 @@
             38.1
           ],
           "magnitude": 13.3,
-          "class": "M3.5Ve",
+          "description": "M3.5Ve",
           "mass": 0.16
         }
       ]
     },
     {
-      "name": "Epsilon Indi",
-      "othernames": [
+      "id": "Epsilon Indi",
+      "label": [
         "ε Ind",
         "Gliese 845",
         "GJ 845"
       ],
-      "SIMBAD": "@8399847",
+      "group": "@8399847",
       "stars": [
         {
-          "name": "Epsilon Indi A",
-          "othernames": [
+          "id": "Epsilon Indi A",
+          "label": [
             "ε Ind A",
             "Gliese 845 A",
             "GJ 845 A"
           ],
-          "SIMBAD": "@3387848",
+          "group": "@3387848",
           "parallax": 276.07,
           "ra": [
             22,
@@ -911,18 +911,18 @@
             9.5
           ],
           "magnitude": 6.89,
-          "class": "K5V",
+          "description": "K5V",
           "mass": 0.76
         },
         {
-          "name": "Epsilon Indi Ba",
-          "othernames": [
+          "id": "Epsilon Indi Ba",
+          "label": [
             "ε Ind Ba",
             "Epsilon Indi B",
             "Gliese 845 B",
             "GJ 845 B"
           ],
-          "SIMBAD": "@3387843",
+          "group": "@3387843",
           "parallax": 276.07,
           "ra": [
             22,
@@ -935,18 +935,18 @@
             57.7
           ],
           "magnitude": null,
-          "class": "T1V",
+          "description": "T1V",
           "mass": 0.066
         },
         {
-          "name": "Epsilon Indi Bb",
-          "othernames": [
+          "id": "Epsilon Indi Bb",
+          "label": [
             "ε Ind Bb",
             "Epsilon Indi C",
             "Gliese 845 C",
             "GJ 845 C"
           ],
-          "SIMBAD": null,
+          "group": null,
           "parallax": 276.07,
           "ra": [
             22,
@@ -959,26 +959,26 @@
             57.7
           ],
           "magnitude": null,
-          "class": "T6V",
+          "description": "T6V",
           "mass": 0.047
         }
       ]
     },
     {
-      "name": null,
-      "othernames": [],
-      "SIMBAD": null,
+      "id": null,
+      "label": [],
+      "group": null,
       "stars": [
         {
-          "name": "DX Cancri",
-          "othernames": [
+          "id": "DX Cancri",
+          "label": [
             "DX Cnc",
             "Gliese–Jahreiß 1111",
             "GJ 1111",
             "Giclas 51-15",
             "G 51-15"
           ],
-          "SIMBAD": "@1089081",
+          "group": "@1089081",
           "parallax": 275.8,
           "ra": [
             8,
@@ -991,24 +991,24 @@
             33.6
           ],
           "magnitude": 17,
-          "class": "M6.5Ve",
+          "description": "M6.5Ve",
           "mass": 0.09
         }
       ]
     },
     {
-      "name": null,
-      "othernames": [],
-      "SIMBAD": null,
+      "id": null,
+      "label": [],
+      "group": null,
       "stars": [
         {
-          "name": "Tau Ceti",
-          "othernames": [
+          "id": "Tau Ceti",
+          "label": [
             "τ Cet",
             "Gliese 71",
             "GJ 71"
           ],
-          "SIMBAD": "@1298185",
+          "group": "@1298185",
           "parallax": 273.97,
           "ra": [
             1,
@@ -1021,24 +1021,24 @@
             14.9
           ],
           "magnitude": 5.69,
-          "class": "G8V",
+          "description": "G8V",
           "mass": 0.78
         }
       ]
     },
     {
-      "name": null,
-      "othernames": [],
-      "SIMBAD": null,
+      "id": null,
+      "label": [],
+      "group": null,
       "stars": [
         {
-          "name": "Gliese–Jahreiß 1061",
-          "othernames": [
+          "id": "Gliese–Jahreiß 1061",
+          "label": [
             "GJ 1061",
             "Luyten 372-58",
             "L 372-58"
           ],
-          "SIMBAD": "@2984511",
+          "group": "@2984511",
           "parallax": 272.01,
           "ra": [
             3,
@@ -1051,24 +1051,24 @@
             45.7
           ],
           "magnitude": 15.3,
-          "class": "M5.5V",
+          "description": "M5.5V",
           "mass": 0.11
         }
       ]
     },
     {
-      "name": null,
-      "othernames": [],
-      "SIMBAD": null,
+      "id": null,
+      "label": [],
+      "group": null,
       "stars": [
         {
-          "name": "YZ Ceti",
-          "othernames": [
+          "id": "YZ Ceti",
+          "label": [
             "YZ Cet",
             "Gliese 54.1",
             "GJ 54.1"
           ],
-          "SIMBAD": "@11684871",
+          "group": "@11684871",
           "parallax": 269.08,
           "ra": [
             1,
@@ -1081,24 +1081,24 @@
             56.4
           ],
           "magnitude": 14.2,
-          "class": "M4.0Ve",
+          "description": "M4.0Ve",
           "mass": 0.085
         }
       ]
     },
     {
-      "name": null,
-      "othernames": [],
-      "SIMBAD": null,
+      "id": null,
+      "label": [],
+      "group": null,
       "stars": [
         {
-          "name": "Luyten’s Star",
-          "othernames": [
+          "id": "Luyten’s Star",
+          "label": [
             "Gliese 273",
             "GJ 273",
             "BD+05 1668"
           ],
-          "SIMBAD": "@971564",
+          "group": "@971564",
           "parallax": 266.23,
           "ra": [
             7,
@@ -1111,20 +1111,20 @@
             32.8
           ],
           "magnitude": 11.9,
-          "class": "M3.5V",
+          "description": "M3.5V",
           "mass": 0.26
         }
       ]
     },
     {
-      "name": "SCR J1845−6357",
-      "othernames": [],
-      "SIMBAD": null,
+      "id": "SCR J1845−6357",
+      "label": [],
+      "group": null,
       "stars": [
         {
-          "name": "SCR J1845−6357 A",
-          "othernames": [],
-          "SIMBAD": "@3432893",
+          "id": "SCR J1845−6357 A",
+          "label": [],
+          "group": "@3432893",
           "parallax": 259.5,
           "ra": [
             18,
@@ -1137,13 +1137,13 @@
             47.5
           ],
           "magnitude": 19.4,
-          "class": "M8.5V",
+          "description": "M8.5V",
           "mass": 0.07
         },
         {
-          "name": "SCR J1845−6357 B",
-          "othernames": [],
-          "SIMBAD": "@3432894",
+          "id": "SCR J1845−6357 B",
+          "label": [],
+          "group": "@3432894",
           "parallax": 259.5,
           "ra": [
             18,
@@ -1156,24 +1156,24 @@
             46.3
           ],
           "magnitude": null,
-          "class": "T6",
+          "description": "T6",
           "mass": 0.043
         }
       ]
     },
     {
-      "name": null,
-      "othernames": [],
-      "SIMBAD": null,
+      "id": null,
+      "label": [],
+      "group": null,
       "stars": [
         {
-          "name": "Teegarden’s Star",
-          "othernames": [
+          "id": "Teegarden’s Star",
+          "label": [
             "2MASS J02530084+1652532",
             "2M0253+16",
             "SO J025300.5+165258"
           ],
-          "SIMBAD": "@1486570",
+          "group": "@1486570",
           "parallax": 259.41,
           "ra": [
             2,
@@ -1186,25 +1186,25 @@
             52.6
           ],
           "magnitude": 17.2,
-          "class": "M7.0V",
+          "description": "M7.0V",
           "mass": 0.08
         }
       ]
     },
     {
-      "name": null,
-      "othernames": [],
-      "SIMBAD": null,
+      "id": null,
+      "label": [],
+      "group": null,
       "stars": [
         {
-          "name": "Kapteyn’s Star",
-          "othernames": [
+          "id": "Kapteyn’s Star",
+          "label": [
             "VZ Pictoris",
             "VZ Pic",
             "Gliese 191",
             "GJ 191"
           ],
-          "SIMBAD": "@2966222",
+          "group": "@2966222",
           "parallax": 255.67,
           "ra": [
             5,
@@ -1217,25 +1217,25 @@
             6.4
           ],
           "magnitude": 10.9,
-          "class": "M1VIp",
+          "description": "M1VIp",
           "mass": 0.27
         }
       ]
     },
     {
-      "name": null,
-      "othernames": [],
-      "SIMBAD": null,
+      "id": null,
+      "label": [],
+      "group": null,
       "stars": [
         {
-          "name": "Lacaille 8760",
-          "othernames": [
+          "id": "Lacaille 8760",
+          "label": [
             "AX Microscopii",
             "AX Mic",
             "Gliese 825",
             "GJ 825"
           ],
-          "SIMBAD": "@3501159",
+          "group": "@3501159",
           "parallax": 253.44,
           "ra": [
             21,
@@ -1248,20 +1248,20 @@
             2.5
           ],
           "magnitude": 8.69,
-          "class": "M1V",
+          "description": "M1V",
           "mass": 0.6
         }
       ]
     },
     {
-      "name": null,
-      "othernames": [],
-      "SIMBAD": null,
+      "id": null,
+      "label": [],
+      "group": null,
       "stars": [
         {
-          "name": "DENIS J1048.0−3956",
-          "othernames": [],
-          "SIMBAD": "@1761540",
+          "id": "DENIS J1048.0−3956",
+          "label": [],
+          "group": "@1761540",
           "parallax": 248.53,
           "ra": [
             10,
@@ -1274,28 +1274,28 @@
             6.8
           ],
           "magnitude": 19.4,
-          "class": "M8.5Ve",
+          "description": "M8.5Ve",
           "mass": 0.07
         }
       ]
     },
     {
-      "name": "Kruger 60",
-      "othernames": [
+      "id": "Kruger 60",
+      "label": [
         "Gliese 860",
         "GJ 860",
         "HD 239960"
       ],
-      "SIMBAD": "@122759",
+      "group": "@122759",
       "stars": [
         {
-          "name": "Kruger 60 A",
-          "othernames": [
+          "id": "Kruger 60 A",
+          "label": [
             "Gliese 860 A",
             "GJ 860 A",
             "HD 239960 A"
           ],
-          "SIMBAD": "@5610039",
+          "group": "@5610039",
           "parallax": 248.06,
           "ra": [
             22,
@@ -1308,19 +1308,19 @@
             42.1
           ],
           "magnitude": 11.8,
-          "class": "M3V",
+          "description": "M3V",
           "mass": 0.27
         },
         {
-          "name": "Kruger 60 B",
-          "othernames": [
+          "id": "Kruger 60 B",
+          "label": [
             "DO Cephei",
             "DO Cep",
             "Gliese 860 B",
             "GJ 860 B",
             "HD 239960 B"
           ],
-          "SIMBAD": "@122702",
+          "group": "@122702",
           "parallax": 248.06,
           "ra": [
             22,
@@ -1333,20 +1333,20 @@
             49.7
           ],
           "magnitude": 13.5,
-          "class": "M4V",
+          "description": "M4V",
           "mass": 0.18
         }
       ]
     },
     {
-      "name": null,
-      "othernames": [],
-      "SIMBAD": null,
+      "id": null,
+      "label": [],
+      "group": null,
       "stars": [
         {
-          "name": "UGPS J072227.51−054031.2",
-          "othernames": [],
-          "SIMBAD": "@5317860",
+          "id": "UGPS J072227.51−054031.2",
+          "label": [],
+          "group": "@5317860",
           "parallax": 242.8,
           "ra": [
             7,
@@ -1359,30 +1359,30 @@
             31.1
           ],
           "magnitude": null,
-          "class": "T9",
+          "description": "T9",
           "mass": 0.035
         }
       ]
     },
     {
-      "name": "Ross 614",
-      "othernames": [
+      "id": "Ross 614",
+      "label": [
         "V577 Monocerotis",
         "V577 Mon",
         "Gliese 234",
         "GJ 234"
       ],
-      "SIMBAD": null,
+      "group": null,
       "stars": [
         {
-          "name": "Ross 614 A",
-          "othernames": [
+          "id": "Ross 614 A",
+          "label": [
             "V577 Monocerotis A",
             "V577 Mon A",
             "Gliese 234 A",
             "GJ 234 A"
           ],
-          "SIMBAD": "@893443",
+          "group": "@893443",
           "parallax": 244.44,
           "ra": [
             6,
@@ -1395,18 +1395,18 @@
             48.8
           ],
           "magnitude": 13.1,
-          "class": "M4.5V",
+          "description": "M4.5V",
           "mass": 0.22
         },
         {
-          "name": "Ross 614 B",
-          "othernames": [
+          "id": "Ross 614 B",
+          "label": [
             "V577 Monocerotis B",
             "V577 Mon B",
             "Gliese 234 B",
             "GJ 234 B"
           ],
-          "SIMBAD": "@893521",
+          "group": "@893521",
           "parallax": 244.44,
           "ra": [
             6,
@@ -1419,26 +1419,26 @@
             51.1
           ],
           "magnitude": 16.2,
-          "class": "M6V",
+          "description": "M6V",
           "mass": 0.11
         }
       ]
     },
     {
-      "name": null,
-      "othernames": [],
-      "SIMBAD": null,
+      "id": null,
+      "label": [],
+      "group": null,
       "stars": [
         {
-          "name": "Wolf 1061",
-          "othernames": [
+          "id": "Wolf 1061",
+          "label": [
             "Gliese 628",
             "GJ 628",
             "V2306 Ophiuchi",
             "V2306 Oph",
             "BD−12 4523"
           ],
-          "SIMBAD": "@2579726",
+          "group": "@2579726",
           "parallax": 234.38,
           "ra": [
             16,
@@ -1451,25 +1451,25 @@
             45.3
           ],
           "magnitude": 12,
-          "class": "M3V",
+          "description": "M3V",
           "mass": 0.25
         }
       ]
     },
     {
-      "name": null,
-      "othernames": [],
-      "SIMBAD": null,
+      "id": null,
+      "label": [],
+      "group": null,
       "stars": [
         {
-          "name": "Van Maanen’s Star",
-          "othernames": [
+          "id": "Van Maanen’s Star",
+          "label": [
             "vMa2",
             "Gliese 35",
             "GJ 35",
             "Wolf 28"
           ],
-          "SIMBAD": "@11681461",
+          "group": "@11681461",
           "parallax": 232.7,
           "ra": [
             0,
@@ -1482,23 +1482,23 @@
             19
           ],
           "magnitude": 14.2,
-          "class": "DZ7.5",
+          "description": "DZ7.5",
           "mass": 0.68
         }
       ]
     },
     {
-      "name": null,
-      "othernames": [],
-      "SIMBAD": null,
+      "id": null,
+      "label": [],
+      "group": null,
       "stars": [
         {
-          "name": "Gliese 1",
-          "othernames": [
+          "id": "Gliese 1",
+          "label": [
             "GJ 1",
             "HD 225213"
           ],
-          "SIMBAD": "@1195136",
+          "group": "@1195136",
           "parallax": 230.32,
           "ra": [
             0,
@@ -1511,30 +1511,30 @@
             26.5
           ],
           "magnitude": 10.4,
-          "class": "M2V",
+          "description": "M2V",
           "mass": 0.46
         }
       ]
     },
     {
-      "name": "Wolf 424",
-      "othernames": [
+      "id": "Wolf 424",
+      "label": [
         "FL Virginis",
         "FL Vir",
         "Gliese 473",
         "GJ 473"
       ],
-      "SIMBAD": "@1937388",
+      "group": "@1937388",
       "stars": [
         {
-          "name": "Wolf 424 A",
-          "othernames": [
+          "id": "Wolf 424 A",
+          "label": [
             "FL Virginis A",
             "FL Vir A",
             "Gliese 473 A",
             "GJ 473 A"
           ],
-          "SIMBAD": null,
+          "group": null,
           "parallax": 227.9,
           "ra": [
             12,
@@ -1547,18 +1547,18 @@
             15.8
           ],
           "magnitude": 15,
-          "class": "M5.5V",
+          "description": "M5.5V",
           "mass": 0.14
         },
         {
-          "name": "Wolf 424 B",
-          "othernames": [
+          "id": "Wolf 424 B",
+          "label": [
             "FL Virginis B",
             "FL Vir B",
             "Gliese 473 B",
             "GJ 473 B"
           ],
-          "SIMBAD": null,
+          "group": null,
           "parallax": 227.9,
           "ra": [
             12,
@@ -1571,19 +1571,19 @@
             15.8
           ],
           "magnitude": 15,
-          "class": "M7",
+          "description": "M7",
           "mass": 0.13
         }
       ]
     },
     {
-      "name": null,
-      "othernames": [],
-      "SIMBAD": null,
+      "id": null,
+      "label": [],
+      "group": null,
       "stars": [
         {
-          "name": "TZ Arietis",
-          "othernames": [
+          "id": "TZ Arietis",
+          "label": [
             "TZ Ari",
             "Luyten 1159-16",
             "L 1159-16",
@@ -1592,7 +1592,7 @@
             "Gliese 83.1",
             "GJ 83.1"
           ],
-          "SIMBAD": "@1455439",
+          "group": "@1455439",
           "parallax": 224.8,
           "ra": [
             2,
@@ -1605,23 +1605,23 @@
             7
           ],
           "magnitude": 14,
-          "class": "M4.5V",
+          "description": "M4.5V",
           "mass": 0.14
         }
       ]
     },
     {
-      "name": null,
-      "othernames": [],
-      "SIMBAD": null,
+      "id": null,
+      "label": [],
+      "group": null,
       "stars": [
         {
-          "name": "Gliese 687",
-          "othernames": [
+          "id": "Gliese 687",
+          "label": [
             "GJ 687",
             "BD+68 946"
           ],
-          "SIMBAD": "@326850",
+          "group": "@326850",
           "parallax": 220.47,
           "ra": [
             17,
@@ -1634,24 +1634,24 @@
             20.9
           ],
           "magnitude": 10.9,
-          "class": "M3.0V",
+          "description": "M3.0V",
           "mass": 0.4
         }
       ]
     },
     {
-      "name": null,
-      "othernames": [],
-      "SIMBAD": null,
+      "id": null,
+      "label": [],
+      "group": null,
       "stars": [
         {
-          "name": "LHS 292",
-          "othernames": [
+          "id": "LHS 292",
+          "label": [
             "Gliese–Jahreiß 3622",
             "GJ 3622",
             "LP 731-58"
           ],
-          "SIMBAD": "@1758315",
+          "group": "@1758315",
           "parallax": 220.3,
           "ra": [
             10,
@@ -1664,28 +1664,28 @@
             9.6
           ],
           "magnitude": 17.4,
-          "class": "M6.5V",
+          "description": "M6.5V",
           "mass": 0.08
         }
       ]
     },
     {
-      "name": "Gliese–Jahreiß 1245",
-      "othernames": [
+      "id": "Gliese–Jahreiß 1245",
+      "label": [
         "GJ 1245"
       ],
-      "SIMBAD": "@7853882",
+      "group": "@7853882",
       "stars": [
         {
-          "name": "Giclas 208-44 A",
-          "othernames": [
+          "id": "Giclas 208-44 A",
+          "label": [
             "G 208-44 A",
             "Gliese–Jahreiß 1245 A",
             "GJ 1245 A",
             "V1581 Cygni",
             "V1581 Cyg"
           ],
-          "SIMBAD": "@152764",
+          "group": "@152764",
           "parallax": 220.2,
           "ra": [
             19,
@@ -1698,17 +1698,17 @@
             51.3
           ],
           "magnitude": 15.2,
-          "class": "M5.5Ve",
+          "description": "M5.5Ve",
           "mass": 0.11
         },
         {
-          "name": "Giclas 208-44 B",
-          "othernames": [
+          "id": "Giclas 208-44 B",
+          "label": [
             "G 208-44 B",
             "Gliese–Jahreiß 1245 C",
             "GJ 1245 C"
           ],
-          "SIMBAD": null,
+          "group": null,
           "parallax": 220.2,
           "ra": [
             19,
@@ -1721,17 +1721,17 @@
             51.3
           ],
           "magnitude": 18.5,
-          "class": "M6.0V",
+          "description": "M6.0V",
           "mass": 0.07
         },
         {
-          "name": "Giclas 208-45",
-          "othernames": [
+          "id": "Giclas 208-45",
+          "label": [
             "G 208-45",
             "Gliese–Jahreiß 1245 B",
             "GJ 1245 B"
           ],
-          "SIMBAD": "@152763",
+          "group": "@152763",
           "parallax": 220.2,
           "ra": [
             19,
@@ -1744,23 +1744,23 @@
             54.1
           ],
           "magnitude": 15.7,
-          "class": "M6V",
+          "description": "M6V",
           "mass": 0.1
         }
       ]
     },
     {
-      "name": null,
-      "othernames": [],
-      "SIMBAD": null,
+      "id": null,
+      "label": [],
+      "group": null,
       "stars": [
         {
-          "name": "Gliese 674",
-          "othernames": [
+          "id": "Gliese 674",
+          "label": [
             "GJ 674",
             "CD−46 11540"
           ],
-          "SIMBAD": "@3525635",
+          "group": "@3525635",
           "parallax": 220.11,
           "ra": [
             17,
@@ -1773,24 +1773,24 @@
             42.7
           ],
           "magnitude": 11.1,
-          "class": "M3V",
+          "description": "M3V",
           "mass": 0.36
         }
       ]
     },
     {
-      "name": null,
-      "othernames": [],
-      "SIMBAD": null,
+      "id": null,
+      "label": [],
+      "group": null,
       "stars": [
         {
-          "name": "LP 145-141",
-          "othernames": [
+          "id": "LP 145-141",
+          "label": [
             "Gliese 440",
             "GJ 440",
             "LAWD 37"
           ],
-          "SIMBAD": "@3269812",
+          "group": "@3269812",
           "parallax": 216.12,
           "ra": [
             11,
@@ -1803,26 +1803,26 @@
             29.5
           ],
           "magnitude": 13.2,
-          "class": "DQ6",
+          "description": "DQ6",
           "mass": 0.75
         }
       ]
     },
     {
-      "name": null,
-      "othernames": [],
-      "SIMBAD": null,
+      "id": null,
+      "label": [],
+      "group": null,
       "stars": [
         {
-          "name": "Gliese 876",
-          "othernames": [
+          "id": "Gliese 876",
+          "label": [
             "GJ 876",
             "Ross 780",
             "IL Aquarii",
             "IL Aqr",
             "BD−15 6290"
           ],
-          "SIMBAD": "@11674865",
+          "group": "@11674865",
           "parallax": 214.47,
           "ra": [
             22,
@@ -1835,24 +1835,24 @@
             49.3
           ],
           "magnitude": 11.8,
-          "class": "M3.5V",
+          "description": "M3.5V",
           "mass": 0.33
         }
       ]
     },
     {
-      "name": null,
-      "othernames": [],
-      "SIMBAD": null,
+      "id": null,
+      "label": [],
+      "group": null,
       "stars": [
         {
-          "name": "Gliese–Jahreiß 1002",
-          "othernames": [
+          "id": "Gliese–Jahreiß 1002",
+          "label": [
             "GJ 1002",
             "Giclas 158-27",
             "G 158-27"
           ],
-          "SIMBAD": "@1344702",
+          "group": "@1344702",
           "parallax": 213,
           "ra": [
             0,
@@ -1865,23 +1865,23 @@
             17
           ],
           "magnitude": 15.4,
-          "class": "M5.5V",
+          "description": "M5.5V",
           "mass": 0.11
         }
       ]
     },
     {
-      "name": null,
-      "othernames": [],
-      "SIMBAD": null,
+      "id": null,
+      "label": [],
+      "group": null,
       "stars": [
         {
-          "name": "LHS 288",
-          "othernames": [
+          "id": "LHS 288",
+          "label": [
             "Luyten 143-23",
             "L 143-23"
           ],
-          "SIMBAD": "@3205266",
+          "group": "@3205266",
           "parallax": 209.7,
           "ra": [
             10,
@@ -1894,24 +1894,24 @@
             35.3
           ],
           "magnitude": 15.7,
-          "class": "M5.5V",
+          "description": "M5.5V",
           "mass": 0.11
         }
       ]
     },
     {
-      "name": "Gliese 412",
-      "othernames": [
+      "id": "Gliese 412",
+      "label": [
         "GJ 412"
       ],
-      "SIMBAD": "@8375355",
+      "group": "@8375355",
       "stars": [
         {
-          "name": "Gliese 412 A",
-          "othernames": [
+          "id": "Gliese 412 A",
+          "label": [
             "GJ 412 A"
           ],
-          "SIMBAD": "@1779821",
+          "group": "@1779821",
           "parallax": 205.67,
           "ra": [
             11,
@@ -1924,17 +1924,17 @@
             36.4
           ],
           "magnitude": 10.3,
-          "class": "M1.0Ve",
+          "description": "M1.0Ve",
           "mass": 0.48
         },
         {
-          "name": "Gliese 412 B",
-          "othernames": [
+          "id": "Gliese 412 B",
+          "label": [
             "GJ 412 B",
             "WX Ursae Majoris",
             "WX UMa"
           ],
-          "SIMBAD": "@1779914",
+          "group": "@1779914",
           "parallax": 205.67,
           "ra": [
             11,
@@ -1947,25 +1947,25 @@
             17.9
           ],
           "magnitude": 16,
-          "class": "M6.0V",
+          "description": "M6.0V",
           "mass": 0.1
         }
       ]
     },
     {
-      "name": null,
-      "othernames": [],
-      "SIMBAD": null,
+      "id": null,
+      "label": [],
+      "group": null,
       "stars": [
         {
-          "name": "Groombridge 1618",
-          "othernames": [
+          "id": "Groombridge 1618",
+          "label": [
             "Gmb 1618",
             "Gliese 380",
             "GJ 380",
             "HD 88230"
           ],
-          "SIMBAD": "@572410",
+          "group": "@572410",
           "parallax": 205.53,
           "ra": [
             10,
@@ -1978,25 +1978,25 @@
             15.2
           ],
           "magnitude": 8.11,
-          "class": "K6Ve",
+          "description": "K6Ve",
           "mass": 0.67
         }
       ]
     },
     {
-      "name": null,
-      "othernames": [],
-      "SIMBAD": null,
+      "id": null,
+      "label": [],
+      "group": null,
       "stars": [
         {
-          "name": "AD Leonis",
-          "othernames": [
+          "id": "AD Leonis",
+          "label": [
             "AD Leo",
             "Gliese 388",
             "GJ 388",
             "BD+20 2465"
           ],
-          "SIMBAD": "@1710375",
+          "group": "@1710375",
           "parallax": 204.6,
           "ra": [
             10,
@@ -2009,24 +2009,24 @@
             12
           ],
           "magnitude": 10.9,
-          "class": "M4Vae",
+          "description": "M4Vae",
           "mass": 0.39
         }
       ]
     },
     {
-      "name": null,
-      "othernames": [],
-      "SIMBAD": null,
+      "id": null,
+      "label": [],
+      "group": null,
       "stars": [
         {
-          "name": "2MASS J08173001−6155158",
-          "othernames": [
+          "id": "2MASS J08173001−6155158",
+          "label": [
             "2M0817−61",
             "DENIS J081730.0−615520",
             "DEN 0817−6155"
           ],
-          "SIMBAD": "@5388727",
+          "group": "@5388727",
           "parallax": 203,
           "ra": [
             8,
@@ -2039,22 +2039,22 @@
             15.7
           ],
           "magnitude": null,
-          "class": "T6",
+          "description": "T6",
           "mass": 0.015
         }
       ]
     },
     {
-      "name": null,
-      "othernames": [],
-      "SIMBAD": null,
+      "id": null,
+      "label": [],
+      "group": null,
       "stars": [
         {
-          "name": "WISE J163940.83−684738.6",
-          "othernames": [
+          "id": "WISE J163940.83−684738.6",
+          "label": [
             "WISE 1639−6847"
           ],
-          "SIMBAD": "@7892319",
+          "group": "@7892319",
           "parallax": 202.3,
           "ra": [
             16,
@@ -2067,23 +2067,23 @@
             38.6
           ],
           "magnitude": null,
-          "class": "Y0",
+          "description": "Y0",
           "mass": null
         }
       ]
     },
     {
-      "name": null,
-      "othernames": [],
-      "SIMBAD": null,
+      "id": null,
+      "label": [],
+      "group": null,
       "stars": [
         {
-          "name": "Gliese 832",
-          "othernames": [
+          "id": "Gliese 832",
+          "label": [
             "GJ 832",
             "HD 204961"
           ],
-          "SIMBAD": "@3436260",
+          "group": "@3436260",
           "parallax": 202.03,
           "ra": [
             21,
@@ -2096,22 +2096,22 @@
             32.4
           ],
           "magnitude": 10.2,
-          "class": "M2V",
+          "description": "M2V",
           "mass": 0.45
         }
       ]
     },
     {
-      "name": null,
-      "othernames": [],
-      "SIMBAD": null,
+      "id": null,
+      "label": [],
+      "group": null,
       "stars": [
         {
-          "name": "DENIS J025503.3−470049",
-          "othernames": [
+          "id": "DENIS J025503.3−470049",
+          "label": [
             "DEN 0255−4700"
           ],
-          "SIMBAD": "@3028054",
+          "group": "@3028054",
           "parallax": 201.37,
           "ra": [
             2,
@@ -2124,14 +2124,14 @@
             51.3
           ],
           "magnitude": 24.4,
-          "class": "L9",
+          "description": "L9",
           "mass": 0.05
         }
       ]
     },
     {
-      "name": "Keid",
-      "othernames": [
+      "id": "Keid",
+      "label": [
         "40 Eridani",
         "40 Eri",
         "Omicron² Eridani",
@@ -2139,11 +2139,11 @@
         "Gliese 166",
         "GJ 166"
       ],
-      "SIMBAD": "@701456",
+      "group": "@701456",
       "stars": [
         {
-          "name": "Keid",
-          "othernames": [
+          "id": "Keid",
+          "label": [
             "40 Eridani A",
             "40 Eri A",
             "Omicron² Eridani A",
@@ -2151,7 +2151,7 @@
             "Gliese 166 A",
             "GJ 166 A"
           ],
-          "SIMBAD": "@702026",
+          "group": "@702026",
           "parallax": 200.65,
           "ra": [
             4,
@@ -2164,19 +2164,19 @@
             10.3
           ],
           "magnitude": 5.94,
-          "class": "K0V",
+          "description": "K0V",
           "mass": 0.89
         },
         {
-          "name": "40 Eridani B",
-          "othernames": [
+          "id": "40 Eridani B",
+          "label": [
             "40 Eri B",
             "Omicron² Eridani B",
             "ο² Eri B",
             "Gliese 166 B",
             "GJ 166 B"
           ],
-          "SIMBAD": "@701944",
+          "group": "@701944",
           "parallax": 200.65,
           "ra": [
             4,
@@ -2189,19 +2189,19 @@
             29.2
           ],
           "magnitude": 11,
-          "class": "DA2.9",
+          "description": "DA2.9",
           "mass": 0.5
         },
         {
-          "name": "40 Eridani C",
-          "othernames": [
+          "id": "40 Eridani C",
+          "label": [
             "40 Eri C",
             "Omicron² Eridani C",
             "ο² Eri C",
             "Gliese 166 C",
             "GJ 166 C"
           ],
-          "SIMBAD": "@701829",
+          "group": "@701829",
           "parallax": 200.65,
           "ra": [
             4,
@@ -2214,24 +2214,24 @@
             20.7
           ],
           "magnitude": 12.8,
-          "class": "M4.5V",
+          "description": "M4.5V",
           "mass": 0.18
         }
       ]
     },
     {
-      "name": null,
-      "othernames": [],
-      "SIMBAD": null,
+      "id": null,
+      "label": [],
+      "group": null,
       "stars": [
         {
-          "name": "2MASS J05212615+1025328",
-          "othernames": [
+          "id": "2MASS J05212615+1025328",
+          "label": [
             "2M0521+10",
             "WISE J052126.29+102528.4",
             "WISE 0521+1025"
           ],
-          "SIMBAD": "@8401605",
+          "group": "@8401605",
           "distance": 16.3,
           "ra": [
             5,
@@ -2244,24 +2244,24 @@
             32.9
           ],
           "magnitude": null,
-          "class": "T7.5",
+          "description": "T7.5",
           "mass": null
         }
       ]
     },
     {
-      "name": null,
-      "othernames": [],
-      "SIMBAD": null,
+      "id": null,
+      "label": [],
+      "group": null,
       "stars": [
         {
-          "name": "EV Lacertae",
-          "othernames": [
+          "id": "EV Lacertae",
+          "label": [
             "EV Lac",
             "Gliese 873",
             "GJ 873"
           ],
-          "SIMBAD": "@4505",
+          "group": "@4505",
           "parallax": 198.21,
           "ra": [
             22,
@@ -2274,23 +2274,23 @@
             2.4
           ],
           "magnitude": 11.7,
-          "class": "M4.0V",
+          "description": "M4.0V",
           "mass": 0.28
         }
       ]
     },
     {
-      "name": null,
-      "othernames": [],
-      "SIMBAD": null,
+      "id": null,
+      "label": [],
+      "group": null,
       "stars": [
         {
-          "name": "Gliese 682",
-          "othernames": [
+          "id": "Gliese 682",
+          "label": [
             "GJ 682",
             "CD−44 11909"
           ],
-          "SIMBAD": "@11684206",
+          "group": "@11684206",
           "parallax": 198.09,
           "ra": [
             17,
@@ -2303,31 +2303,31 @@
             9.2
           ],
           "magnitude": 12.4,
-          "class": "M3.5",
+          "description": "M3.5",
           "mass": 0.2
         }
       ]
     },
     {
-      "name": "70 Ophiuchi",
-      "othernames": [
+      "id": "70 Ophiuchi",
+      "label": [
         "70 Oph",
         "Gliese 702",
         "GJ 702",
         "V2391 Ophiuchi",
         "V2391 Oph"
       ],
-      "SIMBAD": "@2654591",
+      "group": "@2654591",
       "stars": [
         {
-          "name": "70 Ophiuchi A",
-          "othernames": [
+          "id": "70 Ophiuchi A",
+          "label": [
             "70 Oph A",
             "Gliese 702 A",
             "GJ 702 A",
             "LHS 458"
           ],
-          "SIMBAD": "@2654408",
+          "group": "@2654408",
           "parallax": 195.96,
           "ra": [
             18,
@@ -2340,18 +2340,18 @@
             59.3
           ],
           "magnitude": 5.67,
-          "class": "K0V",
+          "description": "K0V",
           "mass": 0.92
         },
         {
-          "name": "70 Ophiuchi B",
-          "othernames": [
+          "id": "70 Ophiuchi B",
+          "label": [
             "70 Oph B",
             "Gliese 702 B",
             "GJ 702 B",
             "LHS 459"
           ],
-          "SIMBAD": "@2654409",
+          "group": "@2654409",
           "parallax": 195.96,
           "ra": [
             18,
@@ -2364,25 +2364,25 @@
             56.2
           ],
           "magnitude": 7.47,
-          "class": "K4V",
+          "description": "K4V",
           "mass": 0.7
         }
       ]
     },
     {
-      "name": null,
-      "othernames": [],
-      "SIMBAD": null,
+      "id": null,
+      "label": [],
+      "group": null,
       "stars": [
         {
-          "name": "Altair",
-          "othernames": [
+          "id": "Altair",
+          "label": [
             "Alpha Aquilae",
             "α Aql",
             "Gliese 768",
             "GJ 768"
           ],
-          "SIMBAD": "@2708379",
+          "group": "@2708379",
           "parallax": 195.4,
           "ra": [
             19,
@@ -2395,22 +2395,22 @@
             6
           ],
           "magnitude": 2.22,
-          "class": "A7Vn",
+          "description": "A7Vn",
           "mass": 1.71
         }
       ]
     },
     {
-      "name": null,
-      "othernames": [],
-      "SIMBAD": null,
+      "id": null,
+      "label": [],
+      "group": null,
       "stars": [
         {
-          "name": "WISE J150649.97+702736.1",
-          "othernames": [
+          "id": "WISE J150649.97+702736.1",
+          "label": [
             "WISE 1506+7027"
           ],
-          "SIMBAD": "@7958213",
+          "group": "@7958213",
           "parallax": 193.55,
           "ra": [
             15,
@@ -2423,30 +2423,30 @@
             25.1
           ],
           "magnitude": null,
-          "class": "T6",
+          "description": "T6",
           "mass": null
         }
       ]
     },
     {
-      "name": "Gliese–Jahreiß 1116",
-      "othernames": [
+      "id": "Gliese–Jahreiß 1116",
+      "label": [
         "GJ 1116",
         "Giclas 9-38",
         "G 9-38"
       ],
-      "SIMBAD": "@1125676",
+      "group": "@1125676",
       "stars": [
         {
-          "name": "EI Cancri",
-          "othernames": [
+          "id": "EI Cancri",
+          "label": [
             "EI Cnc",
             "Gliese–Jahreiß 1116 A",
             "GJ 1116 A",
             "Giclas 9-38 A",
             "G 9-38 A"
           ],
-          "SIMBAD": "@8536444",
+          "group": "@8536444",
           "parallax": 191.2,
           "ra": [
             8,
@@ -2459,17 +2459,17 @@
             48.2
           ],
           "magnitude": 15.5,
-          "class": "M8Ve",
+          "description": "M8Ve",
           "mass": 0.11
         },
         {
-          "name": "Gliese–Jahreiß 1116 B",
-          "othernames": [
+          "id": "Gliese–Jahreiß 1116 B",
+          "label": [
             "GJ 1116 A",
             "Giclas 9-38 A",
             "G 9-38 A"
           ],
-          "SIMBAD": "@1125675",
+          "group": "@1125675",
           "parallax": 191.2,
           "ra": [
             8,
@@ -2482,24 +2482,24 @@
             45.9
           ],
           "magnitude": 16.3,
-          "class": "M7V",
+          "description": "M7V",
           "mass": 0.1
         }
       ]
     },
     {
-      "name": null,
-      "othernames": [],
-      "SIMBAD": null,
+      "id": null,
+      "label": [],
+      "group": null,
       "stars": [
         {
-          "name": "Gliese–Jahreiß 3379",
-          "othernames": [
+          "id": "Gliese–Jahreiß 3379",
+          "label": [
             "GJ 3379",
             "Giclas 99-49",
             "G 99-49"
           ],
-          "SIMBAD": "@860203",
+          "group": "@860203",
           "parallax": 190.77,
           "ra": [
             6,
@@ -2512,24 +2512,24 @@
             23.6
           ],
           "magnitude": 12.7,
-          "class": "M3.5Ve",
+          "description": "M3.5Ve",
           "mass": 0.19
         }
       ]
     },
     {
-      "name": null,
-      "othernames": [],
-      "SIMBAD": null,
+      "id": null,
+      "label": [],
+      "group": null,
       "stars": [
         {
-          "name": "2MASS J15404341−5101357",
-          "othernames": [
+          "id": "2MASS J15404341−5101357",
+          "label": [
             "2M1540−51",
             "WISEA J154045.67−510139.3",
             "WISE 1540−5101"
           ],
-          "SIMBAD": "@8707153",
+          "group": "@8707153",
           "parallax": 188,
           "ra": [
             15,
@@ -2542,24 +2542,24 @@
             36
           ],
           "magnitude": 17,
-          "class": "M6.5",
+          "description": "M6.5",
           "mass": null
         }
       ]
     },
     {
-      "name": null,
-      "othernames": [],
-      "SIMBAD": null,
+      "id": null,
+      "label": [],
+      "group": null,
       "stars": [
         {
-          "name": "LHS 1723",
-          "othernames": [
+          "id": "LHS 1723",
+          "label": [
             "Gliese–Jahreiß 3323",
             "GJ 3323",
             "LP 656-38"
           ],
-          "SIMBAD": "@750158",
+          "group": "@750158",
           "parallax": 187.92,
           "ra": [
             5,
@@ -2572,24 +2572,24 @@
             46.4
           ],
           "magnitude": 13.6,
-          "class": "M4.0Ve",
+          "description": "M4.0Ve",
           "mass": 0.15
         }
       ]
     },
     {
-      "name": "2MASS J09393548−2448279",
-      "othernames": [
+      "id": "2MASS J09393548−2448279",
+      "label": [
         "2M0939−24"
       ],
-      "SIMBAD": "@1650154",
+      "group": "@1650154",
       "stars": [
         {
-          "name": "2MASS J09393548−2448279 A",
-          "othernames": [
+          "id": "2MASS J09393548−2448279 A",
+          "label": [
             "2M0939−24 A"
           ],
-          "SIMBAD": null,
+          "group": null,
           "parallax": 187.3,
           "ra": [
             9,
@@ -2602,15 +2602,15 @@
             27.9
           ],
           "magnitude": null,
-          "class": "T8",
+          "description": "T8",
           "mass": 0.03
         },
         {
-          "name": "2MASS J09393548−2448279 B",
-          "othernames": [
+          "id": "2MASS J09393548−2448279 B",
+          "label": [
             "2M0939−24 B"
           ],
-          "SIMBAD": null,
+          "group": null,
           "parallax": 187.3,
           "ra": [
             9,
@@ -2623,24 +2623,24 @@
             27.9
           ],
           "magnitude": null,
-          "class": "T8",
+          "description": "T8",
           "mass": 0.03
         }
       ]
     },
     {
-      "name": null,
-      "othernames": [],
-      "SIMBAD": null,
+      "id": null,
+      "label": [],
+      "group": null,
       "stars": [
         {
-          "name": "Gliese 445",
-          "othernames": [
+          "id": "Gliese 445",
+          "label": [
             "GJ 445",
             "Giclas 254-29",
             "G 254-29"
           ],
-          "SIMBAD": "@391571",
+          "group": "@391571",
           "parallax": 187.26,
           "ra": [
             11,
@@ -2653,23 +2653,23 @@
             28.2
           ],
           "magnitude": 12.2,
-          "class": "M4.0Ve",
+          "description": "M4.0Ve",
           "mass": 0.24
         }
       ]
     },
     {
-      "name": null,
-      "othernames": [],
-      "SIMBAD": null,
+      "id": null,
+      "label": [],
+      "group": null,
       "stars": [
         {
-          "name": "Wolf 498",
-          "othernames": [
+          "id": "Wolf 498",
+          "label": [
             "Gliese 526",
             "GJ 526"
           ],
-          "SIMBAD": "@2196724",
+          "group": "@2196724",
           "parallax": 184.72,
           "ra": [
             13,
@@ -2682,22 +2682,22 @@
             29.5
           ],
           "magnitude": 9.79,
-          "class": "M2V",
+          "description": "M2V",
           "mass": 0.53
         }
       ]
     },
     {
-      "name": null,
-      "othernames": [],
-      "SIMBAD": null,
+      "id": null,
+      "label": [],
+      "group": null,
       "stars": [
         {
-          "name": "WISE J035000.32−565830.2",
-          "othernames": [
+          "id": "WISE J035000.32−565830.2",
+          "label": [
             "WISE 0350−5658"
           ],
-          "SIMBAD": "@7834503",
+          "group": "@7834503",
           "parallax": 184,
           "ra": [
             3,
@@ -2710,25 +2710,25 @@
             30.2
           ],
           "magnitude": null,
-          "class": "Y1",
+          "description": "Y1",
           "mass": null
         }
       ]
     },
     {
-      "name": "Stein 2051",
-      "othernames": [
+      "id": "Stein 2051",
+      "label": [
         "STN 2051",
         "Gliese 169.1",
         "GJ 169.1",
         "Giclas 175-34",
         "G 175-34"
       ],
-      "SIMBAD": "@270626",
+      "group": "@270626",
       "stars": [
         {
-          "name": "Stein 2051 A",
-          "othernames": [
+          "id": "Stein 2051 A",
+          "label": [
             "STN 2051 A",
             "Gliese 169.1 A",
             "GJ 169.1 A",
@@ -2736,7 +2736,7 @@
             "Giclas 175-34 A",
             "G 175-34 A"
           ],
-          "SIMBAD": "@270532",
+          "group": "@270532",
           "parallax": 180.52,
           "ra": [
             4,
@@ -2749,12 +2749,12 @@
             37.4
           ],
           "magnitude": 12.3,
-          "class": "M4.0Ve",
+          "description": "M4.0Ve",
           "mass": 0.2
         },
         {
-          "name": "Stein 2051 B",
-          "othernames": [
+          "id": "Stein 2051 B",
+          "label": [
             "STN 2051 B",
             "Gliese 169.1 B",
             "GJ 169.1 B",
@@ -2762,7 +2762,7 @@
             "Giclas 175-34 B",
             "G 175-34 B"
           ],
-          "SIMBAD": "@270627",
+          "group": "@270627",
           "parallax": 180.52,
           "ra": [
             4,
@@ -2775,23 +2775,23 @@
             41.3
           ],
           "magnitude": 13.7,
-          "class": "DC5",
+          "description": "DC5",
           "mass": 0.5
         }
       ]
     },
     {
-      "name": null,
-      "othernames": [],
-      "SIMBAD": null,
+      "id": null,
+      "label": [],
+      "group": null,
       "stars": [
         {
-          "name": "WISE J174124.25+255319.6",
-          "othernames": [
+          "id": "WISE J174124.25+255319.6",
+          "label": [
             "WISEA J174124.22+255319.2",
             "WISE 1741+2553"
           ],
-          "SIMBAD": "@7828822",
+          "group": "@7828822",
           "parallax": 180,
           "ra": [
             17,
@@ -2804,24 +2804,24 @@
             34.4
           ],
           "magnitude": null,
-          "class": "T9",
+          "description": "T9",
           "mass": null
         }
       ]
     },
     {
-      "name": null,
-      "othernames": [],
-      "SIMBAD": null,
+      "id": null,
+      "label": [],
+      "group": null,
       "stars": [
         {
-          "name": "Gliese 251",
-          "othernames": [
+          "id": "Gliese 251",
+          "label": [
             "GJ 251",
             "Wolf 294",
             "HD 265866"
           ],
-          "SIMBAD": "@918890",
+          "group": "@918890",
           "parallax": 178.11,
           "ra": [
             6,
@@ -2834,22 +2834,22 @@
             5.4
           ],
           "magnitude": 11.3,
-          "class": "M3V",
+          "description": "M3V",
           "mass": 0.34
         }
       ]
     },
     {
-      "name": null,
-      "othernames": [],
-      "SIMBAD": null,
+      "id": null,
+      "label": [],
+      "group": null,
       "stars": [
         {
-          "name": "2MASS J11145133−2618235",
-          "othernames": [
+          "id": "2MASS J11145133−2618235",
+          "label": [
             "2M1114−26"
           ],
-          "SIMBAD": "@1796189",
+          "group": "@1796189",
           "parallax": 176.8,
           "ra": [
             11,
@@ -2862,22 +2862,22 @@
             23.6
           ],
           "magnitude": null,
-          "class": "T7.5",
+          "description": "T7.5",
           "mass": 0.03
         }
       ]
     },
     {
-      "name": null,
-      "othernames": [],
-      "SIMBAD": null,
+      "id": null,
+      "label": [],
+      "group": null,
       "stars": [
         {
-          "name": "2MASS J18353790+3259545",
-          "othernames": [
+          "id": "2MASS J18353790+3259545",
+          "label": [
             "2M1835+32"
           ],
-          "SIMBAD": "@2842753",
+          "group": "@2842753",
           "parallax": 176.5,
           "ra": [
             18,
@@ -2890,24 +2890,24 @@
             53.3
           ],
           "magnitude": 19.5,
-          "class": "M8.5V",
+          "description": "M8.5V",
           "mass": 0.07
         }
       ]
     },
     {
-      "name": null,
-      "othernames": [],
-      "SIMBAD": null,
+      "id": null,
+      "label": [],
+      "group": null,
       "stars": [
         {
-          "name": "Gliese 205",
-          "othernames": [
+          "id": "Gliese 205",
+          "label": [
             "GJ 205",
             "Wolf 1453",
             "HD 36395"
           ],
-          "SIMBAD": "@800490",
+          "group": "@800490",
           "parallax": 175.99,
           "ra": [
             5,
@@ -2920,22 +2920,22 @@
             38
           ],
           "magnitude": 9.18,
-          "class": "M1.5Ve",
+          "description": "M1.5Ve",
           "mass": 0.57
         }
       ]
     },
     {
-      "name": null,
-      "othernames": [],
-      "SIMBAD": null,
+      "id": null,
+      "label": [],
+      "group": null,
       "stars": [
         {
-          "name": "WISE J154151.65−225024.9",
-          "othernames": [
+          "id": "WISE J154151.65−225024.9",
+          "label": [
             "WISE 1541−2250"
           ],
-          "SIMBAD": "@6327824",
+          "group": "@6327824",
           "parallax": 175.1,
           "ra": [
             15,
@@ -2948,20 +2948,20 @@
             25
           ],
           "magnitude": null,
-          "class": "Y0",
+          "description": "Y0",
           "mass": 0.01
         }
       ]
     },
     {
-      "name": null,
-      "othernames": [],
-      "SIMBAD": null,
+      "id": null,
+      "label": [],
+      "group": null,
       "stars": [
         {
-          "name": "LP 816-60",
-          "othernames": [],
-          "SIMBAD": "@11684877",
+          "id": "LP 816-60",
+          "label": [],
+          "group": "@11684877",
           "parallax": 175.03,
           "ra": [
             20,
@@ -2974,22 +2974,22 @@
             29
           ],
           "magnitude": 12.7,
-          "class": "M4V",
+          "description": "M4V",
           "mass": 0.19
         }
       ]
     },
     {
-      "name": null,
-      "othernames": [],
-      "SIMBAD": null,
+      "id": null,
+      "label": [],
+      "group": null,
       "stars": [
         {
-          "name": "2MASS J04151954−0935066",
-          "othernames": [
+          "id": "2MASS J04151954−0935066",
+          "label": [
             "2M0415−09"
           ],
-          "SIMBAD": "@702025",
+          "group": "@702025",
           "parallax": 174.34,
           "ra": [
             4,
@@ -3002,25 +3002,25 @@
             6.7
           ],
           "magnitude": null,
-          "class": "T8.0",
+          "description": "T8.0",
           "mass": 0.03
         }
       ]
     },
     {
-      "name": null,
-      "othernames": [],
-      "SIMBAD": null,
+      "id": null,
+      "label": [],
+      "group": null,
       "stars": [
         {
-          "name": "Alsafi",
-          "othernames": [
+          "id": "Alsafi",
+          "label": [
             "Sigma Draconis",
             "σ Dra",
             "Gliese 764",
             "GJ 764"
           ],
-          "SIMBAD": "@288537",
+          "group": "@288537",
           "parallax": 173.79,
           "ra": [
             19,
@@ -3033,28 +3033,28 @@
             40.2
           ],
           "magnitude": 5.87,
-          "class": "K0V",
+          "description": "K0V",
           "mass": 0.89
         }
       ]
     },
     {
-      "name": "Gliese 229",
-      "othernames": [
+      "id": "Gliese 229",
+      "label": [
         "GJ 229"
       ],
-      "SIMBAD": "@6343844",
+      "group": "@6343844",
       "stars": [
         {
-          "name": "Gliese 229 A",
-          "othernames": [
+          "id": "Gliese 229 A",
+          "label": [
             "GJ 229 A",
             "Gliese 229",
             "GJ 229",
             "HD 42581 A",
             "HD 42581"
           ],
-          "SIMBAD": "@864875",
+          "group": "@864875",
           "parallax": 173.77,
           "ra": [
             6,
@@ -3067,16 +3067,16 @@
             52.7
           ],
           "magnitude": 9.34,
-          "class": "M1V",
+          "description": "M1V",
           "mass": 0.56
         },
         {
-          "name": "Gliese 229 B",
-          "othernames": [
+          "id": "Gliese 229 B",
+          "label": [
             "GJ 229 A",
             "HD 42581 B"
           ],
-          "SIMBAD": "@864867",
+          "group": "@864867",
           "parallax": 173.77,
           "ra": [
             6,
@@ -3089,25 +3089,25 @@
             0
           ],
           "magnitude": null,
-          "class": "T6.5",
+          "description": "T6.5",
           "mass": 0.002
         }
       ]
     },
     {
-      "name": null,
-      "othernames": [],
-      "SIMBAD": null,
+      "id": null,
+      "label": [],
+      "group": null,
       "stars": [
         {
-          "name": "Ross 47",
-          "othernames": [
+          "id": "Ross 47",
+          "label": [
             "V1352 Orionis",
             "V1352 Ori",
             "Gliese 213",
             "GJ 213"
           ],
-          "SIMBAD": "@824471",
+          "group": "@824471",
           "parallax": 171.5,
           "ra": [
             5,
@@ -3120,24 +3120,24 @@
             21.6
           ],
           "magnitude": 12.7,
-          "class": "M4V",
+          "description": "M4V",
           "mass": 0.18
         }
       ]
     },
     {
-      "name": null,
-      "othernames": [],
-      "SIMBAD": null,
+      "id": null,
+      "label": [],
+      "group": null,
       "stars": [
         {
-          "name": "Gliese 693",
-          "othernames": [
+          "id": "Gliese 693",
+          "label": [
             "GJ 693",
             "Luyten 205-128",
             "L 205-128"
           ],
-          "SIMBAD": "@3464606",
+          "group": "@3464606",
           "parallax": 171.1,
           "ra": [
             17,
@@ -3150,28 +3150,28 @@
             8.6
           ],
           "magnitude": 11.9,
-          "class": "M3.5V",
+          "description": "M3.5V",
           "mass": 0.26
         }
       ]
     },
     {
-      "name": "Gliese 752",
-      "othernames": [
+      "id": "Gliese 752",
+      "label": [
         "GJ 752"
       ],
-      "SIMBAD": "@6211054",
+      "group": "@6211054",
       "stars": [
         {
-          "name": "Gliese 752 A",
-          "othernames": [
+          "id": "Gliese 752 A",
+          "label": [
             "GJ 752 A",
             "V1428 Aquilae",
             "V1428 Aql",
             "Wolf 1055",
             "HD 180617"
           ],
-          "SIMBAD": "@2674706",
+          "group": "@2674706",
           "parallax": 170.96,
           "ra": [
             19,
@@ -3184,12 +3184,12 @@
             8
           ],
           "magnitude": 10.3,
-          "class": "M3V",
+          "description": "M3V",
           "mass": 0.5
         },
         {
-          "name": "Van Biesbroeck’s star",
-          "othernames": [
+          "id": "Van Biesbroeck’s star",
+          "label": [
             "Van Biesbroeck 10",
             "VB 10",
             "Gliese 752 B",
@@ -3197,7 +3197,7 @@
             "V1298 Aquilae",
             "V1298 Aql"
           ],
-          "SIMBAD": "@2674153",
+          "group": "@2674153",
           "parallax": 170.96,
           "ra": [
             19,
@@ -3210,23 +3210,23 @@
             1.6
           ],
           "magnitude": 18.6,
-          "class": "M8V",
+          "description": "M8V",
           "mass": 0.07
         }
       ]
     },
     {
-      "name": "33 G. Librae",
-      "othernames": [
+      "id": "33 G. Librae",
+      "label": [
         "33 G Lib",
         "Gliese 570",
         "GJ 570"
       ],
-      "SIMBAD": null,
+      "group": null,
       "stars": [
         {
-          "name": "33 G. Librae A",
-          "othernames": [
+          "id": "33 G. Librae A",
+          "label": [
             "33 G Lib A",
             "Gliese 570 A",
             "GJ 570 A",
@@ -3234,7 +3234,7 @@
             "KX Lib",
             "HD 131977"
           ],
-          "SIMBAD": "@2309740",
+          "group": "@2309740",
           "parallax": 170.62,
           "ra": [
             14,
@@ -3247,19 +3247,19 @@
             55.7
           ],
           "magnitude": 6.8,
-          "class": "K4V",
+          "description": "K4V",
           "mass": 0.78
         },
         {
-          "name": "33 G. Librae B",
-          "othernames": [
+          "id": "33 G. Librae B",
+          "label": [
             "33 G Lib B",
             "Gliese 570 B",
             "Gliese 570 Ba",
             "GJ 570 B",
             "GJ 570 Ba"
           ],
-          "SIMBAD": "@2309903",
+          "group": "@2309903",
           "parallax": 170.62,
           "ra": [
             14,
@@ -3272,19 +3272,19 @@
             41.6
           ],
           "magnitude": 9.46,
-          "class": "M1.5V",
+          "description": "M1.5V",
           "mass": 0.55
         },
         {
-          "name": "33 G. Librae C",
-          "othernames": [
+          "id": "33 G. Librae C",
+          "label": [
             "33 G Lib C",
             "Gliese 570 C",
             "Gliese 570 Bb",
             "GJ 570 C",
             "GJ 570 Bb"
           ],
-          "SIMBAD": null,
+          "group": null,
           "parallax": 170.62,
           "ra": [
             14,
@@ -3297,17 +3297,17 @@
             41.6
           ],
           "magnitude": 11.1,
-          "class": "M?V",
+          "description": "M?V",
           "mass": 0.36
         },
         {
-          "name": "33 G. Librae D",
-          "othernames": [
+          "id": "33 G. Librae D",
+          "label": [
             "33 G Lib D",
             "Gliese 570 D",
             "GJ 570 D"
           ],
-          "SIMBAD": "@2309879",
+          "group": "@2309879",
           "parallax": 170.62,
           "ra": [
             14,
@@ -3320,24 +3320,24 @@
             47.8
           ],
           "magnitude": null,
-          "class": "T8",
+          "description": "T8",
           "mass": 0.05
         }
       ]
     },
     {
-      "name": null,
-      "othernames": [],
-      "SIMBAD": null,
+      "id": null,
+      "label": [],
+      "group": null,
       "stars": [
         {
-          "name": "Gliese 754",
-          "othernames": [
+          "id": "Gliese 754",
+          "label": [
             "GJ 754",
             "Luyten 347-14",
             "L 347-14"
           ],
-          "SIMBAD": "@3528915",
+          "group": "@3528915",
           "parallax": 169.17,
           "ra": [
             19,
@@ -3350,23 +3350,23 @@
             29.6
           ],
           "magnitude": 13.4,
-          "class": "M4.5",
+          "description": "M4.5",
           "mass": 0.16
         }
       ]
     },
     {
-      "name": null,
-      "othernames": [],
-      "SIMBAD": null,
+      "id": null,
+      "label": [],
+      "group": null,
       "stars": [
         {
-          "name": "Gliese 588",
-          "othernames": [
+          "id": "Gliese 588",
+          "label": [
             "GJ 588",
             "CD−40 9712"
           ],
-          "SIMBAD": "@3518193",
+          "group": "@3518193",
           "parallax": 168.52,
           "ra": [
             15,
@@ -3379,28 +3379,28 @@
             32.1
           ],
           "magnitude": 10.4,
-          "class": "M2.5V",
+          "description": "M2.5V",
           "mass": 0.46
         }
       ]
     },
     {
-      "name": "Gliese–Jahreiß 1005",
-      "othernames": [
+      "id": "Gliese–Jahreiß 1005",
+      "label": [
         "GJ 1005",
         "Giclas 158-50",
         "G 158-50"
       ],
-      "SIMBAD": "@1304634",
+      "group": "@1304634",
       "stars": [
         {
-          "name": "Gliese–Jahreiß 1005 A",
-          "othernames": [
+          "id": "Gliese–Jahreiß 1005 A",
+          "label": [
             "GJ 1005 A",
             "Giclas 158-50 A",
             "G 158-50 A"
           ],
-          "SIMBAD": null,
+          "group": null,
           "parallax": 168.35,
           "ra": [
             0,
@@ -3413,17 +3413,17 @@
             2
           ],
           "magnitude": 12.7,
-          "class": "M3.5V",
+          "description": "M3.5V",
           "mass": 0.18
         },
         {
-          "name": "Gliese–Jahreiß 1005 B",
-          "othernames": [
+          "id": "Gliese–Jahreiß 1005 B",
+          "label": [
             "GJ 1005 B",
             "Giclas 158-50 B",
             "G 158-50 B"
           ],
-          "SIMBAD": null,
+          "group": null,
           "parallax": 168.35,
           "ra": [
             0,
@@ -3436,30 +3436,30 @@
             2
           ],
           "magnitude": 15.2,
-          "class": "M?V",
+          "description": "M?V",
           "mass": 0.11
         }
       ]
     },
     {
-      "name": "Achird",
-      "othernames": [
+      "id": "Achird",
+      "label": [
         "Eta Cassiopeiae",
         "η Cas",
         "Gliese 34",
         "GJ 34"
       ],
-      "SIMBAD": null,
+      "group": null,
       "stars": [
         {
-          "name": "Achird",
-          "othernames": [
+          "id": "Achird",
+          "label": [
             "Eta Cassiopeiae A",
             "η Cas A",
             "Gliese 34 A",
             "GJ 34 A"
           ],
-          "SIMBAD": "@106647",
+          "group": "@106647",
           "parallax": 168.23,
           "ra": [
             0,
@@ -3472,17 +3472,17 @@
             54.7
           ],
           "magnitude": 4.59,
-          "class": "F9V",
+          "description": "F9V",
           "mass": 1.11
         },
         {
-          "name": "Eta Cassiopeiae B",
-          "othernames": [
+          "id": "Eta Cassiopeiae B",
+          "label": [
             "η Cas B",
             "Gliese 34 B",
             "GJ 34 B"
           ],
-          "SIMBAD": "@106493",
+          "group": "@106493",
           "parallax": 168.23,
           "ra": [
             0,
@@ -3495,24 +3495,24 @@
             4.2
           ],
           "magnitude": 8.34,
-          "class": "K7Ve",
+          "description": "K7Ve",
           "mass": 0.6
         }
       ]
     },
     {
-      "name": null,
-      "othernames": [],
-      "SIMBAD": null,
+      "id": null,
+      "label": [],
+      "group": null,
       "stars": [
         {
-          "name": "2MASS J20005017+3629465",
-          "othernames": [
+          "id": "2MASS J20005017+3629465",
+          "label": [
             "2M2000+36",
             "WISE J200050.19+362950.1",
             "WISE 2000+3629"
           ],
-          "SIMBAD": "@8594318",
+          "group": "@8594318",
           "distance": 19.4,
           "ra": [
             20,
@@ -3525,29 +3525,29 @@
             46.5
           ],
           "magnitude": null,
-          "class": "T8",
+          "description": "T8",
           "mass": null
         }
       ]
     },
     {
-      "name": "Guniibuu",
-      "othernames": [
+      "id": "Guniibuu",
+      "label": [
         "36 Ophiuchi",
         "36 Oph"
       ],
-      "SIMBAD": "@5476200",
+      "group": "@5476200",
       "stars": [
         {
-          "name": "Guniibuu",
-          "othernames": [
+          "id": "Guniibuu",
+          "label": [
             "36 Ophiuchi A",
             "36 Oph A",
             "Gliese 663 A",
             "GJ 663 A",
             "HD 155886"
           ],
-          "SIMBAD": "@2490957",
+          "group": "@2490957",
           "parallax": 168.12,
           "ra": [
             17,
@@ -3560,18 +3560,18 @@
             6.1
           ],
           "magnitude": 6.2,
-          "class": "K2V",
+          "description": "K2V",
           "mass": 0.85
         },
         {
-          "name": "36 Ophiuchi B",
-          "othernames": [
+          "id": "36 Ophiuchi B",
+          "label": [
             "36 Oph B",
             "Gliese 663 B",
             "GJ 663 B",
             "HD 155885"
           ],
-          "SIMBAD": "@2491022",
+          "group": "@2491022",
           "parallax": 168.12,
           "ra": [
             17,
@@ -3584,19 +3584,19 @@
             10.2
           ],
           "magnitude": 6.21,
-          "class": "K1V",
+          "description": "K1V",
           "mass": 0.85
         },
         {
-          "name": "36 Ophiuchi C",
-          "othernames": [
+          "id": "36 Ophiuchi C",
+          "label": [
             "36 Oph C",
             "V2215 Ophiuchi",
             "V2215 Oph",
             "Gliese 664",
             "GJ 664"
           ],
-          "SIMBAD": "@2490959",
+          "group": "@2490959",
           "parallax": 168.12,
           "ra": [
             17,
@@ -3609,24 +3609,24 @@
             46.1
           ],
           "magnitude": 7.45,
-          "class": "K5V",
+          "description": "K5V",
           "mass": 0.71
         }
       ]
     },
     {
-      "name": null,
-      "othernames": [],
-      "SIMBAD": null,
+      "id": null,
+      "label": [],
+      "group": null,
       "stars": [
         {
-          "name": "BR Piscium",
-          "othernames": [
+          "id": "BR Piscium",
+          "label": [
             "BR Psc",
             "Gliese 908",
             "GJ 908"
           ],
-          "SIMBAD": "@1386854",
+          "group": "@1386854",
           "parallax": 168.02,
           "ra": [
             23,
@@ -3639,25 +3639,25 @@
             4.4
           ],
           "magnitude": 10.1,
-          "class": "M1V",
+          "description": "M1V",
           "mass": 0.51
         }
       ]
     },
     {
-      "name": null,
-      "othernames": [],
-      "SIMBAD": null,
+      "id": null,
+      "label": [],
+      "group": null,
       "stars": [
         {
-          "name": "YZ Canis Majoris",
-          "othernames": [
+          "id": "YZ Canis Majoris",
+          "label": [
             "YZ CMi",
             "Gliese 285",
             "GJ 285",
             "Ross 882"
           ],
-          "SIMBAD": "@1007377",
+          "group": "@1007377",
           "parallax": 167.19,
           "ra": [
             7,
@@ -3670,29 +3670,29 @@
             8.9
           ],
           "magnitude": 12.3,
-          "class": "M4.0V",
+          "description": "M4.0V",
           "mass": 0.2
         }
       ]
     },
     {
-      "name": "279 G. Sagittarii",
-      "othernames": [
+      "id": "279 G. Sagittarii",
+      "label": [
         "279 G Sgr",
         "Gliese 783",
         "GJ 783",
         "HR 7703"
       ],
-      "SIMBAD": "@10059989",
+      "group": "@10059989",
       "stars": [
         {
-          "name": "279 G. Sagittarii A",
-          "othernames": [
+          "id": "279 G. Sagittarii A",
+          "label": [
             "279 G Sgr A",
             "Gliese 783 A",
             "GJ 783 A"
           ],
-          "SIMBAD": "@2339646",
+          "group": "@2339646",
           "parallax": 166.26,
           "ra": [
             20,
@@ -3705,17 +3705,17 @@
             4.4
           ],
           "magnitude": 6.42,
-          "class": "K2.5V",
+          "description": "K2.5V",
           "mass": 0.82
         },
         {
-          "name": "279 G. Sagittarii B",
-          "othernames": [
+          "id": "279 G. Sagittarii B",
+          "label": [
             "279 G Sgr B",
             "Gliese 783 B",
             "GJ 783 B"
           ],
-          "SIMBAD": "@10059987",
+          "group": "@10059987",
           "parallax": 166.26,
           "ra": [
             20,
@@ -3728,28 +3728,28 @@
             9
           ],
           "magnitude": 12.6,
-          "class": "M3.5",
+          "description": "M3.5",
           "mass": 0.19
         }
       ]
     },
     {
-      "name": "2MASS J07200325−0846499",
-      "othernames": [
+      "id": "2MASS J07200325−0846499",
+      "label": [
         "2M0720−08",
         "WISE J072003.20−084651.2",
         "WISE 0720−0846",
         "Scholz’s Star"
       ],
-      "SIMBAD": "@8537533",
+      "group": "@8537533",
       "stars": [
         {
-          "name": "2MASS J07200325−0846499 A",
-          "othernames": [
+          "id": "2MASS J07200325−0846499 A",
+          "label": [
             "2M0720−08 A",
             "Scholz’s Star A"
           ],
-          "SIMBAD": null,
+          "group": null,
           "parallax": 166,
           "ra": [
             7,
@@ -3762,16 +3762,16 @@
             49.9
           ],
           "magnitude": 19.4,
-          "class": "M9.5",
+          "description": "M9.5",
           "mass": 0.08
         },
         {
-          "name": "2MASS J07200325−0846499 B",
-          "othernames": [
+          "id": "2MASS J07200325−0846499 B",
+          "label": [
             "2M0720−08 B",
             "Scholz’s Star B"
           ],
-          "SIMBAD": null,
+          "group": null,
           "parallax": 166,
           "ra": [
             7,
@@ -3784,26 +3784,26 @@
             49.9
           ],
           "magnitude": null,
-          "class": "T5",
+          "description": "T5",
           "mass": 0.06
         }
       ]
     },
     {
-      "name": null,
-      "othernames": [],
-      "SIMBAD": null,
+      "id": null,
+      "label": [],
+      "group": null,
       "stars": [
         {
-          "name": "82 G. Eridani",
-          "othernames": [
+          "id": "82 G. Eridani",
+          "label": [
             "82 G Eri",
             "e Eridani",
             "e Eri",
             "Gliese 139",
             "GJ 139"
           ],
-          "SIMBAD": "@3000889",
+          "group": "@3000889",
           "parallax": 165.47,
           "ra": [
             3,
@@ -3816,24 +3816,24 @@
             11.2
           ],
           "magnitude": 5.35,
-          "class": "G6V",
+          "description": "G6V",
           "mass": 0.97
         }
       ]
     },
     {
-      "name": null,
-      "othernames": [],
-      "SIMBAD": null,
+      "id": null,
+      "label": [],
+      "group": null,
       "stars": [
         {
-          "name": "Giclas 240-72",
-          "othernames": [
+          "id": "Giclas 240-72",
+          "label": [
             "G 240-72",
             "Gliese–Jahreiß 1221",
             "GJ 1221"
           ],
-          "SIMBAD": "@327959",
+          "group": "@327959",
           "parallax": 164.7,
           "ra": [
             17,
@@ -3846,27 +3846,27 @@
             35.9
           ],
           "magnitude": 15.3,
-          "class": "DQ9P",
+          "description": "DQ9P",
           "mass": 0.5
         }
       ]
     },
     {
-      "name": "ADS 7251",
-      "othernames": [
+      "id": "ADS 7251",
+      "label": [
         "Gliese 338",
         "GJ 338"
       ],
-      "SIMBAD": "@508940",
+      "group": "@508940",
       "stars": [
         {
-          "name": "ADS 7251 A",
-          "othernames": [
+          "id": "ADS 7251 A",
+          "label": [
             "Gliese 338 A",
             "GJ 338 A",
             "HD 79210"
           ],
-          "SIMBAD": "@508937",
+          "group": "@508937",
           "parallax": 163.73,
           "ra": [
             9,
@@ -3879,17 +3879,17 @@
             11.8
           ],
           "magnitude": 8.71,
-          "class": "K7V",
+          "description": "K7V",
           "mass": 0.6
         },
         {
-          "name": "ADS 7251 B",
-          "othernames": [
+          "id": "ADS 7251 B",
+          "label": [
             "Gliese 338 B",
             "GJ 338 B",
             "HD 79211"
           ],
-          "SIMBAD": "@508941",
+          "group": "@508941",
           "parallax": 163.73,
           "ra": [
             9,
@@ -3902,24 +3902,24 @@
             10.9
           ],
           "magnitude": 8.77,
-          "class": "M0V",
+          "description": "M0V",
           "mass": 0.6
         }
       ]
     },
     {
-      "name": null,
-      "othernames": [],
-      "SIMBAD": null,
+      "id": null,
+      "label": [],
+      "group": null,
       "stars": [
         {
-          "name": "Delta Pavonis",
-          "othernames": [
+          "id": "Delta Pavonis",
+          "label": [
             "δ Pav",
             "Gliese 780",
             "GJ 780"
           ],
-          "SIMBAD": "@3402701",
+          "group": "@3402701",
           "parallax": 163.71,
           "ra": [
             20,
@@ -3932,24 +3932,24 @@
             55.4
           ],
           "magnitude": 4.62,
-          "class": "G8IV",
+          "description": "G8IV",
           "mass": 1.1
         }
       ]
     },
     {
-      "name": null,
-      "othernames": [],
-      "SIMBAD": null,
+      "id": null,
+      "label": [],
+      "group": null,
       "stars": [
         {
-          "name": "2MASS J01365662+0933473",
-          "othernames": [
+          "id": "2MASS J01365662+0933473",
+          "label": [
             "2M0136+09",
             "SIMP J013656.5+093347.3",
             "SIMP J0136+0933"
           ],
-          "SIMBAD": "@3764472",
+          "group": "@3764472",
           "parallax": 163.68,
           "ra": [
             1,
@@ -3962,26 +3962,26 @@
             47.3
           ],
           "magnitude": 0,
-          "class": "T2.5",
+          "description": "T2.5",
           "mass": 0.01
         }
       ]
     },
     {
-      "name": "QY Aurigae",
-      "othernames": [
+      "id": "QY Aurigae",
+      "label": [
         "Gliese 268",
         "GJ 268"
       ],
-      "SIMBAD": "@950903",
+      "group": "@950903",
       "stars": [
         {
-          "name": "QY Aurigae A",
-          "othernames": [
+          "id": "QY Aurigae A",
+          "label": [
             "Gliese 268 A",
             "GJ 268 A"
           ],
-          "SIMBAD": null,
+          "group": null,
           "parallax": 163.41,
           "ra": [
             7,
@@ -3994,16 +3994,16 @@
             46.1
           ],
           "magnitude": 13.1,
-          "class": "M4.5Ve",
+          "description": "M4.5Ve",
           "mass": 0.17
         },
         {
-          "name": "QY Aurigae B",
-          "othernames": [
+          "id": "QY Aurigae B",
+          "label": [
             "Gliese 268 B",
             "GJ 268 B"
           ],
-          "SIMBAD": null,
+          "group": null,
           "parallax": 163.41,
           "ra": [
             7,
@@ -4016,22 +4016,22 @@
             46.1
           ],
           "magnitude": 13.5,
-          "class": "M?V",
+          "description": "M?V",
           "mass": 0.16
         }
       ]
     },
     {
-      "name": null,
-      "othernames": [],
-      "SIMBAD": null,
+      "id": null,
+      "label": [],
+      "group": null,
       "stars": [
         {
-          "name": "2MASS J09373487+2931409",
-          "othernames": [
+          "id": "2MASS J09373487+2931409",
+          "label": [
             "2M0937+29"
           ],
-          "SIMBAD": "@1641668",
+          "group": "@1641668",
           "parallax": 163.3,
           "ra": [
             9,
@@ -4044,23 +4044,23 @@
             41
           ],
           "magnitude": null,
-          "class": "T6.0",
+          "description": "T6.0",
           "mass": 0.03
         }
       ]
     },
     {
-      "name": null,
-      "othernames": [],
-      "SIMBAD": null,
+      "id": null,
+      "label": [],
+      "group": null,
       "stars": [
         {
-          "name": "Gliese 784",
-          "othernames": [
+          "id": "Gliese 784",
+          "label": [
             "GJ 784",
             "HD 191849"
           ],
-          "SIMBAD": "@3514522",
+          "group": "@3514522",
           "parallax": 161.35,
           "ra": [
             20,
@@ -4073,25 +4073,25 @@
             50.5
           ],
           "magnitude": 8.99,
-          "class": "M0V",
+          "description": "M0V",
           "mass": 0.58
         }
       ]
     },
     {
-      "name": null,
-      "othernames": [],
-      "SIMBAD": null,
+      "id": null,
+      "label": [],
+      "group": null,
       "stars": [
         {
-          "name": "HN Librae",
-          "othernames": [
+          "id": "HN Librae",
+          "label": [
             "HN Lib",
             "Gliese 555",
             "GJ 555",
             "BD−11 3759"
           ],
-          "SIMBAD": "@11681398",
+          "group": "@11681398",
           "parallax": 160.78,
           "ra": [
             14,
@@ -4104,22 +4104,22 @@
             10.4
           ],
           "magnitude": 12.4,
-          "class": "M3.5V",
+          "description": "M3.5V",
           "mass": 0.2
         }
       ]
     },
     {
-      "name": null,
-      "othernames": [],
-      "SIMBAD": null,
+      "id": null,
+      "label": [],
+      "group": null,
       "stars": [
         {
-          "name": "WISE J041022.71+150248.4",
-          "othernames": [
+          "id": "WISE J041022.71+150248.4",
+          "label": [
             "WISE 0410+1502"
           ],
-          "SIMBAD": "@6327822",
+          "group": "@6327822",
           "parallax": 160,
           "ra": [
             4,
@@ -4132,30 +4132,30 @@
             48.5
           ],
           "magnitude": null,
-          "class": "Y0",
+          "description": "Y0",
           "mass": 0.003
         }
       ]
     },
     {
-      "name": "EQ Pegasi",
-      "othernames": [
+      "id": "EQ Pegasi",
+      "label": [
         "EQ Peg",
         "Gliese 896",
         "GJ 896",
         "BD+19 5116"
       ],
-      "SIMBAD": "@1473023",
+      "group": "@1473023",
       "stars": [
         {
-          "name": "EQ Pegasi A",
-          "othernames": [
+          "id": "EQ Pegasi A",
+          "label": [
             "EQ Peg A",
             "Gliese 896 A",
             "GJ 896 A",
             "BD+19 5116 A"
           ],
-          "SIMBAD": "@5610042",
+          "group": "@5610042",
           "parallax": 159.88,
           "ra": [
             23,
@@ -4168,18 +4168,18 @@
             14.1
           ],
           "magnitude": 11.3,
-          "class": "M3.5Ve",
+          "description": "M3.5Ve",
           "mass": 0.33
         },
         {
-          "name": "EQ Pegasi B",
-          "othernames": [
+          "id": "EQ Pegasi B",
+          "label": [
             "EQ Peg B",
             "Gliese 896 B",
             "GJ 896 B",
             "BD+19 5116 B"
           ],
-          "SIMBAD": "@1473123",
+          "group": "@1473123",
           "parallax": 159.88,
           "ra": [
             23,
@@ -4192,25 +4192,25 @@
             14
           ],
           "magnitude": 13.4,
-          "class": "M4.0Ve",
+          "description": "M4.0Ve",
           "mass": 0.16
         }
       ]
     },
     {
-      "name": null,
-      "othernames": [],
-      "SIMBAD": null,
+      "id": null,
+      "label": [],
+      "group": null,
       "stars": [
         {
-          "name": "HO Librae",
-          "othernames": [
+          "id": "HO Librae",
+          "label": [
             "HO Lib",
             "Gliese 581",
             "GJ 581",
             "BD−07 4003"
           ],
-          "SIMBAD": "@11585269",
+          "group": "@11585269",
           "parallax": 157.8,
           "ra": [
             15,
@@ -4223,20 +4223,20 @@
             20.2
           ],
           "magnitude": 11.6,
-          "class": "M3V",
+          "description": "M3V",
           "mass": 0.3
         }
       ]
     },
     {
-      "name": null,
-      "othernames": [],
-      "SIMBAD": null,
+      "id": null,
+      "label": [],
+      "group": null,
       "stars": [
         {
-          "name": "LHS 2090",
-          "othernames": [],
-          "SIMBAD": "@1602862",
+          "id": "LHS 2090",
+          "label": [],
+          "group": "@1602862",
           "parallax": 156.87,
           "ra": [
             9,
@@ -4249,25 +4249,25 @@
             4.9
           ],
           "magnitude": 17.1,
-          "class": "M6.5Ve",
+          "description": "M6.5Ve",
           "mass": 0.09
         }
       ]
     },
     {
-      "name": null,
-      "othernames": [],
-      "SIMBAD": null,
+      "id": null,
+      "label": [],
+      "group": null,
       "stars": [
         {
-          "name": "LHS 337",
-          "othernames": [
+          "id": "LHS 337",
+          "label": [
             "Gliese–Jahreiß 3737",
             "GJ 3737",
             "Luyten 471-42",
             "L 471-42"
           ],
-          "SIMBAD": "@1974087",
+          "group": "@1974087",
           "parallax": 156.78,
           "ra": [
             12,
@@ -4280,28 +4280,28 @@
             53.7
           ],
           "magnitude": 13.7,
-          "class": "M4.0V",
+          "description": "M4.0V",
           "mass": 0.15
         }
       ]
     },
     {
-      "name": "Furuhjelm 46",
-      "othernames": [
+      "id": "Furuhjelm 46",
+      "label": [
         "Gliese 661",
         "GJ 661",
         "HD 155876"
       ],
-      "SIMBAD": "@385171",
+      "group": "@385171",
       "stars": [
         {
-          "name": "Furuhjelm 46 A",
-          "othernames": [
+          "id": "Furuhjelm 46 A",
+          "label": [
             "Gliese 661 A",
             "GJ 661 A",
             "HD 155876 A"
           ],
-          "SIMBAD": null,
+          "group": null,
           "parallax": 156.32,
           "ra": [
             17,
@@ -4314,17 +4314,17 @@
             57.2
           ],
           "magnitude": 10.9,
-          "class": "M3V",
+          "description": "M3V",
           "mass": 0.39
         },
         {
-          "name": "Furuhjelm 46 B",
-          "othernames": [
+          "id": "Furuhjelm 46 B",
+          "label": [
             "Gliese 661 B",
             "GJ 661 B",
             "HD 155876 A"
           ],
-          "SIMBAD": null,
+          "group": null,
           "parallax": 156.32,
           "ra": [
             17,
@@ -4337,25 +4337,25 @@
             57.2
           ],
           "magnitude": 11.3,
-          "class": "M4V",
+          "description": "M4V",
           "mass": 0.33
         }
       ]
     },
     {
-      "name": null,
-      "othernames": [],
-      "SIMBAD": null,
+      "id": null,
+      "label": [],
+      "group": null,
       "stars": [
         {
-          "name": "Gliese 223.2",
-          "othernames": [
+          "id": "Gliese 223.2",
+          "label": [
             "GJ 223.2",
             "Gliese–Jahreiß 9193",
             "GJ 9193",
             "LP 658-2"
           ],
-          "SIMBAD": "@845378",
+          "group": "@845378",
           "parallax": 156.05,
           "ra": [
             5,
@@ -4368,23 +4368,23 @@
             7.1
           ],
           "magnitude": 15.4,
-          "class": "DZ11",
+          "description": "DZ11",
           "mass": 0.5
         }
       ]
     },
     {
-      "name": null,
-      "othernames": [],
-      "SIMBAD": null,
+      "id": null,
+      "label": [],
+      "group": null,
       "stars": [
         {
-          "name": "LP 944-20",
-          "othernames": [
+          "id": "LP 944-20",
+          "label": [
             "2MASS J03393521−3525440",
             "2M0339−35"
           ],
-          "SIMBAD": "@670767",
+          "group": "@670767",
           "parallax": 155.6,
           "ra": [
             3,
@@ -4397,27 +4397,27 @@
             43.6
           ],
           "magnitude": 20.2,
-          "class": "M9.5V",
+          "description": "M9.5V",
           "mass": 0.07
         }
       ]
     },
     {
-      "name": "Gliese 644/643",
-      "othernames": [
+      "id": "Gliese 644/643",
+      "label": [
         "GJ 644/643"
       ],
-      "SIMBAD": null,
+      "group": null,
       "stars": [
         {
-          "name": "V1054 Ophiuchi A",
-          "othernames": [
+          "id": "V1054 Ophiuchi A",
+          "label": [
             "V1054 Oph A",
             "Gliese 644 A",
             "GJ 644 A",
             "Wolf 630 A"
           ],
-          "SIMBAD": "@2596342",
+          "group": "@2596342",
           "parallax": 154.96,
           "ra": [
             16,
@@ -4430,18 +4430,18 @@
             10.8
           ],
           "magnitude": 10.7,
-          "class": "M3V",
+          "description": "M3V",
           "mass": 0.42
         },
         {
-          "name": "V1054 Ophiuchi Ba",
-          "othernames": [
+          "id": "V1054 Ophiuchi Ba",
+          "label": [
             "V1054 Oph Ba",
             "Gliese 644 B",
             "GJ 644 B",
             "Wolf 630 B"
           ],
-          "SIMBAD": null,
+          "group": null,
           "parallax": 154.96,
           "ra": [
             16,
@@ -4454,18 +4454,18 @@
             10.8
           ],
           "magnitude": 11.3,
-          "class": "M4Ve",
+          "description": "M4Ve",
           "mass": 0.35
         },
         {
-          "name": "V1054 Ophiuchi Bb",
-          "othernames": [
+          "id": "V1054 Ophiuchi Bb",
+          "label": [
             "V1054 Oph Bb",
             "Gliese 644 D",
             "GJ 644 D",
             "Wolf 630 C"
           ],
-          "SIMBAD": null,
+          "group": null,
           "parallax": 154.96,
           "ra": [
             16,
@@ -4478,16 +4478,16 @@
             10.8
           ],
           "magnitude": 11.8,
-          "class": "M4Ve",
+          "description": "M4Ve",
           "mass": 0.31
         },
         {
-          "name": "Gliese 643",
-          "othernames": [
+          "id": "Gliese 643",
+          "label": [
             "GJ 643",
             "Wolf 629"
           ],
-          "SIMBAD": "@2596252",
+          "group": "@2596252",
           "parallax": 154.96,
           "ra": [
             16,
@@ -4500,19 +4500,19 @@
             21.3
           ],
           "magnitude": 12.7,
-          "class": "M3.5V",
+          "description": "M3.5V",
           "mass": 0.19
         },
         {
-          "name": "V1054 Ophiuchi C",
-          "othernames": [
+          "id": "V1054 Ophiuchi C",
+          "label": [
             "V1054 Oph C",
             "Gliese 644 C",
             "GJ 644 C",
             "Van Biesbroeck 8",
             "VB 8"
           ],
-          "SIMBAD": "@2596403",
+          "group": "@2596403",
           "parallax": 154.96,
           "ra": [
             16,
@@ -4525,24 +4525,24 @@
             40.8
           ],
           "magnitude": 17.7,
-          "class": "M7Ve",
+          "description": "M7Ve",
           "mass": 0.08
         }
       ]
     },
     {
-      "name": null,
-      "othernames": [],
-      "SIMBAD": null,
+      "id": null,
+      "label": [],
+      "group": null,
       "stars": [
         {
-          "name": "2MASS J15031961+2525196",
-          "othernames": [
+          "id": "2MASS J15031961+2525196",
+          "label": [
             "2M1503+2525",
             "WISEA J150319.68+252525.7",
             "WISE 1503+2525"
           ],
-          "SIMBAD": "@2830325",
+          "group": "@2830325",
           "parallax": 154.92,
           "ra": [
             15,
@@ -4555,24 +4555,24 @@
             19.8
           ],
           "magnitude": null,
-          "class": "T5.5",
+          "description": "T5.5",
           "mass": null
         }
       ]
     },
     {
-      "name": null,
-      "othernames": [],
-      "SIMBAD": null,
+      "id": null,
+      "label": [],
+      "group": null,
       "stars": [
         {
-          "name": "Gliese 625",
-          "othernames": [
+          "id": "Gliese 625",
+          "label": [
             "GJ 625",
             "Giclas 202-48",
             "G 202-48"
           ],
-          "SIMBAD": "@399690",
+          "group": "@399690",
           "parallax": 153.14,
           "ra": [
             16,
@@ -4585,24 +4585,24 @@
             14.8
           ],
           "magnitude": 11,
-          "class": "M1.5V",
+          "description": "M1.5V",
           "mass": 0.37
         }
       ]
     },
     {
-      "name": null,
-      "othernames": [],
-      "SIMBAD": null,
+      "id": null,
+      "label": [],
+      "group": null,
       "stars": [
         {
-          "name": "Gliese–Jahreiß 1128",
-          "othernames": [
+          "id": "Gliese–Jahreiß 1128",
+          "label": [
             "GJ 1128",
             "Luyten 100-115",
             "L 100-115"
           ],
-          "SIMBAD": "@3192003",
+          "group": "@3192003",
           "parallax": 153.05,
           "ra": [
             9,
@@ -4615,22 +4615,22 @@
             6
           ],
           "magnitude": 13.7,
-          "class": "M4.0V",
+          "description": "M4.0V",
           "mass": 0.15
         }
       ]
     },
     {
-      "name": null,
-      "othernames": [],
-      "SIMBAD": null,
+      "id": null,
+      "label": [],
+      "group": null,
       "stars": [
         {
-          "name": "WISE J031325.94+780744.3",
-          "othernames": [
+          "id": "WISE J031325.94+780744.3",
+          "label": [
             "WISE 0313+7807"
           ],
-          "SIMBAD": "@8280022",
+          "group": "@8280022",
           "parallax": 153,
           "ra": [
             3,
@@ -4643,24 +4643,24 @@
             44.4
           ],
           "magnitude": null,
-          "class": "T8.5",
+          "description": "T8.5",
           "mass": null
         }
       ]
     },
     {
-      "name": null,
-      "othernames": [],
-      "SIMBAD": null,
+      "id": null,
+      "label": [],
+      "group": null,
       "stars": [
         {
-          "name": "GL Virginis",
-          "othernames": [
+          "id": "GL Virginis",
+          "label": [
             "GL Vir",
             "Gliese 1156",
             "GJ 1156"
           ],
-          "SIMBAD": "@1911715",
+          "group": "@1911715",
           "parallax": 152.9,
           "ra": [
             12,
@@ -4673,24 +4673,24 @@
             33.8
           ],
           "magnitude": 14.7,
-          "class": "M4.5Ve",
+          "description": "M4.5Ve",
           "mass": 0.12
         }
       ]
     },
     {
-      "name": null,
-      "othernames": [],
-      "SIMBAD": null,
+      "id": null,
+      "label": [],
+      "group": null,
       "stars": [
         {
-          "name": "HR 8832",
-          "othernames": [
+          "id": "HR 8832",
+          "label": [
             "Gliese 892",
             "GJ 892",
             "HD 219134"
           ],
-          "SIMBAD": "@103260",
+          "group": "@103260",
           "parallax": 152.84,
           "ra": [
             23,
@@ -4703,24 +4703,24 @@
             6.1
           ],
           "magnitude": 6.49,
-          "class": "K3V",
+          "description": "K3V",
           "mass": 0.81
         }
       ]
     },
     {
-      "name": null,
-      "othernames": [],
-      "SIMBAD": null,
+      "id": null,
+      "label": [],
+      "group": null,
       "stars": [
         {
-          "name": "LHS 3003",
-          "othernames": [
+          "id": "LHS 3003",
+          "label": [
             "Gliese–Jahreiß 3877",
             "GJ 3877",
             "LP 914-54"
           ],
-          "SIMBAD": "@2310423",
+          "group": "@2310423",
           "parallax": 152.49,
           "ra": [
             14,
@@ -4733,23 +4733,23 @@
             48.6
           ],
           "magnitude": 18,
-          "class": "M7.0Ve",
+          "description": "M7.0Ve",
           "mass": 0.08
         }
       ]
     },
     {
-      "name": null,
-      "othernames": [],
-      "SIMBAD": null,
+      "id": null,
+      "label": [],
+      "group": null,
       "stars": [
         {
-          "name": "Ross 104",
-          "othernames": [
+          "id": "Ross 104",
+          "label": [
             "Gliese 408",
             "GJ 408"
           ],
-          "SIMBAD": "@1766907",
+          "group": "@1766907",
           "parallax": 149.32,
           "ra": [
             11,
@@ -4762,26 +4762,26 @@
             58.6
           ],
           "magnitude": 10.9,
-          "class": "M4V",
+          "description": "M4V",
           "mass": 0.39
         }
       ]
     },
     {
-      "name": "Gliese 829",
-      "othernames": [
+      "id": "Gliese 829",
+      "label": [
         "GJ 829",
         "Ross 775"
       ],
-      "SIMBAD": "@1467925",
+      "group": "@1467925",
       "stars": [
         {
-          "name": "Gliese 829 A",
-          "othernames": [
+          "id": "Gliese 829 A",
+          "label": [
             "GJ 829 A",
             "Ross 775 A"
           ],
-          "SIMBAD": null,
+          "group": null,
           "parallax": 149.01,
           "ra": [
             21,
@@ -4794,16 +4794,16 @@
             35.9
           ],
           "magnitude": 11.9,
-          "class": "M3.0Ve",
+          "description": "M3.0Ve",
           "mass": 0.26
         },
         {
-          "name": "Gliese 829 B",
-          "othernames": [
+          "id": "Gliese 829 B",
+          "label": [
             "GJ 829 B",
             "Ross 775 B"
           ],
-          "SIMBAD": null,
+          "group": null,
           "parallax": 149.01,
           "ra": [
             21,
@@ -4816,28 +4816,28 @@
             35.9
           ],
           "magnitude": 11.9,
-          "class": "M?V",
+          "description": "M?V",
           "mass": 0.26
         }
       ]
     },
     {
-      "name": "Gliese–Jahreiß 3522",
-      "othernames": [
+      "id": "Gliese–Jahreiß 3522",
+      "label": [
         "GJ 3522",
         "Giclas 41-14",
         "G 41-14"
       ],
-      "SIMBAD": "@1136192",
+      "group": "@1136192",
       "stars": [
         {
-          "name": "Gliese–Jahreiß 3522 A",
-          "othernames": [
+          "id": "Gliese–Jahreiß 3522 A",
+          "label": [
             "GJ 3522 A",
             "Giclas 41-14 A",
             "G 41-14 A"
           ],
-          "SIMBAD": null,
+          "group": null,
           "parallax": 147.66,
           "ra": [
             8,
@@ -4850,17 +4850,17 @@
             26.1
           ],
           "magnitude": 12.8,
-          "class": "M3.5V",
+          "description": "M3.5V",
           "mass": 0.18
         },
         {
-          "name": "Gliese–Jahreiß 3522 B",
-          "othernames": [
+          "id": "Gliese–Jahreiß 3522 B",
+          "label": [
             "GJ 3522 B",
             "Giclas 41-14 B",
             "G 41-14 B"
           ],
-          "SIMBAD": null,
+          "group": null,
           "parallax": 147.66,
           "ra": [
             8,
@@ -4873,17 +4873,17 @@
             26.1
           ],
           "magnitude": 13,
-          "class": "M?V",
+          "description": "M?V",
           "mass": 0.17
         },
         {
-          "name": "Gliese–Jahreiß 3522 C",
-          "othernames": [
+          "id": "Gliese–Jahreiß 3522 C",
+          "label": [
             "GJ 3522 C",
             "Giclas 41-14 C",
             "G 41-14 C"
           ],
-          "SIMBAD": null,
+          "group": null,
           "parallax": 147.66,
           "ra": [
             8,
@@ -4896,28 +4896,28 @@
             26.1
           ],
           "magnitude": 13.1,
-          "class": "M?V",
+          "description": "M?V",
           "mass": 0.17
         }
       ]
     },
     {
-      "name": "Xi Boötis",
-      "othernames": [
+      "id": "Xi Boötis",
+      "label": [
         "ξ Boo",
         "Gliese 566",
         "GJ 566"
       ],
-      "SIMBAD": "@2302652",
+      "group": "@2302652",
       "stars": [
         {
-          "name": "Xi Boötis A",
-          "othernames": [
+          "id": "Xi Boötis A",
+          "label": [
             "ξ Boo A",
             "Gliese 566 A",
             "GJ 566 A"
           ],
-          "SIMBAD": "@2302645",
+          "group": "@2302645",
           "parallax": 147.57,
           "ra": [
             14,
@@ -4930,17 +4930,17 @@
             1.6
           ],
           "magnitude": 5.5,
-          "class": "G7Ve",
+          "description": "G7Ve",
           "mass": 0.94
         },
         {
-          "name": "Xi Boötis B",
-          "othernames": [
+          "id": "Xi Boötis B",
+          "label": [
             "ξ Boo B",
             "Gliese 566 B",
             "GJ 566 B"
           ],
-          "SIMBAD": "@2302646",
+          "group": "@2302646",
           "parallax": 147.57,
           "ra": [
             14,
@@ -4953,25 +4953,25 @@
             6.9
           ],
           "magnitude": 7.8,
-          "class": "K5Ve",
+          "description": "K5Ve",
           "mass": 0.67
         }
       ]
     },
     {
-      "name": null,
-      "othernames": [],
-      "SIMBAD": null,
+      "id": null,
+      "label": [],
+      "group": null,
       "stars": [
         {
-          "name": "EE Leonis",
-          "othernames": [
+          "id": "EE Leonis",
+          "label": [
             "EE Leo",
             "Gliese 402",
             "GJ 402",
             "Wolf 358"
           ],
-          "SIMBAD": "@1751003",
+          "group": "@1751003",
           "parallax": 147.15,
           "ra": [
             10,
@@ -4984,24 +4984,24 @@
             29
           ],
           "magnitude": 12.5,
-          "class": "M4V",
+          "description": "M4V",
           "mass": 0.2
         }
       ]
     },
     {
-      "name": null,
-      "othernames": [],
-      "SIMBAD": null,
+      "id": null,
+      "label": [],
+      "group": null,
       "stars": [
         {
-          "name": "Ross 671",
-          "othernames": [
+          "id": "Ross 671",
+          "label": [
             "Gliese 880",
             "GJ 880",
             "HD 216899"
           ],
-          "SIMBAD": "@1459807",
+          "group": "@1459807",
           "parallax": 146.37,
           "ra": [
             22,
@@ -5014,22 +5014,22 @@
             12.4
           ],
           "magnitude": 9.48,
-          "class": "M1.5Ve",
+          "description": "M1.5Ve",
           "mass": 0.55
         }
       ]
     },
     {
-      "name": null,
-      "othernames": [],
-      "SIMBAD": null,
+      "id": null,
+      "label": [],
+      "group": null,
       "stars": [
         {
-          "name": "WISE J220905.73+271143.9",
-          "othernames": [
+          "id": "WISE J220905.73+271143.9",
+          "label": [
             "WISE 2209+2711"
           ],
-          "SIMBAD": "@7884089",
+          "group": "@7884089",
           "parallax": 147,
           "ra": [
             22,
@@ -5042,23 +5042,23 @@
             44
           ],
           "magnitude": null,
-          "class": "Y0",
+          "description": "Y0",
           "mass": null
         }
       ]
     },
     {
-      "name": null,
-      "othernames": [],
-      "SIMBAD": null,
+      "id": null,
+      "label": [],
+      "group": null,
       "stars": [
         {
-          "name": "Ross 619",
-          "othernames": [
+          "id": "Ross 619",
+          "label": [
             "Gliese 299",
             "GJ 299"
           ],
-          "SIMBAD": "@1043380",
+          "group": "@1043380",
           "parallax": 146.3,
           "ra": [
             8,
@@ -5071,22 +5071,22 @@
             23
           ],
           "magnitude": 13.65,
-          "class": "M4.5Ve",
+          "description": "M4.5Ve",
           "mass": 0.15
         }
       ]
     },
     {
-      "name": null,
-      "othernames": [],
-      "SIMBAD": null,
+      "id": null,
+      "label": [],
+      "group": null,
       "stars": [
         {
-          "name": "WISE J035934.06−540154.6",
-          "othernames": [
+          "id": "WISE J035934.06−540154.6",
+          "label": [
             "WISE 0359−5401"
           ],
-          "SIMBAD": "@7834504",
+          "group": "@7834504",
           "parallax": 145,
           "ra": [
             3,
@@ -5099,28 +5099,28 @@
             54.6
           ],
           "magnitude": null,
-          "class": "Y0",
+          "description": "Y0",
           "mass": null
         }
       ]
     },
     {
-      "name": "LTT 1445",
-      "othernames": [
+      "id": "LTT 1445",
+      "label": [
         "LP 771-95",
         "BD−17 588"
       ],
-      "SIMBAD": "@6150647",
+      "group": "@6150647",
       "stars": [
         {
-          "name": "LTT 1445 A",
-          "othernames": [
+          "id": "LTT 1445 A",
+          "label": [
             "BD−17 588 A",
             "LP 771-96",
             "Gliese–Jahreiß 3193",
             "GJ 3193"
           ],
-          "SIMBAD": "@626705",
+          "group": "@626705",
           "parallax": 143.81,
           "ra": [
             3,
@@ -5133,18 +5133,18 @@
             36.1
           ],
           "magnitude": 12,
-          "class": "M3V",
+          "description": "M3V",
           "mass": 0.26
         },
         {
-          "name": "LTT 1445 B",
-          "othernames": [
+          "id": "LTT 1445 B",
+          "label": [
             "BD−17 588 Ba",
             "LP 771-95 A",
             "Gliese–Jahreiß 3192 A",
             "GJ 3192 A"
           ],
-          "SIMBAD": "@626763",
+          "group": "@626763",
           "parallax": 143.81,
           "ra": [
             3,
@@ -5157,18 +5157,18 @@
             31.1
           ],
           "magnitude": 12.6,
-          "class": "M3V",
+          "description": "M3V",
           "mass": 0.19
         },
         {
-          "name": "LTT 1445 C",
-          "othernames": [
+          "id": "LTT 1445 C",
+          "label": [
             "BD−17 588 Bb",
             "LP 771-95 B",
             "Gliese–Jahreiß 3192 B",
             "GJ 3192 B"
           ],
-          "SIMBAD": null,
+          "group": null,
           "parallax": 143.81,
           "ra": [
             3,
@@ -5181,23 +5181,23 @@
             31.1
           ],
           "magnitude": 13.4,
-          "class": "M?V",
+          "description": "M?V",
           "mass": 0.16
         }
       ]
     },
     {
-      "name": null,
-      "othernames": [],
-      "SIMBAD": null,
+      "id": null,
+      "label": [],
+      "group": null,
       "stars": [
         {
-          "name": "Gliese 393",
-          "othernames": [
+          "id": "Gliese 393",
+          "label": [
             "GJ 393",
             "BD+01 2447"
           ],
-          "SIMBAD": "@1713683",
+          "group": "@1713683",
           "parallax": 142.19,
           "ra": [
             10,
@@ -5210,22 +5210,22 @@
             27.6
           ],
           "magnitude": 10.41,
-          "class": "M2.0Ve",
+          "description": "M2.0Ve",
           "mass": 0.41
         }
       ]
     },
     {
-      "name": null,
-      "othernames": [],
-      "SIMBAD": null,
+      "id": null,
+      "label": [],
+      "group": null,
       "stars": [
         {
-          "name": "2MASS J21462206+3813047",
-          "othernames": [
+          "id": "2MASS J21462206+3813047",
+          "label": [
             "2M2146+38"
           ],
-          "SIMBAD": "@4022738",
+          "group": "@4022738",
           "parallax": 142.05,
           "ra": [
             21,
@@ -5238,23 +5238,23 @@
             5
           ],
           "magnitude": null,
-          "class": "M5V",
+          "description": "M5V",
           "mass": null
         }
       ]
     },
     {
-      "name": null,
-      "othernames": [],
-      "SIMBAD": null,
+      "id": null,
+      "label": [],
+      "group": null,
       "stars": [
         {
-          "name": "Gliese 809",
-          "othernames": [
+          "id": "Gliese 809",
+          "label": [
             "GJ 809",
             "HD 199305"
           ],
-          "SIMBAD": "@219026",
+          "group": "@219026",
           "parallax": 142.03,
           "ra": [
             20,
@@ -5267,22 +5267,22 @@
             15.8
           ],
           "magnitude": 9.31,
-          "class": "M1.0Ve",
+          "description": "M1.0Ve",
           "mass": 0.614
         }
       ]
     },
     {
-      "name": null,
-      "othernames": [],
-      "SIMBAD": null,
+      "id": null,
+      "label": [],
+      "group": null,
       "stars": [
         {
-          "name": "WISE J000517.48+373720.5",
-          "othernames": [
+          "id": "WISE J000517.48+373720.5",
+          "label": [
             "WISE 0005+3737"
           ],
-          "SIMBAD": "@8398398",
+          "group": "@8398398",
           "distance": 23.2,
           "ra": [
             0,
@@ -5295,22 +5295,22 @@
             20.5
           ],
           "magnitude": null,
-          "class": "T9",
+          "description": "T9",
           "mass": null
         }
       ]
     },
     {
-      "name": null,
-      "othernames": [],
-      "SIMBAD": null,
+      "id": null,
+      "label": [],
+      "group": null,
       "stars": [
         {
-          "name": "WISE J205628.91+145953.2",
-          "othernames": [
+          "id": "WISE J205628.91+145953.2",
+          "label": [
             "WISE 2056+1459"
           ],
-          "SIMBAD": "@6327827",
+          "group": "@6327827",
           "parallax": 144,
           "ra": [
             0,
@@ -5323,24 +5323,24 @@
             20.5
           ],
           "magnitude": null,
-          "class": "Y0",
+          "description": "Y0",
           "mass": 0.02
         }
       ]
     },
     {
-      "name": null,
-      "othernames": [],
-      "SIMBAD": null,
+      "id": null,
+      "label": [],
+      "group": null,
       "stars": [
         {
-          "name": "Luyten 230-188",
-          "othernames": [
+          "id": "Luyten 230-188",
+          "label": [
             "L 230-188",
             "Gliese–Jahreiß 1068",
             "GJ 1068"
           ],
-          "SIMBAD": "@3025599",
+          "group": "@3025599",
           "parallax": 140.56,
           "ra": [
             4,
@@ -5353,24 +5353,24 @@
             8.1
           ],
           "magnitude": 14.3,
-          "class": "M4.5",
+          "description": "M4.5",
           "mass": null
         }
       ]
     },
     {
-      "name": null,
-      "othernames": [],
-      "SIMBAD": null,
+      "id": null,
+      "label": [],
+      "group": null,
       "stars": [
         {
-          "name": "Giclas 157-77",
-          "othernames": [
+          "id": "Giclas 157-77",
+          "label": [
             "G 157-77",
             "Gliese–Jahreiß 1286",
             "GJ 1286"
           ],
-          "SIMBAD": "@1366337",
+          "group": "@1366337",
           "parallax": 139.31,
           "ra": [
             23,
@@ -5383,21 +5383,21 @@
             20.6
           ],
           "magnitude": 15.4,
-          "class": "M5.0Ve",
+          "description": "M5.0Ve",
           "mass": null
         }
       ]
     },
     {
-      "name": "Gliese 105",
-      "othernames": [
+      "id": "Gliese 105",
+      "label": [
         "GJ 105"
       ],
-      "SIMBAD": null,
+      "group": null,
       "stars": [
         {
-          "name": "268 G. Ceti",
-          "othernames": [
+          "id": "268 G. Ceti",
+          "label": [
             "268 G Cet",
             "Gliese 105 A",
             "GJ 105 A",
@@ -5405,7 +5405,7 @@
             "Giclas 73-70 A",
             "G 73-70 A"
           ],
-          "SIMBAD": "@1426886",
+          "group": "@1426886",
           "parallax": 138.21,
           "ra": [
             2,
@@ -5418,19 +5418,19 @@
             12.4
           ],
           "magnitude": 6.53,
-          "class": "K3V",
+          "description": "K3V",
           "mass": 0.7
         },
         {
-          "name": "BX Ceti",
-          "othernames": [
+          "id": "BX Ceti",
+          "label": [
             "BX Cet",
             "Gliese 105 B",
             "GJ 105 B",
             "Giclas 73-71",
             "G 73-71"
           ],
-          "SIMBAD": "@1426745",
+          "group": "@1426745",
           "parallax": 138.46,
           "ra": [
             2,
@@ -5443,17 +5443,17 @@
             17.9
           ],
           "magnitude": 12.4,
-          "class": "M3.5V",
+          "description": "M3.5V",
           "mass": 0.25
         },
         {
-          "name": "Gliese 105 C",
-          "othernames": [
+          "id": "Gliese 105 C",
+          "label": [
             "GJ 105 C",
             "Giclas 73-70 B",
             "G 73-70 B"
           ],
-          "SIMBAD": "@1426790",
+          "group": "@1426790",
           "parallax": 138.21,
           "ra": [
             2,
@@ -5466,24 +5466,24 @@
             14.8
           ],
           "magnitude": 17.5,
-          "class": "M6V",
+          "description": "M6V",
           "mass": 0.08
         }
       ]
     },
     {
-      "name": null,
-      "othernames": [],
-      "SIMBAD": null,
+      "id": null,
+      "label": [],
+      "group": null,
       "stars": [
         {
-          "name": "Luyten 788-34",
-          "othernames": [
+          "id": "Luyten 788-34",
+          "label": [
             "L 788-34",
             "Gliese–Jahreiß 4274",
             "GJ 4274"
           ],
-          "SIMBAD": "@1292969",
+          "group": "@1292969",
           "parallax": 138.18,
           "ra": [
             22,
@@ -5496,26 +5496,26 @@
             26.3
           ],
           "magnitude": 14,
-          "class": "M4.5Ve",
+          "description": "M4.5Ve",
           "mass": null
         }
       ]
     },
     {
-      "name": "Gliese 667",
-      "othernames": [
+      "id": "Gliese 667",
+      "label": [
         "GJ 667",
         "HD 156384"
       ],
-      "SIMBAD": "@2362060",
+      "group": "@2362060",
       "stars": [
         {
-          "name": "Gliese 667 A",
-          "othernames": [
+          "id": "Gliese 667 A",
+          "label": [
             "GJ 667 A",
             "HD 156384 A"
           ],
-          "SIMBAD": "@2361578",
+          "group": "@2361578",
           "parallax": 138.02,
           "ra": [
             17,
@@ -5528,16 +5528,16 @@
             22.5
           ],
           "magnitude": 7.1,
-          "class": "K3",
+          "description": "K3",
           "mass": 0.73
         },
         {
-          "name": "Gliese 667 B",
-          "othernames": [
+          "id": "Gliese 667 B",
+          "label": [
             "GJ 667 B",
             "HD 156384 B"
           ],
-          "SIMBAD": "@2361579",
+          "group": "@2361579",
           "parallax": 138.02,
           "ra": [
             17,
@@ -5550,16 +5550,16 @@
             22.2
           ],
           "magnitude": 8.1,
-          "class": "K4",
+          "description": "K4",
           "mass": 0.69
         },
         {
-          "name": "Gliese 667 C",
-          "othernames": [
+          "id": "Gliese 667 C",
+          "label": [
             "GJ 667 C",
             "HD 156384 C"
           ],
-          "SIMBAD": "@2361576",
+          "group": "@2361576",
           "parallax": 138.02,
           "ra": [
             17,
@@ -5572,22 +5572,22 @@
             48.6
           ],
           "magnitude": 10.9,
-          "class": "M1.5V",
+          "description": "M1.5V",
           "mass": 0.31
         }
       ]
     },
     {
-      "name": null,
-      "othernames": [],
-      "SIMBAD": null,
+      "id": null,
+      "label": [],
+      "group": null,
       "stars": [
         {
-          "name": "WISE J004945.61+215120.0",
-          "othernames": [
+          "id": "WISE J004945.61+215120.0",
+          "label": [
             "WISE 0049+2151"
           ],
-          "SIMBAD": "@8423939",
+          "group": "@8423939",
           "distance": 24.1,
           "ra": [
             0,
@@ -5600,24 +5600,24 @@
             20
           ],
           "magnitude": null,
-          "class": "T8.5",
+          "description": "T8.5",
           "mass": null
         }
       ]
     },
     {
-      "name": null,
-      "othernames": [],
-      "SIMBAD": null,
+      "id": null,
+      "label": [],
+      "group": null,
       "stars": [
         {
-          "name": "2MASS J15074769−1627386",
-          "othernames": [
+          "id": "2MASS J15074769−1627386",
+          "label": [
             "2M1507−1627",
             "WISEA J150747.56−162749.3",
             "WISE 1507−1627"
           ],
-          "SIMBAD": "@2528159",
+          "group": "@2528159",
           "parallax": 135.23,
           "ra": [
             15,
@@ -5630,28 +5630,28 @@
             40.1
           ],
           "magnitude": 22.8,
-          "class": "L5V",
+          "description": "L5V",
           "mass": null
         }
       ]
     },
     {
-      "name": "Gliese–Jahreiß 3991",
-      "othernames": [
+      "id": "Gliese–Jahreiß 3991",
+      "label": [
         "GJ 3991",
         "Giclas 203-47",
         "G 203-47"
       ],
-      "SIMBAD": "@11682936",
+      "group": "@11682936",
       "stars": [
         {
-          "name": "Gliese–Jahreiß 3991 A",
-          "othernames": [
+          "id": "Gliese–Jahreiß 3991 A",
+          "label": [
             "GJ 3991 A",
             "Giclas 203-47 A",
             "G 203-47 A"
           ],
-          "SIMBAD": null,
+          "group": null,
           "parallax": 134.6,
           "ra": [
             17,
@@ -5664,17 +5664,17 @@
             52.7
           ],
           "magnitude": 14.3,
-          "class": "M3.5V",
+          "description": "M3.5V",
           "mass": 0.2
         },
         {
-          "name": "Gliese–Jahreiß 3991 B",
-          "othernames": [
+          "id": "Gliese–Jahreiß 3991 B",
+          "label": [
             "GJ 3991 B",
             "Giclas 203-47 B",
             "G 203-47 B"
           ],
-          "SIMBAD": null,
+          "group": null,
           "parallax": 134.6,
           "ra": [
             17,
@@ -5687,25 +5687,25 @@
             52.7
           ],
           "magnitude": 17,
-          "class": "D?12",
+          "description": "D?12",
           "mass": 0.5
         }
       ]
     },
     {
-      "name": null,
-      "othernames": [],
-      "SIMBAD": null,
+      "id": null,
+      "label": [],
+      "group": null,
       "stars": [
         {
-          "name": "96 G. Piscium",
-          "othernames": [
+          "id": "96 G. Piscium",
+          "label": [
             "96 G Psc",
             "Gliese 33",
             "GJ 33",
             "HD 4628"
           ],
-          "SIMBAD": "@1405432",
+          "group": "@1405432",
           "parallax": 134.5,
           "ra": [
             0,
@@ -5718,24 +5718,24 @@
             50.2
           ],
           "magnitude": 6.37,
-          "class": "K2.5V",
+          "description": "K2.5V",
           "mass": 0.7
         }
       ]
     },
     {
-      "name": null,
-      "othernames": [],
-      "SIMBAD": null,
+      "id": null,
+      "label": [],
+      "group": null,
       "stars": [
         {
-          "name": "Luyten 499-56",
-          "othernames": [
+          "id": "Luyten 499-56",
+          "label": [
             "L 499-56",
             "Gliese–Jahreiß 4248",
             "GJ 4248"
           ],
-          "SIMBAD": "@1161496",
+          "group": "@1161496",
           "parallax": 134.29,
           "ra": [
             22,
@@ -5748,24 +5748,24 @@
             51.4
           ],
           "magnitude": null,
-          "class": "M3.0V",
+          "description": "M3.0V",
           "mass": null
         }
       ]
     },
     {
-      "name": null,
-      "othernames": [],
-      "SIMBAD": null,
+      "id": null,
+      "label": [],
+      "group": null,
       "stars": [
         {
-          "name": "Beta Hydri",
-          "othernames": [
+          "id": "Beta Hydri",
+          "label": [
             "β Hyi",
             "Gliese 19",
             "GJ 19"
           ],
-          "SIMBAD": "@3274779",
+          "group": "@3274779",
           "parallax": 134.07,
           "ra": [
             0,
@@ -5778,30 +5778,30 @@
             15.3
           ],
           "magnitude": 3.45,
-          "class": "G0V",
+          "description": "G0V",
           "mass": 1.08
         }
       ]
     },
     {
-      "name": "Mu Cassiopeiae",
-      "othernames": [
+      "id": "Mu Cassiopeiae",
+      "label": [
         "μ Cas",
         "Gliese 53",
         "GJ 53",
         "WDS J01083+5455 A"
       ],
-      "SIMBAD": "@83443",
+      "group": "@83443",
       "stars": [
         {
-          "name": "Mu Cassiopeiae A",
-          "othernames": [
+          "id": "Mu Cassiopeiae A",
+          "label": [
             "μ Cas A",
             "Gliese 53 A",
             "GJ 53 A",
             "WDS J01083+5455 Aa"
           ],
-          "SIMBAD": null,
+          "group": null,
           "parallax": 132.38,
           "ra": [
             1,
@@ -5814,18 +5814,18 @@
             13.2
           ],
           "magnitude": 5.78,
-          "class": "G5Vb",
+          "description": "G5Vb",
           "mass": 0.74
         },
         {
-          "name": "Mu Cassiopeiae B",
-          "othernames": [
+          "id": "Mu Cassiopeiae B",
+          "label": [
             "μ Cas B",
             "Gliese 53 B",
             "GJ 53 B",
             "WDS J01083+5455 Ab"
           ],
-          "SIMBAD": null,
+          "group": null,
           "parallax": 132.38,
           "ra": [
             1,
@@ -5838,24 +5838,24 @@
             13.2
           ],
           "magnitude": 11.6,
-          "class": "M?",
+          "description": "M?",
           "mass": 0.17
         }
       ]
     },
     {
-      "name": null,
-      "othernames": [],
-      "SIMBAD": null,
+      "id": null,
+      "label": [],
+      "group": null,
       "stars": [
         {
-          "name": "107 Piscium",
-          "othernames": [
+          "id": "107 Piscium",
+          "label": [
             "107 Psc",
             "Gliese 68",
             "GJ 68"
           ],
-          "SIMBAD": "@1476565",
+          "group": "@1476565",
           "parallax": 131.49,
           "ra": [
             1,
@@ -5868,25 +5868,25 @@
             6.7
           ],
           "magnitude": 5.87,
-          "class": "K1V",
+          "description": "K1V",
           "mass": 0.83
         }
       ]
     },
     {
-      "name": null,
-      "othernames": [],
-      "SIMBAD": null,
+      "id": null,
+      "label": [],
+      "group": null,
       "stars": [
         {
-          "name": "TW Piscis Austrini",
-          "othernames": [
+          "id": "TW Piscis Austrini",
+          "label": [
             "TW PsA",
             "Alpha Piscis Austrini B",
             "α PsA B",
             "Fomalhaut B"
           ],
-          "SIMBAD": "@1221244",
+          "group": "@1221244",
           "parallax": 131.44,
           "ra": [
             22,
@@ -5899,24 +5899,24 @@
             56
           ],
           "magnitude": 7.08,
-          "class": "K4Ve",
+          "description": "K4Ve",
           "mass": 0.73
         }
       ]
     },
     {
-      "name": null,
-      "othernames": [],
-      "SIMBAD": null,
+      "id": null,
+      "label": [],
+      "group": null,
       "stars": [
         {
-          "name": "Gliese 514",
-          "othernames": [
+          "id": "Gliese 514",
+          "label": [
             "GJ 514",
             "Ross 490",
             "BD+11 2576"
           ],
-          "SIMBAD": "@2133068",
+          "group": "@2133068",
           "parallax": 131.24,
           "ra": [
             13,
@@ -5929,24 +5929,24 @@
             37.8
           ],
           "magnitude": 9.6,
-          "class": "M1.0Ve",
+          "description": "M1.0Ve",
           "mass": null
         }
       ]
     },
     {
-      "name": null,
-      "othernames": [],
-      "SIMBAD": null,
+      "id": null,
+      "label": [],
+      "group": null,
       "stars": [
         {
-          "name": "Giclas 141-36",
-          "othernames": [
+          "id": "Giclas 141-36",
+          "label": [
             "G 141-36",
             "2MASS J18481752+0741210",
             "2M1848+07"
           ],
-          "SIMBAD": "@2687868",
+          "group": "@2687868",
           "parallax": 131.2,
           "ra": [
             18,
@@ -5959,24 +5959,24 @@
             21.2
           ],
           "magnitude": null,
-          "class": "M5.0V",
+          "description": "M5.0V",
           "mass": null
         }
       ]
     },
     {
-      "name": null,
-      "othernames": [],
-      "SIMBAD": null,
+      "id": null,
+      "label": [],
+      "group": null,
       "stars": [
         {
-          "name": "Giclas 258-33",
-          "othernames": [
+          "id": "Giclas 258-33",
+          "label": [
             "G 258-33",
             "Gliese–Jahreiß 4053",
             "GJ 4053"
           ],
-          "SIMBAD": "@312477",
+          "group": "@312477",
           "parallax": 130.77,
           "ra": [
             18,
@@ -5989,25 +5989,25 @@
             33.3
           ],
           "magnitude": null,
-          "class": "M4.5V",
+          "description": "M4.5V",
           "mass": null
         }
       ]
     },
     {
-      "name": null,
-      "othernames": [],
-      "SIMBAD": null,
+      "id": null,
+      "label": [],
+      "group": null,
       "stars": [
         {
-          "name": "Vega",
-          "othernames": [
+          "id": "Vega",
+          "label": [
             "Alpha Lyrae",
             "α Lyr",
             "Gliese 721",
             "GJ 721"
           ],
-          "SIMBAD": "@2900336",
+          "group": "@2900336",
           "parallax": 130.23,
           "ra": [
             18,
@@ -6020,24 +6020,24 @@
             1.3
           ],
           "magnitude": 0.58,
-          "class": "A0Va",
+          "description": "A0Va",
           "mass": 2.14
         }
       ]
     },
     {
-      "name": null,
-      "othernames": [],
-      "SIMBAD": null,
+      "id": null,
+      "label": [],
+      "group": null,
       "stars": [
         {
-          "name": "LP 876-10",
-          "othernames": [
+          "id": "LP 876-10",
+          "label": [
             "Alpha Piscis Austrini C",
             "α PsA C",
             "Fomalhaut C"
           ],
-          "SIMBAD": "@1254390",
+          "group": "@1254390",
           "parallax": 130.3,
           "ra": [
             22,
@@ -6050,24 +6050,24 @@
             7.7
           ],
           "magnitude": 13.2,
-          "class": "M4.0Ve",
+          "description": "M4.0Ve",
           "mass": 0.18
         }
       ]
     },
     {
-      "name": null,
-      "othernames": [],
-      "SIMBAD": null,
+      "id": null,
+      "label": [],
+      "group": null,
       "stars": [
         {
-          "name": "VX Arietis",
-          "othernames": [
+          "id": "VX Arietis",
+          "label": [
             "VX Ari",
             "Gliese 109",
             "GJ 109"
           ],
-          "SIMBAD": "@1524060",
+          "group": "@1524060",
           "parallax": 130.19,
           "ra": [
             2,
@@ -6080,24 +6080,24 @@
             24.1
           ],
           "magnitude": 11.1,
-          "class": "M3V",
+          "description": "M3V",
           "mass": null
         }
       ]
     },
     {
-      "name": null,
-      "othernames": [],
-      "SIMBAD": null,
+      "id": null,
+      "label": [],
+      "group": null,
       "stars": [
         {
-          "name": "Fomalhaut",
-          "othernames": [
+          "id": "Fomalhaut",
+          "label": [
             "Alpha Piscis Austrini A",
             "α PsA A",
             "Fomalhaut A"
           ],
-          "SIMBAD": "@1235748",
+          "group": "@1235748",
           "parallax": 129.81,
           "ra": [
             22,
@@ -6110,23 +6110,23 @@
             20.1
           ],
           "magnitude": 1.72,
-          "class": "A4V",
+          "description": "A4V",
           "mass": 1.92
         }
       ]
     },
     {
-      "name": null,
-      "othernames": [],
-      "SIMBAD": null,
+      "id": null,
+      "label": [],
+      "group": null,
       "stars": [
         {
-          "name": "Gliese 673",
-          "othernames": [
+          "id": "Gliese 673",
+          "label": [
             "GJ 673",
             "HD 157881"
           ],
-          "SIMBAD": "@2652923",
+          "group": "@2652923",
           "parallax": 129.62,
           "ra": [
             17,
@@ -6139,24 +6139,24 @@
             41.1
           ],
           "magnitude": 8.06,
-          "class": "K7V",
+          "description": "K7V",
           "mass": 0.6
         }
       ]
     },
     {
-      "name": null,
-      "othernames": [],
-      "SIMBAD": null,
+      "id": null,
+      "label": [],
+      "group": null,
       "stars": [
         {
-          "name": "Giclas 192-13",
-          "othernames": [
+          "id": "Giclas 192-13",
+          "label": [
             "G 192-13",
             "Gliese–Jahreiß 3378",
             "GJ 3378"
           ],
-          "SIMBAD": "@334780",
+          "group": "@334780",
           "parallax": 129.46,
           "ra": [
             6,
@@ -6169,23 +6169,23 @@
             49.9
           ],
           "magnitude": null,
-          "class": "M4.0Ve",
+          "description": "M4.0Ve",
           "mass": null
         }
       ]
     },
     {
-      "name": null,
-      "othernames": [],
-      "SIMBAD": null,
+      "id": null,
+      "label": [],
+      "group": null,
       "stars": [
         {
-          "name": "SCR J0740−4257",
-          "othernames": [
+          "id": "SCR J0740−4257",
+          "label": [
             "2MASS J07401183−4257406",
             "2M0740−42"
           ],
-          "SIMBAD": "@3780428",
+          "group": "@3780428",
           "parallax": 125.08,
           "ra": [
             7,
@@ -6198,24 +6198,24 @@
             40.3
           ],
           "magnitude": 14.3,
-          "class": "M4.5",
+          "description": "M4.5",
           "mass": null
         }
       ]
     },
     {
-      "name": null,
-      "othernames": [],
-      "SIMBAD": null,
+      "id": null,
+      "label": [],
+      "group": null,
       "stars": [
         {
-          "name": "Gliese–Jahreiß 1151",
-          "othernames": [
+          "id": "Gliese–Jahreiß 1151",
+          "label": [
             "GJ 1151",
             "Giclas 122-49",
             "G 122-49"
           ],
-          "SIMBAD": "@589914",
+          "group": "@589914",
           "parallax": 124.41,
           "ra": [
             11,
@@ -6228,22 +6228,22 @@
             38.6
           ],
           "magnitude": null,
-          "class": "M7",
+          "description": "M7",
           "mass": null
         }
       ]
     },
     {
-      "name": null,
-      "othernames": [],
-      "SIMBAD": null,
+      "id": null,
+      "label": [],
+      "group": null,
       "stars": [
         {
-          "name": "IRAS 21500+5903",
-          "othernames": [
+          "id": "IRAS 21500+5903",
+          "label": [
             "TYC 3980-1081-1"
           ],
-          "SIMBAD": "@157642",
+          "group": "@157642",
           "parallax": 123.06,
           "ra": [
             21,
@@ -6256,25 +6256,25 @@
             39.9
           ],
           "magnitude": null,
-          "class": "M?",
+          "description": "M?",
           "mass": null
         }
       ]
     },
     {
-      "name": null,
-      "othernames": [],
-      "SIMBAD": null,
+      "id": null,
+      "label": [],
+      "group": null,
       "stars": [
         {
-          "name": "Gliese 300",
-          "othernames": [
+          "id": "Gliese 300",
+          "label": [
             "GJ 300",
             "Luyten 674-15",
             "L 674-15",
             "LHS 1989"
           ],
-          "SIMBAD": "@1053853",
+          "group": "@1053853",
           "parallax": 120.1,
           "ra": [
             8,
@@ -6287,23 +6287,23 @@
             7
           ],
           "magnitude": 13.2,
-          "class": "M3.5V",
+          "description": "M3.5V",
           "mass": 0.17
         }
       ]
     },
     {
-      "name": null,
-      "othernames": [],
-      "SIMBAD": null,
+      "id": null,
+      "label": [],
+      "group": null,
       "stars": [
         {
-          "name": "2MASS J15464185-5534468",
-          "othernames": [
+          "id": "2MASS J15464185-5534468",
+          "label": [
             "2M1546−55",
             "SCR J1546−5534"
           ],
-          "SIMBAD": "@6201386",
+          "group": "@6201386",
           "parallax": 119.09,
           "ra": [
             15,
@@ -6316,22 +6316,22 @@
             47.5
           ],
           "magnitude": null,
-          "class": "M7.5",
+          "description": "M7.5",
           "mass": null
         }
       ]
     },
     {
-      "name": null,
-      "othernames": [],
-      "SIMBAD": null,
+      "id": null,
+      "label": [],
+      "group": null,
       "stars": [
         {
-          "name": "WISE J071322.55−291751.9",
-          "othernames": [
+          "id": "WISE J071322.55−291751.9",
+          "label": [
             "WISE 0713−2917"
           ],
-          "SIMBAD": "@7834506",
+          "group": "@7834506",
           "parallax": 108.7,
           "ra": [
             7,
@@ -6344,24 +6344,24 @@
             52
           ],
           "magnitude": null,
-          "class": "Y0",
+          "description": "Y0",
           "mass": null
         }
       ]
     },
     {
-      "name": null,
-      "othernames": [],
-      "SIMBAD": null,
+      "id": null,
+      "label": [],
+      "group": null,
       "stars": [
         {
-          "name": "RBS 661",
-          "othernames": [
+          "id": "RBS 661",
+          "label": [
             "2MASS J05332802−4257205",
             "2M0533−42",
             "SCR J0533−4257"
           ],
-          "SIMBAD": "@819092",
+          "group": "@819092",
           "parallax": 96.63,
           "ra": [
             5,
@@ -6374,23 +6374,23 @@
             20.6
           ],
           "magnitude": null,
-          "class": "M4.5",
+          "description": "M4.5",
           "mass": null
         }
       ]
     },
     {
-      "name": null,
-      "othernames": [],
-      "SIMBAD": null,
+      "id": null,
+      "label": [],
+      "group": null,
       "stars": [
         {
-          "name": "Gliese–Jahreiß 4063",
-          "othernames": [
+          "id": "Gliese–Jahreiß 4063",
+          "label": [
             "GJ 4063",
             "LP 229-17"
           ],
-          "SIMBAD": "@2923680",
+          "group": "@2923680",
           "parallax": 91.85,
           "ra": [
             18,
@@ -6403,24 +6403,24 @@
             26.4
           ],
           "magnitude": 16.6,
-          "class": "M4V",
+          "description": "M4V",
           "mass": null
         }
       ]
     },
     {
-      "name": null,
-      "othernames": [],
-      "SIMBAD": null,
+      "id": null,
+      "label": [],
+      "group": null,
       "stars": [
         {
-          "name": "Giclas 180-60",
-          "othernames": [
+          "id": "Giclas 180-60",
+          "label": [
             "G 180-60",
             "Gliese–Jahreiß 3959",
             "GJ 3959"
           ],
-          "SIMBAD": "@2942036",
+          "group": "@2942036",
           "parallax": 88.8598,
           "ra": [
             16,
@@ -6433,26 +6433,26 @@
             54
           ],
           "magnitude": 15.7,
-          "class": "M6V",
+          "description": "M6V",
           "mass": 0.1
         }
       ]
     },
     {
-      "name": "Gliese–Jahreiß 2130",
-      "othernames": [
+      "id": "Gliese–Jahreiß 2130",
+      "label": [
         "GJ 2130"
       ],
-      "SIMBAD": null,
+      "group": null,
       "stars": [
         {
-          "name": "Gliese–Jahreiß 2130 A",
-          "othernames": [
+          "id": "Gliese–Jahreiß 2130 A",
+          "label": [
             "GJ 2130 A",
             "HD 318327",
             "CD−32 13297"
           ],
-          "SIMBAD": "@2384933",
+          "group": "@2384933",
           "parallax": 71.45,
           "ra": [
             17,
@@ -6465,16 +6465,16 @@
             9.1
           ],
           "magnitude": 11.5,
-          "class": "M2V",
+          "description": "M2V",
           "mass": 0.3
         },
         {
-          "name": "Gliese–Jahreiß 2130 B",
-          "othernames": [
+          "id": "Gliese–Jahreiß 2130 B",
+          "label": [
             "GJ 2130 B",
             "CD−32 13298 A"
           ],
-          "SIMBAD": "@2384932",
+          "group": "@2384932",
           "parallax": 71.45,
           "ra": [
             17,
@@ -6487,16 +6487,16 @@
             8.4
           ],
           "magnitude": 12.8,
-          "class": "M2V",
+          "description": "M2V",
           "mass": 0.18
         },
         {
-          "name": "Gliese–Jahreiß 2130 C",
-          "othernames": [
+          "id": "Gliese–Jahreiß 2130 C",
+          "label": [
             "GJ 2130 C",
             "CD−32 13298 B"
           ],
-          "SIMBAD": null,
+          "group": null,
           "parallax": 71.45,
           "ra": [
             17,
@@ -6509,22 +6509,22 @@
             8
           ],
           "magnitude": 13.8,
-          "class": "M?V",
+          "description": "M?V",
           "mass": 0.15
         }
       ]
     },
     {
-      "name": null,
-      "othernames": [],
-      "SIMBAD": null,
+      "id": null,
+      "label": [],
+      "group": null,
       "stars": [
         {
-          "name": "WISE J053516.80−750024.9",
-          "othernames": [
+          "id": "WISE J053516.80−750024.9",
+          "label": [
             "WISE 0535−7500"
           ],
-          "SIMBAD": "@7834505",
+          "group": "@7834505",
           "parallax": 70,
           "ra": [
             5,
@@ -6537,7 +6537,7 @@
             24.9
           ],
           "magnitude": null,
-          "class": "Y1",
+          "description": "Y1",
           "mass": null
         }
       ]
