@@ -16,7 +16,7 @@
           "dec": null,
           "magnitude": 4.83,
           "description": "G2V",
-          "mass": 1
+          "weight": 1
         }
       ]
     },
@@ -50,7 +50,7 @@
           ],
           "magnitude": 15.5,
           "description": "M5.5Ve",
-          "mass": 0.12
+          "weight": 0.12
         },
         {
           "id": "Rigil Kentaurus",
@@ -74,7 +74,7 @@
           ],
           "magnitude": 4.38,
           "description": "G2V",
-          "mass": 1.1
+          "weight": 1.1
         },
         {
           "id": "Toliman",
@@ -98,7 +98,7 @@
           ],
           "magnitude": 5.71,
           "description": "K1V",
-          "mass": 0.91
+          "weight": 0.91
         }
       ]
     },
@@ -128,7 +128,7 @@
           ],
           "magnitude": 13.2,
           "description": "M4V",
-          "mass": 0.14
+          "weight": 0.14
         }
       ]
     },
@@ -162,7 +162,7 @@
           ],
           "magnitude": null,
           "description": "L7.5",
-          "mass": 0.045
+          "weight": 0.045
         },
         {
           "id": "Luhman 16 B",
@@ -185,7 +185,7 @@
           ],
           "magnitude": null,
           "description": "T0.5",
-          "mass": 0.04
+          "weight": 0.04
         }
       ]
     },
@@ -214,7 +214,7 @@
           ],
           "magnitude": null,
           "description": "Y2",
-          "mass": 0.0062
+          "weight": 0.0062
         }
       ]
     },
@@ -245,7 +245,7 @@
           ],
           "magnitude": 16.6,
           "description": "M6Ve",
-          "mass": 0.09
+          "weight": 0.09
         }
       ]
     },
@@ -275,7 +275,7 @@
           ],
           "magnitude": 10.5,
           "description": "M2V",
-          "mass": 0.46
+          "weight": 0.46
         }
       ]
     },
@@ -309,7 +309,7 @@
           ],
           "magnitude": 1.42,
           "description": "A1V",
-          "mass": 2
+          "weight": 2
         },
         {
           "id": "Sirius B",
@@ -332,7 +332,7 @@
           ],
           "magnitude": 11.2,
           "description": "DA1.9",
-          "mass": 0.98
+          "weight": 0.98
         }
       ]
     },
@@ -372,7 +372,7 @@
           ],
           "magnitude": 15.4,
           "description": "M5.5V",
-          "mass": 0.1
+          "weight": 0.1
         },
         {
           "id": "Luyten 726-8 B",
@@ -399,7 +399,7 @@
           ],
           "magnitude": 15.9,
           "description": "M6V",
-          "mass": 0.1
+          "weight": 0.1
         }
       ]
     },
@@ -430,7 +430,7 @@
           ],
           "magnitude": 13.1,
           "description": "M3.5Ve",
-          "mass": 0.17
+          "weight": 0.17
         }
       ]
     },
@@ -461,7 +461,7 @@
           ],
           "magnitude": 14.8,
           "description": "M5.0V",
-          "mass": 0.14
+          "weight": 0.14
         }
       ]
     },
@@ -493,7 +493,7 @@
           ],
           "magnitude": 6.19,
           "description": "K2V",
-          "mass": 0.82
+          "weight": 0.82
         }
       ]
     },
@@ -524,7 +524,7 @@
           ],
           "magnitude": 9.8,
           "description": "M2V",
-          "mass": 0.5
+          "weight": 0.5
         }
       ]
     },
@@ -555,7 +555,7 @@
           ],
           "magnitude": 13.5,
           "description": "M4V",
-          "mass": 0.15
+          "weight": 0.15
         }
       ]
     },
@@ -589,7 +589,7 @@
           ],
           "magnitude": 15.3,
           "description": "M5V",
-          "mass": 0.11
+          "weight": 0.11
         },
         {
           "id": "EZ Aquarii B",
@@ -612,7 +612,7 @@
           ],
           "magnitude": 15.6,
           "description": "M?V",
-          "mass": 0.11
+          "weight": 0.11
         },
         {
           "id": "EZ Aquarii C",
@@ -635,7 +635,7 @@
           ],
           "magnitude": 17.4,
           "description": "M?V",
-          "mass": 0.08
+          "weight": 0.08
         }
       ]
     },
@@ -673,7 +673,7 @@
           ],
           "magnitude": 7.51,
           "description": "K5V",
-          "mass": 0.7
+          "weight": 0.7
         },
         {
           "id": "61 Cygni B",
@@ -698,7 +698,7 @@
           ],
           "magnitude": 8.23,
           "description": "K7V",
-          "mass": 0.63
+          "weight": 0.63
         }
       ]
     },
@@ -734,7 +734,7 @@
           ],
           "magnitude": 2.66,
           "description": "F5IV-V",
-          "mass": 1.5
+          "weight": 1.5
         },
         {
           "id": "Procyon B",
@@ -758,7 +758,7 @@
           ],
           "magnitude": 13,
           "description": "DQZ",
-          "mass": 0.6
+          "weight": 0.6
         }
       ]
     },
@@ -793,7 +793,7 @@
           ],
           "magnitude": 11.2,
           "description": "M3V",
-          "mass": 0.33
+          "weight": 0.33
         },
         {
           "id": "Struve 2398 B",
@@ -817,7 +817,7 @@
           ],
           "magnitude": 12,
           "description": "M3.5V",
-          "mass": 0.25
+          "weight": 0.25
         }
       ]
     },
@@ -853,7 +853,7 @@
           ],
           "magnitude": 10.3,
           "description": "M2V",
-          "mass": 0.4
+          "weight": 0.4
         },
         {
           "id": "Groombridge 34 B",
@@ -878,7 +878,7 @@
           ],
           "magnitude": 13.3,
           "description": "M3.5Ve",
-          "mass": 0.16
+          "weight": 0.16
         }
       ]
     },
@@ -912,7 +912,7 @@
           ],
           "magnitude": 6.89,
           "description": "K5V",
-          "mass": 0.76
+          "weight": 0.76
         },
         {
           "id": "Epsilon Indi Ba",
@@ -936,7 +936,7 @@
           ],
           "magnitude": null,
           "description": "T1V",
-          "mass": 0.066
+          "weight": 0.066
         },
         {
           "id": "Epsilon Indi Bb",
@@ -960,7 +960,7 @@
           ],
           "magnitude": null,
           "description": "T6V",
-          "mass": 0.047
+          "weight": 0.047
         }
       ]
     },
@@ -992,7 +992,7 @@
           ],
           "magnitude": 17,
           "description": "M6.5Ve",
-          "mass": 0.09
+          "weight": 0.09
         }
       ]
     },
@@ -1022,7 +1022,7 @@
           ],
           "magnitude": 5.69,
           "description": "G8V",
-          "mass": 0.78
+          "weight": 0.78
         }
       ]
     },
@@ -1052,7 +1052,7 @@
           ],
           "magnitude": 15.3,
           "description": "M5.5V",
-          "mass": 0.11
+          "weight": 0.11
         }
       ]
     },
@@ -1082,7 +1082,7 @@
           ],
           "magnitude": 14.2,
           "description": "M4.0Ve",
-          "mass": 0.085
+          "weight": 0.085
         }
       ]
     },
@@ -1112,7 +1112,7 @@
           ],
           "magnitude": 11.9,
           "description": "M3.5V",
-          "mass": 0.26
+          "weight": 0.26
         }
       ]
     },
@@ -1138,7 +1138,7 @@
           ],
           "magnitude": 19.4,
           "description": "M8.5V",
-          "mass": 0.07
+          "weight": 0.07
         },
         {
           "id": "SCR J1845−6357 B",
@@ -1157,7 +1157,7 @@
           ],
           "magnitude": null,
           "description": "T6",
-          "mass": 0.043
+          "weight": 0.043
         }
       ]
     },
@@ -1187,7 +1187,7 @@
           ],
           "magnitude": 17.2,
           "description": "M7.0V",
-          "mass": 0.08
+          "weight": 0.08
         }
       ]
     },
@@ -1218,7 +1218,7 @@
           ],
           "magnitude": 10.9,
           "description": "M1VIp",
-          "mass": 0.27
+          "weight": 0.27
         }
       ]
     },
@@ -1249,7 +1249,7 @@
           ],
           "magnitude": 8.69,
           "description": "M1V",
-          "mass": 0.6
+          "weight": 0.6
         }
       ]
     },
@@ -1275,7 +1275,7 @@
           ],
           "magnitude": 19.4,
           "description": "M8.5Ve",
-          "mass": 0.07
+          "weight": 0.07
         }
       ]
     },
@@ -1309,7 +1309,7 @@
           ],
           "magnitude": 11.8,
           "description": "M3V",
-          "mass": 0.27
+          "weight": 0.27
         },
         {
           "id": "Kruger 60 B",
@@ -1334,7 +1334,7 @@
           ],
           "magnitude": 13.5,
           "description": "M4V",
-          "mass": 0.18
+          "weight": 0.18
         }
       ]
     },
@@ -1360,7 +1360,7 @@
           ],
           "magnitude": null,
           "description": "T9",
-          "mass": 0.035
+          "weight": 0.035
         }
       ]
     },
@@ -1396,7 +1396,7 @@
           ],
           "magnitude": 13.1,
           "description": "M4.5V",
-          "mass": 0.22
+          "weight": 0.22
         },
         {
           "id": "Ross 614 B",
@@ -1420,7 +1420,7 @@
           ],
           "magnitude": 16.2,
           "description": "M6V",
-          "mass": 0.11
+          "weight": 0.11
         }
       ]
     },
@@ -1452,7 +1452,7 @@
           ],
           "magnitude": 12,
           "description": "M3V",
-          "mass": 0.25
+          "weight": 0.25
         }
       ]
     },
@@ -1483,7 +1483,7 @@
           ],
           "magnitude": 14.2,
           "description": "DZ7.5",
-          "mass": 0.68
+          "weight": 0.68
         }
       ]
     },
@@ -1512,7 +1512,7 @@
           ],
           "magnitude": 10.4,
           "description": "M2V",
-          "mass": 0.46
+          "weight": 0.46
         }
       ]
     },
@@ -1548,7 +1548,7 @@
           ],
           "magnitude": 15,
           "description": "M5.5V",
-          "mass": 0.14
+          "weight": 0.14
         },
         {
           "id": "Wolf 424 B",
@@ -1572,7 +1572,7 @@
           ],
           "magnitude": 15,
           "description": "M7",
-          "mass": 0.13
+          "weight": 0.13
         }
       ]
     },
@@ -1606,7 +1606,7 @@
           ],
           "magnitude": 14,
           "description": "M4.5V",
-          "mass": 0.14
+          "weight": 0.14
         }
       ]
     },
@@ -1635,7 +1635,7 @@
           ],
           "magnitude": 10.9,
           "description": "M3.0V",
-          "mass": 0.4
+          "weight": 0.4
         }
       ]
     },
@@ -1665,7 +1665,7 @@
           ],
           "magnitude": 17.4,
           "description": "M6.5V",
-          "mass": 0.08
+          "weight": 0.08
         }
       ]
     },
@@ -1699,7 +1699,7 @@
           ],
           "magnitude": 15.2,
           "description": "M5.5Ve",
-          "mass": 0.11
+          "weight": 0.11
         },
         {
           "id": "Giclas 208-44 B",
@@ -1722,7 +1722,7 @@
           ],
           "magnitude": 18.5,
           "description": "M6.0V",
-          "mass": 0.07
+          "weight": 0.07
         },
         {
           "id": "Giclas 208-45",
@@ -1745,7 +1745,7 @@
           ],
           "magnitude": 15.7,
           "description": "M6V",
-          "mass": 0.1
+          "weight": 0.1
         }
       ]
     },
@@ -1774,7 +1774,7 @@
           ],
           "magnitude": 11.1,
           "description": "M3V",
-          "mass": 0.36
+          "weight": 0.36
         }
       ]
     },
@@ -1804,7 +1804,7 @@
           ],
           "magnitude": 13.2,
           "description": "DQ6",
-          "mass": 0.75
+          "weight": 0.75
         }
       ]
     },
@@ -1836,7 +1836,7 @@
           ],
           "magnitude": 11.8,
           "description": "M3.5V",
-          "mass": 0.33
+          "weight": 0.33
         }
       ]
     },
@@ -1866,7 +1866,7 @@
           ],
           "magnitude": 15.4,
           "description": "M5.5V",
-          "mass": 0.11
+          "weight": 0.11
         }
       ]
     },
@@ -1895,7 +1895,7 @@
           ],
           "magnitude": 15.7,
           "description": "M5.5V",
-          "mass": 0.11
+          "weight": 0.11
         }
       ]
     },
@@ -1925,7 +1925,7 @@
           ],
           "magnitude": 10.3,
           "description": "M1.0Ve",
-          "mass": 0.48
+          "weight": 0.48
         },
         {
           "id": "Gliese 412 B",
@@ -1948,7 +1948,7 @@
           ],
           "magnitude": 16,
           "description": "M6.0V",
-          "mass": 0.1
+          "weight": 0.1
         }
       ]
     },
@@ -1979,7 +1979,7 @@
           ],
           "magnitude": 8.11,
           "description": "K6Ve",
-          "mass": 0.67
+          "weight": 0.67
         }
       ]
     },
@@ -2010,7 +2010,7 @@
           ],
           "magnitude": 10.9,
           "description": "M4Vae",
-          "mass": 0.39
+          "weight": 0.39
         }
       ]
     },
@@ -2040,7 +2040,7 @@
           ],
           "magnitude": null,
           "description": "T6",
-          "mass": 0.015
+          "weight": 0.015
         }
       ]
     },
@@ -2068,7 +2068,7 @@
           ],
           "magnitude": null,
           "description": "Y0",
-          "mass": null
+          "weight": null
         }
       ]
     },
@@ -2097,7 +2097,7 @@
           ],
           "magnitude": 10.2,
           "description": "M2V",
-          "mass": 0.45
+          "weight": 0.45
         }
       ]
     },
@@ -2125,7 +2125,7 @@
           ],
           "magnitude": 24.4,
           "description": "L9",
-          "mass": 0.05
+          "weight": 0.05
         }
       ]
     },
@@ -2165,7 +2165,7 @@
           ],
           "magnitude": 5.94,
           "description": "K0V",
-          "mass": 0.89
+          "weight": 0.89
         },
         {
           "id": "40 Eridani B",
@@ -2190,7 +2190,7 @@
           ],
           "magnitude": 11,
           "description": "DA2.9",
-          "mass": 0.5
+          "weight": 0.5
         },
         {
           "id": "40 Eridani C",
@@ -2215,7 +2215,7 @@
           ],
           "magnitude": 12.8,
           "description": "M4.5V",
-          "mass": 0.18
+          "weight": 0.18
         }
       ]
     },
@@ -2245,7 +2245,7 @@
           ],
           "magnitude": null,
           "description": "T7.5",
-          "mass": null
+          "weight": null
         }
       ]
     },
@@ -2275,7 +2275,7 @@
           ],
           "magnitude": 11.7,
           "description": "M4.0V",
-          "mass": 0.28
+          "weight": 0.28
         }
       ]
     },
@@ -2304,7 +2304,7 @@
           ],
           "magnitude": 12.4,
           "description": "M3.5",
-          "mass": 0.2
+          "weight": 0.2
         }
       ]
     },
@@ -2341,7 +2341,7 @@
           ],
           "magnitude": 5.67,
           "description": "K0V",
-          "mass": 0.92
+          "weight": 0.92
         },
         {
           "id": "70 Ophiuchi B",
@@ -2365,7 +2365,7 @@
           ],
           "magnitude": 7.47,
           "description": "K4V",
-          "mass": 0.7
+          "weight": 0.7
         }
       ]
     },
@@ -2396,7 +2396,7 @@
           ],
           "magnitude": 2.22,
           "description": "A7Vn",
-          "mass": 1.71
+          "weight": 1.71
         }
       ]
     },
@@ -2424,7 +2424,7 @@
           ],
           "magnitude": null,
           "description": "T6",
-          "mass": null
+          "weight": null
         }
       ]
     },
@@ -2460,7 +2460,7 @@
           ],
           "magnitude": 15.5,
           "description": "M8Ve",
-          "mass": 0.11
+          "weight": 0.11
         },
         {
           "id": "Gliese–Jahreiß 1116 B",
@@ -2483,7 +2483,7 @@
           ],
           "magnitude": 16.3,
           "description": "M7V",
-          "mass": 0.1
+          "weight": 0.1
         }
       ]
     },
@@ -2513,7 +2513,7 @@
           ],
           "magnitude": 12.7,
           "description": "M3.5Ve",
-          "mass": 0.19
+          "weight": 0.19
         }
       ]
     },
@@ -2543,7 +2543,7 @@
           ],
           "magnitude": 17,
           "description": "M6.5",
-          "mass": null
+          "weight": null
         }
       ]
     },
@@ -2573,7 +2573,7 @@
           ],
           "magnitude": 13.6,
           "description": "M4.0Ve",
-          "mass": 0.15
+          "weight": 0.15
         }
       ]
     },
@@ -2603,7 +2603,7 @@
           ],
           "magnitude": null,
           "description": "T8",
-          "mass": 0.03
+          "weight": 0.03
         },
         {
           "id": "2MASS J09393548−2448279 B",
@@ -2624,7 +2624,7 @@
           ],
           "magnitude": null,
           "description": "T8",
-          "mass": 0.03
+          "weight": 0.03
         }
       ]
     },
@@ -2654,7 +2654,7 @@
           ],
           "magnitude": 12.2,
           "description": "M4.0Ve",
-          "mass": 0.24
+          "weight": 0.24
         }
       ]
     },
@@ -2683,7 +2683,7 @@
           ],
           "magnitude": 9.79,
           "description": "M2V",
-          "mass": 0.53
+          "weight": 0.53
         }
       ]
     },
@@ -2711,7 +2711,7 @@
           ],
           "magnitude": null,
           "description": "Y1",
-          "mass": null
+          "weight": null
         }
       ]
     },
@@ -2750,7 +2750,7 @@
           ],
           "magnitude": 12.3,
           "description": "M4.0Ve",
-          "mass": 0.2
+          "weight": 0.2
         },
         {
           "id": "Stein 2051 B",
@@ -2776,7 +2776,7 @@
           ],
           "magnitude": 13.7,
           "description": "DC5",
-          "mass": 0.5
+          "weight": 0.5
         }
       ]
     },
@@ -2805,7 +2805,7 @@
           ],
           "magnitude": null,
           "description": "T9",
-          "mass": null
+          "weight": null
         }
       ]
     },
@@ -2835,7 +2835,7 @@
           ],
           "magnitude": 11.3,
           "description": "M3V",
-          "mass": 0.34
+          "weight": 0.34
         }
       ]
     },
@@ -2863,7 +2863,7 @@
           ],
           "magnitude": null,
           "description": "T7.5",
-          "mass": 0.03
+          "weight": 0.03
         }
       ]
     },
@@ -2891,7 +2891,7 @@
           ],
           "magnitude": 19.5,
           "description": "M8.5V",
-          "mass": 0.07
+          "weight": 0.07
         }
       ]
     },
@@ -2921,7 +2921,7 @@
           ],
           "magnitude": 9.18,
           "description": "M1.5Ve",
-          "mass": 0.57
+          "weight": 0.57
         }
       ]
     },
@@ -2949,7 +2949,7 @@
           ],
           "magnitude": null,
           "description": "Y0",
-          "mass": 0.01
+          "weight": 0.01
         }
       ]
     },
@@ -2975,7 +2975,7 @@
           ],
           "magnitude": 12.7,
           "description": "M4V",
-          "mass": 0.19
+          "weight": 0.19
         }
       ]
     },
@@ -3003,7 +3003,7 @@
           ],
           "magnitude": null,
           "description": "T8.0",
-          "mass": 0.03
+          "weight": 0.03
         }
       ]
     },
@@ -3034,7 +3034,7 @@
           ],
           "magnitude": 5.87,
           "description": "K0V",
-          "mass": 0.89
+          "weight": 0.89
         }
       ]
     },
@@ -3068,7 +3068,7 @@
           ],
           "magnitude": 9.34,
           "description": "M1V",
-          "mass": 0.56
+          "weight": 0.56
         },
         {
           "id": "Gliese 229 B",
@@ -3090,7 +3090,7 @@
           ],
           "magnitude": null,
           "description": "T6.5",
-          "mass": 0.002
+          "weight": 0.002
         }
       ]
     },
@@ -3121,7 +3121,7 @@
           ],
           "magnitude": 12.7,
           "description": "M4V",
-          "mass": 0.18
+          "weight": 0.18
         }
       ]
     },
@@ -3151,7 +3151,7 @@
           ],
           "magnitude": 11.9,
           "description": "M3.5V",
-          "mass": 0.26
+          "weight": 0.26
         }
       ]
     },
@@ -3185,7 +3185,7 @@
           ],
           "magnitude": 10.3,
           "description": "M3V",
-          "mass": 0.5
+          "weight": 0.5
         },
         {
           "id": "Van Biesbroeck’s star",
@@ -3211,7 +3211,7 @@
           ],
           "magnitude": 18.6,
           "description": "M8V",
-          "mass": 0.07
+          "weight": 0.07
         }
       ]
     },
@@ -3248,7 +3248,7 @@
           ],
           "magnitude": 6.8,
           "description": "K4V",
-          "mass": 0.78
+          "weight": 0.78
         },
         {
           "id": "33 G. Librae B",
@@ -3273,7 +3273,7 @@
           ],
           "magnitude": 9.46,
           "description": "M1.5V",
-          "mass": 0.55
+          "weight": 0.55
         },
         {
           "id": "33 G. Librae C",
@@ -3298,7 +3298,7 @@
           ],
           "magnitude": 11.1,
           "description": "M?V",
-          "mass": 0.36
+          "weight": 0.36
         },
         {
           "id": "33 G. Librae D",
@@ -3321,7 +3321,7 @@
           ],
           "magnitude": null,
           "description": "T8",
-          "mass": 0.05
+          "weight": 0.05
         }
       ]
     },
@@ -3351,7 +3351,7 @@
           ],
           "magnitude": 13.4,
           "description": "M4.5",
-          "mass": 0.16
+          "weight": 0.16
         }
       ]
     },
@@ -3380,7 +3380,7 @@
           ],
           "magnitude": 10.4,
           "description": "M2.5V",
-          "mass": 0.46
+          "weight": 0.46
         }
       ]
     },
@@ -3414,7 +3414,7 @@
           ],
           "magnitude": 12.7,
           "description": "M3.5V",
-          "mass": 0.18
+          "weight": 0.18
         },
         {
           "id": "Gliese–Jahreiß 1005 B",
@@ -3437,7 +3437,7 @@
           ],
           "magnitude": 15.2,
           "description": "M?V",
-          "mass": 0.11
+          "weight": 0.11
         }
       ]
     },
@@ -3473,7 +3473,7 @@
           ],
           "magnitude": 4.59,
           "description": "F9V",
-          "mass": 1.11
+          "weight": 1.11
         },
         {
           "id": "Eta Cassiopeiae B",
@@ -3496,7 +3496,7 @@
           ],
           "magnitude": 8.34,
           "description": "K7Ve",
-          "mass": 0.6
+          "weight": 0.6
         }
       ]
     },
@@ -3526,7 +3526,7 @@
           ],
           "magnitude": null,
           "description": "T8",
-          "mass": null
+          "weight": null
         }
       ]
     },
@@ -3561,7 +3561,7 @@
           ],
           "magnitude": 6.2,
           "description": "K2V",
-          "mass": 0.85
+          "weight": 0.85
         },
         {
           "id": "36 Ophiuchi B",
@@ -3585,7 +3585,7 @@
           ],
           "magnitude": 6.21,
           "description": "K1V",
-          "mass": 0.85
+          "weight": 0.85
         },
         {
           "id": "36 Ophiuchi C",
@@ -3610,7 +3610,7 @@
           ],
           "magnitude": 7.45,
           "description": "K5V",
-          "mass": 0.71
+          "weight": 0.71
         }
       ]
     },
@@ -3640,7 +3640,7 @@
           ],
           "magnitude": 10.1,
           "description": "M1V",
-          "mass": 0.51
+          "weight": 0.51
         }
       ]
     },
@@ -3671,7 +3671,7 @@
           ],
           "magnitude": 12.3,
           "description": "M4.0V",
-          "mass": 0.2
+          "weight": 0.2
         }
       ]
     },
@@ -3706,7 +3706,7 @@
           ],
           "magnitude": 6.42,
           "description": "K2.5V",
-          "mass": 0.82
+          "weight": 0.82
         },
         {
           "id": "279 G. Sagittarii B",
@@ -3729,7 +3729,7 @@
           ],
           "magnitude": 12.6,
           "description": "M3.5",
-          "mass": 0.19
+          "weight": 0.19
         }
       ]
     },
@@ -3763,7 +3763,7 @@
           ],
           "magnitude": 19.4,
           "description": "M9.5",
-          "mass": 0.08
+          "weight": 0.08
         },
         {
           "id": "2MASS J07200325−0846499 B",
@@ -3785,7 +3785,7 @@
           ],
           "magnitude": null,
           "description": "T5",
-          "mass": 0.06
+          "weight": 0.06
         }
       ]
     },
@@ -3817,7 +3817,7 @@
           ],
           "magnitude": 5.35,
           "description": "G6V",
-          "mass": 0.97
+          "weight": 0.97
         }
       ]
     },
@@ -3847,7 +3847,7 @@
           ],
           "magnitude": 15.3,
           "description": "DQ9P",
-          "mass": 0.5
+          "weight": 0.5
         }
       ]
     },
@@ -3880,7 +3880,7 @@
           ],
           "magnitude": 8.71,
           "description": "K7V",
-          "mass": 0.6
+          "weight": 0.6
         },
         {
           "id": "ADS 7251 B",
@@ -3903,7 +3903,7 @@
           ],
           "magnitude": 8.77,
           "description": "M0V",
-          "mass": 0.6
+          "weight": 0.6
         }
       ]
     },
@@ -3933,7 +3933,7 @@
           ],
           "magnitude": 4.62,
           "description": "G8IV",
-          "mass": 1.1
+          "weight": 1.1
         }
       ]
     },
@@ -3963,7 +3963,7 @@
           ],
           "magnitude": 0,
           "description": "T2.5",
-          "mass": 0.01
+          "weight": 0.01
         }
       ]
     },
@@ -3995,7 +3995,7 @@
           ],
           "magnitude": 13.1,
           "description": "M4.5Ve",
-          "mass": 0.17
+          "weight": 0.17
         },
         {
           "id": "QY Aurigae B",
@@ -4017,7 +4017,7 @@
           ],
           "magnitude": 13.5,
           "description": "M?V",
-          "mass": 0.16
+          "weight": 0.16
         }
       ]
     },
@@ -4045,7 +4045,7 @@
           ],
           "magnitude": null,
           "description": "T6.0",
-          "mass": 0.03
+          "weight": 0.03
         }
       ]
     },
@@ -4074,7 +4074,7 @@
           ],
           "magnitude": 8.99,
           "description": "M0V",
-          "mass": 0.58
+          "weight": 0.58
         }
       ]
     },
@@ -4105,7 +4105,7 @@
           ],
           "magnitude": 12.4,
           "description": "M3.5V",
-          "mass": 0.2
+          "weight": 0.2
         }
       ]
     },
@@ -4133,7 +4133,7 @@
           ],
           "magnitude": null,
           "description": "Y0",
-          "mass": 0.003
+          "weight": 0.003
         }
       ]
     },
@@ -4169,7 +4169,7 @@
           ],
           "magnitude": 11.3,
           "description": "M3.5Ve",
-          "mass": 0.33
+          "weight": 0.33
         },
         {
           "id": "EQ Pegasi B",
@@ -4193,7 +4193,7 @@
           ],
           "magnitude": 13.4,
           "description": "M4.0Ve",
-          "mass": 0.16
+          "weight": 0.16
         }
       ]
     },
@@ -4224,7 +4224,7 @@
           ],
           "magnitude": 11.6,
           "description": "M3V",
-          "mass": 0.3
+          "weight": 0.3
         }
       ]
     },
@@ -4250,7 +4250,7 @@
           ],
           "magnitude": 17.1,
           "description": "M6.5Ve",
-          "mass": 0.09
+          "weight": 0.09
         }
       ]
     },
@@ -4281,7 +4281,7 @@
           ],
           "magnitude": 13.7,
           "description": "M4.0V",
-          "mass": 0.15
+          "weight": 0.15
         }
       ]
     },
@@ -4315,7 +4315,7 @@
           ],
           "magnitude": 10.9,
           "description": "M3V",
-          "mass": 0.39
+          "weight": 0.39
         },
         {
           "id": "Furuhjelm 46 B",
@@ -4338,7 +4338,7 @@
           ],
           "magnitude": 11.3,
           "description": "M4V",
-          "mass": 0.33
+          "weight": 0.33
         }
       ]
     },
@@ -4369,7 +4369,7 @@
           ],
           "magnitude": 15.4,
           "description": "DZ11",
-          "mass": 0.5
+          "weight": 0.5
         }
       ]
     },
@@ -4398,7 +4398,7 @@
           ],
           "magnitude": 20.2,
           "description": "M9.5V",
-          "mass": 0.07
+          "weight": 0.07
         }
       ]
     },
@@ -4431,7 +4431,7 @@
           ],
           "magnitude": 10.7,
           "description": "M3V",
-          "mass": 0.42
+          "weight": 0.42
         },
         {
           "id": "V1054 Ophiuchi Ba",
@@ -4455,7 +4455,7 @@
           ],
           "magnitude": 11.3,
           "description": "M4Ve",
-          "mass": 0.35
+          "weight": 0.35
         },
         {
           "id": "V1054 Ophiuchi Bb",
@@ -4479,7 +4479,7 @@
           ],
           "magnitude": 11.8,
           "description": "M4Ve",
-          "mass": 0.31
+          "weight": 0.31
         },
         {
           "id": "Gliese 643",
@@ -4501,7 +4501,7 @@
           ],
           "magnitude": 12.7,
           "description": "M3.5V",
-          "mass": 0.19
+          "weight": 0.19
         },
         {
           "id": "V1054 Ophiuchi C",
@@ -4526,7 +4526,7 @@
           ],
           "magnitude": 17.7,
           "description": "M7Ve",
-          "mass": 0.08
+          "weight": 0.08
         }
       ]
     },
@@ -4556,7 +4556,7 @@
           ],
           "magnitude": null,
           "description": "T5.5",
-          "mass": null
+          "weight": null
         }
       ]
     },
@@ -4586,7 +4586,7 @@
           ],
           "magnitude": 11,
           "description": "M1.5V",
-          "mass": 0.37
+          "weight": 0.37
         }
       ]
     },
@@ -4616,7 +4616,7 @@
           ],
           "magnitude": 13.7,
           "description": "M4.0V",
-          "mass": 0.15
+          "weight": 0.15
         }
       ]
     },
@@ -4644,7 +4644,7 @@
           ],
           "magnitude": null,
           "description": "T8.5",
-          "mass": null
+          "weight": null
         }
       ]
     },
@@ -4674,7 +4674,7 @@
           ],
           "magnitude": 14.7,
           "description": "M4.5Ve",
-          "mass": 0.12
+          "weight": 0.12
         }
       ]
     },
@@ -4704,7 +4704,7 @@
           ],
           "magnitude": 6.49,
           "description": "K3V",
-          "mass": 0.81
+          "weight": 0.81
         }
       ]
     },
@@ -4734,7 +4734,7 @@
           ],
           "magnitude": 18,
           "description": "M7.0Ve",
-          "mass": 0.08
+          "weight": 0.08
         }
       ]
     },
@@ -4763,7 +4763,7 @@
           ],
           "magnitude": 10.9,
           "description": "M4V",
-          "mass": 0.39
+          "weight": 0.39
         }
       ]
     },
@@ -4795,7 +4795,7 @@
           ],
           "magnitude": 11.9,
           "description": "M3.0Ve",
-          "mass": 0.26
+          "weight": 0.26
         },
         {
           "id": "Gliese 829 B",
@@ -4817,7 +4817,7 @@
           ],
           "magnitude": 11.9,
           "description": "M?V",
-          "mass": 0.26
+          "weight": 0.26
         }
       ]
     },
@@ -4851,7 +4851,7 @@
           ],
           "magnitude": 12.8,
           "description": "M3.5V",
-          "mass": 0.18
+          "weight": 0.18
         },
         {
           "id": "Gliese–Jahreiß 3522 B",
@@ -4874,7 +4874,7 @@
           ],
           "magnitude": 13,
           "description": "M?V",
-          "mass": 0.17
+          "weight": 0.17
         },
         {
           "id": "Gliese–Jahreiß 3522 C",
@@ -4897,7 +4897,7 @@
           ],
           "magnitude": 13.1,
           "description": "M?V",
-          "mass": 0.17
+          "weight": 0.17
         }
       ]
     },
@@ -4931,7 +4931,7 @@
           ],
           "magnitude": 5.5,
           "description": "G7Ve",
-          "mass": 0.94
+          "weight": 0.94
         },
         {
           "id": "Xi Boötis B",
@@ -4954,7 +4954,7 @@
           ],
           "magnitude": 7.8,
           "description": "K5Ve",
-          "mass": 0.67
+          "weight": 0.67
         }
       ]
     },
@@ -4985,7 +4985,7 @@
           ],
           "magnitude": 12.5,
           "description": "M4V",
-          "mass": 0.2
+          "weight": 0.2
         }
       ]
     },
@@ -5015,7 +5015,7 @@
           ],
           "magnitude": 9.48,
           "description": "M1.5Ve",
-          "mass": 0.55
+          "weight": 0.55
         }
       ]
     },
@@ -5043,7 +5043,7 @@
           ],
           "magnitude": null,
           "description": "Y0",
-          "mass": null
+          "weight": null
         }
       ]
     },
@@ -5072,7 +5072,7 @@
           ],
           "magnitude": 13.65,
           "description": "M4.5Ve",
-          "mass": 0.15
+          "weight": 0.15
         }
       ]
     },
@@ -5100,7 +5100,7 @@
           ],
           "magnitude": null,
           "description": "Y0",
-          "mass": null
+          "weight": null
         }
       ]
     },
@@ -5134,7 +5134,7 @@
           ],
           "magnitude": 12,
           "description": "M3V",
-          "mass": 0.26
+          "weight": 0.26
         },
         {
           "id": "LTT 1445 B",
@@ -5158,7 +5158,7 @@
           ],
           "magnitude": 12.6,
           "description": "M3V",
-          "mass": 0.19
+          "weight": 0.19
         },
         {
           "id": "LTT 1445 C",
@@ -5182,7 +5182,7 @@
           ],
           "magnitude": 13.4,
           "description": "M?V",
-          "mass": 0.16
+          "weight": 0.16
         }
       ]
     },
@@ -5211,7 +5211,7 @@
           ],
           "magnitude": 10.41,
           "description": "M2.0Ve",
-          "mass": 0.41
+          "weight": 0.41
         }
       ]
     },
@@ -5239,7 +5239,7 @@
           ],
           "magnitude": null,
           "description": "M5V",
-          "mass": null
+          "weight": null
         }
       ]
     },
@@ -5268,7 +5268,7 @@
           ],
           "magnitude": 9.31,
           "description": "M1.0Ve",
-          "mass": 0.614
+          "weight": 0.614
         }
       ]
     },
@@ -5296,7 +5296,7 @@
           ],
           "magnitude": null,
           "description": "T9",
-          "mass": null
+          "weight": null
         }
       ]
     },
@@ -5324,7 +5324,7 @@
           ],
           "magnitude": null,
           "description": "Y0",
-          "mass": 0.02
+          "weight": 0.02
         }
       ]
     },
@@ -5354,7 +5354,7 @@
           ],
           "magnitude": 14.3,
           "description": "M4.5",
-          "mass": null
+          "weight": null
         }
       ]
     },
@@ -5384,7 +5384,7 @@
           ],
           "magnitude": 15.4,
           "description": "M5.0Ve",
-          "mass": null
+          "weight": null
         }
       ]
     },
@@ -5419,7 +5419,7 @@
           ],
           "magnitude": 6.53,
           "description": "K3V",
-          "mass": 0.7
+          "weight": 0.7
         },
         {
           "id": "BX Ceti",
@@ -5444,7 +5444,7 @@
           ],
           "magnitude": 12.4,
           "description": "M3.5V",
-          "mass": 0.25
+          "weight": 0.25
         },
         {
           "id": "Gliese 105 C",
@@ -5467,7 +5467,7 @@
           ],
           "magnitude": 17.5,
           "description": "M6V",
-          "mass": 0.08
+          "weight": 0.08
         }
       ]
     },
@@ -5497,7 +5497,7 @@
           ],
           "magnitude": 14,
           "description": "M4.5Ve",
-          "mass": null
+          "weight": null
         }
       ]
     },
@@ -5529,7 +5529,7 @@
           ],
           "magnitude": 7.1,
           "description": "K3",
-          "mass": 0.73
+          "weight": 0.73
         },
         {
           "id": "Gliese 667 B",
@@ -5551,7 +5551,7 @@
           ],
           "magnitude": 8.1,
           "description": "K4",
-          "mass": 0.69
+          "weight": 0.69
         },
         {
           "id": "Gliese 667 C",
@@ -5573,7 +5573,7 @@
           ],
           "magnitude": 10.9,
           "description": "M1.5V",
-          "mass": 0.31
+          "weight": 0.31
         }
       ]
     },
@@ -5601,7 +5601,7 @@
           ],
           "magnitude": null,
           "description": "T8.5",
-          "mass": null
+          "weight": null
         }
       ]
     },
@@ -5631,7 +5631,7 @@
           ],
           "magnitude": 22.8,
           "description": "L5V",
-          "mass": null
+          "weight": null
         }
       ]
     },
@@ -5665,7 +5665,7 @@
           ],
           "magnitude": 14.3,
           "description": "M3.5V",
-          "mass": 0.2
+          "weight": 0.2
         },
         {
           "id": "Gliese–Jahreiß 3991 B",
@@ -5688,7 +5688,7 @@
           ],
           "magnitude": 17,
           "description": "D?12",
-          "mass": 0.5
+          "weight": 0.5
         }
       ]
     },
@@ -5719,7 +5719,7 @@
           ],
           "magnitude": 6.37,
           "description": "K2.5V",
-          "mass": 0.7
+          "weight": 0.7
         }
       ]
     },
@@ -5749,7 +5749,7 @@
           ],
           "magnitude": null,
           "description": "M3.0V",
-          "mass": null
+          "weight": null
         }
       ]
     },
@@ -5779,7 +5779,7 @@
           ],
           "magnitude": 3.45,
           "description": "G0V",
-          "mass": 1.08
+          "weight": 1.08
         }
       ]
     },
@@ -5815,7 +5815,7 @@
           ],
           "magnitude": 5.78,
           "description": "G5Vb",
-          "mass": 0.74
+          "weight": 0.74
         },
         {
           "id": "Mu Cassiopeiae B",
@@ -5839,7 +5839,7 @@
           ],
           "magnitude": 11.6,
           "description": "M?",
-          "mass": 0.17
+          "weight": 0.17
         }
       ]
     },
@@ -5869,7 +5869,7 @@
           ],
           "magnitude": 5.87,
           "description": "K1V",
-          "mass": 0.83
+          "weight": 0.83
         }
       ]
     },
@@ -5900,7 +5900,7 @@
           ],
           "magnitude": 7.08,
           "description": "K4Ve",
-          "mass": 0.73
+          "weight": 0.73
         }
       ]
     },
@@ -5930,7 +5930,7 @@
           ],
           "magnitude": 9.6,
           "description": "M1.0Ve",
-          "mass": null
+          "weight": null
         }
       ]
     },
@@ -5960,7 +5960,7 @@
           ],
           "magnitude": null,
           "description": "M5.0V",
-          "mass": null
+          "weight": null
         }
       ]
     },
@@ -5990,7 +5990,7 @@
           ],
           "magnitude": null,
           "description": "M4.5V",
-          "mass": null
+          "weight": null
         }
       ]
     },
@@ -6021,7 +6021,7 @@
           ],
           "magnitude": 0.58,
           "description": "A0Va",
-          "mass": 2.14
+          "weight": 2.14
         }
       ]
     },
@@ -6051,7 +6051,7 @@
           ],
           "magnitude": 13.2,
           "description": "M4.0Ve",
-          "mass": 0.18
+          "weight": 0.18
         }
       ]
     },
@@ -6081,7 +6081,7 @@
           ],
           "magnitude": 11.1,
           "description": "M3V",
-          "mass": null
+          "weight": null
         }
       ]
     },
@@ -6111,7 +6111,7 @@
           ],
           "magnitude": 1.72,
           "description": "A4V",
-          "mass": 1.92
+          "weight": 1.92
         }
       ]
     },
@@ -6140,7 +6140,7 @@
           ],
           "magnitude": 8.06,
           "description": "K7V",
-          "mass": 0.6
+          "weight": 0.6
         }
       ]
     },
@@ -6170,7 +6170,7 @@
           ],
           "magnitude": null,
           "description": "M4.0Ve",
-          "mass": null
+          "weight": null
         }
       ]
     },
@@ -6199,7 +6199,7 @@
           ],
           "magnitude": 14.3,
           "description": "M4.5",
-          "mass": null
+          "weight": null
         }
       ]
     },
@@ -6229,7 +6229,7 @@
           ],
           "magnitude": null,
           "description": "M7",
-          "mass": null
+          "weight": null
         }
       ]
     },
@@ -6257,7 +6257,7 @@
           ],
           "magnitude": null,
           "description": "M?",
-          "mass": null
+          "weight": null
         }
       ]
     },
@@ -6288,7 +6288,7 @@
           ],
           "magnitude": 13.2,
           "description": "M3.5V",
-          "mass": 0.17
+          "weight": 0.17
         }
       ]
     },
@@ -6317,7 +6317,7 @@
           ],
           "magnitude": null,
           "description": "M7.5",
-          "mass": null
+          "weight": null
         }
       ]
     },
@@ -6345,7 +6345,7 @@
           ],
           "magnitude": null,
           "description": "Y0",
-          "mass": null
+          "weight": null
         }
       ]
     },
@@ -6375,7 +6375,7 @@
           ],
           "magnitude": null,
           "description": "M4.5",
-          "mass": null
+          "weight": null
         }
       ]
     },
@@ -6404,7 +6404,7 @@
           ],
           "magnitude": 16.6,
           "description": "M4V",
-          "mass": null
+          "weight": null
         }
       ]
     },
@@ -6434,7 +6434,7 @@
           ],
           "magnitude": 15.7,
           "description": "M6V",
-          "mass": 0.1
+          "weight": 0.1
         }
       ]
     },
@@ -6466,7 +6466,7 @@
           ],
           "magnitude": 11.5,
           "description": "M2V",
-          "mass": 0.3
+          "weight": 0.3
         },
         {
           "id": "Gliese–Jahreiß 2130 B",
@@ -6488,7 +6488,7 @@
           ],
           "magnitude": 12.8,
           "description": "M2V",
-          "mass": 0.18
+          "weight": 0.18
         },
         {
           "id": "Gliese–Jahreiß 2130 C",
@@ -6510,7 +6510,7 @@
           ],
           "magnitude": 13.8,
           "description": "M?V",
-          "mass": 0.15
+          "weight": 0.15
         }
       ]
     },
@@ -6538,7 +6538,7 @@
           ],
           "magnitude": null,
           "description": "Y1",
-          "mass": null
+          "weight": null
         }
       ]
     }
