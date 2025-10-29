@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8" />
+  <title>Index6 — Systems Graph</title>
+  <!-- ✅ Обновляем D3 до v7 -->
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+  <style>
+    body { font-family: "PT Sans", sans-serif; margin: 0; overflow: hidden; background: #000; }
+    svg { width: 100vw; height: 100vh; }
+    text { fill: white; font-size: 10px; pointer-events: none; }
+    line { stroke: #888; stroke-width: 0.7; }
+  </style>
+</head>
+<body>
+  <svg></svg>
+  <script>
+    // === Конвертер для systems.json ===
+    function convertSystemsToGraph(data) {
+      const nodes = [];
+      const links = [];
+
+      if (!data || !data.systems) return { nodes, links };
+
+      data.systems.forEach((system, i) => {
+        const sysName = system.name || `System_${i}`;
+        nodes.push({ id: sysName, label: sysName, group: 1 });
+
+        if (system.stars && Array.isArray(system.stars)) {
+          system.stars.forEach((star, j) => {
+            const starId = `${sysName}_${star.name || "Star_" + j}`;
+            nodes.push({
+              id: starId,
+              label: star.name || `Star_${j}`,
+              name: star.name || "",
+              magnitude: star.magnitude || "",
+              class: star.class || "",
+              group: 2
+            });
+            links.push({ source: sysName, target: starId });
+          });
+        }
+      });
+      return { nodes, links };
+    }
+
+    // === Загрузка и построение графа ===
+    d3.json("systems.json").then(function(hotmapsRaw) {
+      const graph = convertSystemsToGraph(hotmapsRaw);
+
+      const svg = d3.select("svg");
+      const width = window.innerWidth;
+      const height = window.innerHeight;
+
+      const simulation = d3.forceSimulation(graph.nodes)
+        .force("link", d3.forceLink(graph.links).id(d => d.id).distance(90))
+        .force("charge", d3.forceManyBody().strength(-40))
+        .force("center", d3.forceCenter(width / 2, height / 2));
+
+      const link = svg.append("g")
+        .selectAll("line")
+        .data(graph.links)
+        .enter().append("line");
+
+      const node = svg.append("g")
+        .selectAll("circle")
+        .data(graph.nodes)
+        .enter().append("circle")
+        .attr("r", 5)
+        .attr("fill", d => d.group === 1 ? "#ffcc00" : "#00ccff")
+        .call(d3.drag()
+          .on("start", dragstarted)
+          .on("drag", dragged)
+          .on("end", dragended));
+
+      node.append("title")
+        .text(d =>
+          `${d.label || "frequency cluster"}\n` +
+          (d.name ? `Name: ${d.name}\n` : "") +
+          (d.magnitude ? `Magnitude: ${d.magnitude}\n` : "") +
+          (d.class ? `Class: ${d.class}\n` : "")
+        );
+
+      const labels = svg.append("g")
+        .selectAll("text")
+        .data(graph.nodes.filter(d => d.group === 2))
+        .enter()
+        .append("text")
+        .text(d => d.name ? `${d.name} (${d.class})` : d.label)
+        .attr("dy", -8);
+
+      simulation.on("tick", () => {
+        link
+          .attr("x1", d => d.source.x)
+          .attr("y1", d => d.source.y)
+          .attr("x2", d => d.target.x)
+          .attr("y2", d => d.target.y);
+
+        node
+          .attr("cx", d => d.x)
+          .attr("cy", d => d.y);
+
+        labels
+          .attr("x", d => d.x + 6)
+          .attr("y", d => d.y + 3);
+      });
+
+      function dragstarted(event, d) {
+        if (!event.active) simulation.alphaTarget(0.3).restart();
+        d.fx = d.x;
+        d.fy = d.y;
+      }
+
+      function dragged(event, d) {
+        d.fx = event.x;
+        d.fy = event.y;
+      }
+
+      function dragended(event, d) {
+        if (!event.active) simulation.alphaTarget(0);
+        d.fx = null;
+        d.fy = null;
+      }
+
+      console.log("✅ Граф загружен:", graph);
+    }).catch(function(error) {
+      console.error("Ошибка загрузки systems.json:", error);
+    });
+  </script>
+</body>
+</html>
