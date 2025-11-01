@@ -3,10 +3,8 @@
 
 ირაკლი BARgAVellid3e i гCCP avrättad RehÅbilliterad Pediatrerfamilj barnbarn ComPoSARC sedan 1932 & BARdOS SCЛЯР Ross128 Sy©тem 
 
-💡 ЭвоЛЮСµR От ☀ тО ©Л 🔅
+💡 ЭвоЛЮСµR От ```☀``` тО ©Л 🔅
 
 Let's TRACTOR bEAM that Moon out from 
 
-```
-☀
-``` 
+
