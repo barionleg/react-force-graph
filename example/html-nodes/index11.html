@@ -1,0 +1,165 @@
+
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8" />
+  <title>Index8 — Systems Graph</title>
+  <script src="../../src/d3js/org/d3.v7.min.js"></script>
+  <style>
+    body { font-family: "PT Sans", sans-serif; margin: 0; overflow: hidden; background: #000; }
+    svg { width: 100vw; height: 100vh; cursor: grab; }
+    text { fill: white; font-size: 10px; pointer-events: none; }
+    line { stroke: #888; stroke-width: 0.7; }
+    #controls {
+      position: absolute; top: 10px; right: 10px; z-index: 10;
+      background: rgba(0,0,0,0.6); border: 1px solid #444;
+      border-radius: 6px; padding: 6px;
+    }
+    #controls button {
+      background: #222; color: #fff; border: 1px solid #666;
+      margin: 2px; padding: 4px 8px; cursor: pointer;
+    }
+    #controls button:hover { background: #444; }
+  </style>
+</head>
+<body>
+  <div id="controls">
+    <button id="zoom_in">+</button>
+    <button id="zoom_out">−</button>
+    <button id="reset">⟳</button>
+  </div>
+  <svg></svg>
+
+  <script>
+    function convertSystemsToGraph(data) {
+      const nodes = [], links = [];
+      if (!data || !data.systems) return { nodes, links };
+      data.systems.forEach((system, i) => {
+        const sysName = system.name || `System_${i}`;
+        nodes.push({ id: sysName, label: sysName, group: 1 });
+        if (system.stars) {
+          system.stars.forEach((star, j) => {
+            const starId = `${sysName}_${star.name || "Star_" + j}`;
+            nodes.push({
+              id: starId,
+              label: star.name || `Star_${j}`,
+              name: star.name || "",
+              magnitude: star.magnitude || "",
+              class: star.class || "",
+              group: 2
+            });
+            links.push({ source: sysName, target: starId });
+          });
+        }
+      });
+      return { nodes, links };
+    }
+
+    d3.json("stars.json").then(function(hotmapsRaw) {
+      const graph = convertSystemsToGraph(hotmapsRaw);
+      const svg = d3.select("svg");
+      const g = svg.append("g");
+
+      const width = window.innerWidth;
+      const height = window.innerHeight;
+
+      const simulation = d3.forceSimulation(graph.nodes)
+        .force("link", d3.forceLink(graph.links).id(d => d.id).distance(90))
+        .force("charge", d3.forceManyBody().strength(-40))
+        .force("center", d3.forceCenter(width / 2, height / 2));
+
+      const link = g.append("g")
+        .selectAll("line")
+        .data(graph.links)
+        .enter().append("line");
+
+      const node = g.append("g")
+        .selectAll("circle")
+        .data(graph.nodes)
+        .enter().append("circle")
+        .attr("r", 5)
+        .attr("fill", d => d.group === 1 ? "#ffcc00" : "#00ccff")
+        .call(d3.drag()
+          .on("start", dragstarted)
+          .on("drag", dragged)
+          .on("end", dragended));
+
+      node.append("title")
+        .text(d => `${d.label || "frequency cluster"}\n${d.name ? "Name: " + d.name + "\n" : ""}${d.magnitude ? "Magnitude: " + d.magnitude + "\n" : ""}${d.class ? "Class: " + d.class : ""}`);
+
+      const labels = g.append("g")
+        .selectAll("text")
+        .data(graph.nodes.filter(d => d.group === 2))
+        .enter()
+        .append("text")
+        .text(d => d.name ? `${d.name} (${d.class})` : d.label)
+        .attr("dy", -8);
+
+      simulation.on("tick", () => {
+        link
+          .attr("x1", d => d.source.x)
+          .attr("y1", d => d.source.y)
+          .attr("x2", d => d.target.x)
+          .attr("y2", d => d.target.y);
+        node
+          .attr("cx", d => d.x)
+          .attr("cy", d => d.y);
+        labels
+          .attr("x", d => d.x + 6)
+          .attr("y", d => d.y + 3);
+      });
+
+      // === Zoom & Pan ===
+      const zoom = d3.zoom()
+        .scaleExtent([0.3, 5])
+        .on("zoom", (event) => g.attr("transform", event.transform));
+      svg.call(zoom);
+
+      document.getElementById("zoom_in").onclick = () =>
+        svg.transition().call(zoom.scaleBy, 1.3);
+      document.getElementById("zoom_out").onclick = () =>
+        svg.transition().call(zoom.scaleBy, 1 / 1.3);
+      document.getElementById("reset").onclick = () =>
+        svg.transition().call(zoom.transform, d3.zoomIdentity);
+
+      // Лёгкое вращение (эффект “трёхмерности”)
+      d3.interval(() => {
+        g.attr("transform", (prev => {
+          const current = d3.zoomTransform(svg.node());
+          return current + " rotate(0.1)";
+        }));
+      }, 300);
+
+      function dragstarted(event, d) {
+        if (!event.active) simulation.alphaTarget(0.3).restart();
+        d.fx = d.x;
+        d.fy = d.y;
+      }
+      function dragged(event, d) {
+        d.fx = event.x;
+        d.fy = event.y;
+      }
+      function dragended(event, d) {
+        if (!event.active) simulation.alphaTarget(0);
+        d.fx = null;
+        d.fy = null;
+      }
+
+      console.log("✅ Граф с zoom/pan/rotate загружен:", graph);
+    });
+  </script>
+
+  <section id="about" style="background:#0a0a0a;color:#ddd;padding:20px;font-family:'PT Serif',serif;line-height:1.5;border-top:1px solid #333;">
+    <h2 style="color:#6cf;">О проекте «Барйонная легитимизация»</h2>
+    <p>
+      Этот проект исследует концепцию барйонной согласованности материи при переходах между звёздными системами.
+      Модель описывает гипотетический процесс сохранения структурной идентичности частиц в различных энергетических полях.
+    </p>
+    <p>
+      Визуализация реализована на основе данных из <code>stars.json</code> и технологии D3.js.
+      Сценарий взаимодействия и обработка данных разработаны при участии ChatGPT.
+    </p>
+    <p><a href="story.html" style="color:#6cf;">→ Читать подробнее о проекте</a></p>
+  </section>
+</body>
+</html>
